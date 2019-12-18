@@ -1,4 +1,4 @@
-**[1日1種ポケモンをうろ覚えで描くページ]()**
+**[1日1種ポケモンをうろ覚えで描くページ](https://yeshi-sandbox.firebaseapp.com/uropoke/)**
 
 やってる人 @Yeshi [Twitter](https://twitter.com/Yeshi) [Mastodon](https://pokemon.mastportal.info/@yeshi)
 
@@ -19,6 +19,7 @@
 ## TODOメモ
 
 ### 絶対実装したいコア機能
+* クリックで画像拡大＆見て描いたイラストを表示（今日中に実装したい！）
 * 画像をアップロードしてjsonを更新する機能を作る
   * ほんとは何かイケてるデータベースに格納して、jsonを書き出すapiを作ったりしたいよね
 * 今日のお題抽選機能を作る
