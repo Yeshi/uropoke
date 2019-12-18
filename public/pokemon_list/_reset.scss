@@ -1,0 +1,30 @@
+/* Reset CSS
+============== */
+body, h1, h2, h3, h4, video, ul, li, dl, dt, dd, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "ヒラギノ角ゴ ProN W3", Meiryo, sans-serif;
+    background: #d7d2cc;
+}
+
+ul, li {
+    list-style: none;
+}
+img {
+    max-width: 100%;
+    vertical-align: middle;
+}
+iframe {
+    max-width: 100%;
+}
+
+a {
+    color: #c8569a;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
