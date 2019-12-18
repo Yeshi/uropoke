@@ -50,6 +50,26 @@ a:hover {
   font-weight: normal;
 }
 
+.head .about-link {
+  display: block;
+  position: absolute;
+  top: 8px;
+  right: 20px;
+  background: #666;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #fff;
+  line-height: 20px;
+}
+
+.head .about-link:hover {
+  background: #333;
+  text-decoration: none;
+}
+
 .img-list {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -86,6 +106,6 @@ a:hover {
 
 @media (max-width: 600px) {
   .img-list li {
-    width: calc(100%/4);
+    width: calc(100% / 4);
   }
 }
