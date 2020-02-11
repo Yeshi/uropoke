@@ -24,14 +24,14 @@
 				<ul class="img-list">
 					<li v-for="(item, index) in items">
 						<div v-if="item.drawings[0]">
-							<router-link to="/detail">
+							<router-link to="/detail/$index">
 								<img
 									:src="'images/'+item.drawings[0].file"
 									:alt="item.pokeName"
 								/>
 							</router-link>
 						</div>
-						<div v-else><span class="none">{{ index + 1 }}</span></div>
+						<div v-else><span class="none">{{ index + 1 }} : {{item.pokeName}}</span></div>
 					</li>
 				</ul>
 			</div>

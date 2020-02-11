@@ -1,6 +1,6 @@
-const detailElm = { template: "<div>test</div>" };
+const detailElm = { template: "<div>{{ $route.params.no }}</div>" };
 const routers = {
-	path: "/detail",
+	path: "/detail:no",
 	component: detailElm
 };
 
@@ -8,7 +8,7 @@ const router = new VueRouter({
 	routers
 });
 
-var app = new Vue({
+const app = new Vue({
 	router,
 	el: "#result",
 	data: {
