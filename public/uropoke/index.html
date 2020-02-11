@@ -1,41 +1,45 @@
 <!DOCTYPE html>
 <html lang="ja">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-		<title>1日1種ポケモンをうろ覚えで描くページ</title>
-		<link rel="stylesheet" href="dest/style.css" />
-		<!-- 開発バージョン、便利なコンソールの警告が含まれています -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>1日1種ポケモンをうろ覚えで描くページ</title>
+    <link rel="stylesheet" href="dest/style.css" />
+    <!-- 開発バージョン、便利なコンソールの警告が含まれています
 		<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-		<!-- 本番バージョン、サイズと速度のために最適化されています
-		<script src="https://cdn.jsdelivr.net/npm/vue"></script>
-		-->
-		<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-		<script src="https://unpkg.com/vue-router/dist/vue-router.js"></script>
-	</head>
-	<body>
-		<div class="wrap">
-			<div class="head">
-				<h1>1日1種ポケモンをうろ覚えで描くページ</h1>
-				<a href="https://github.com/Yeshi/uropoke/blob/master/public/uropoke/readme.md" class="about-link" target="_blank">？</a>
-			</div>
-			<div id="result" class="contents">
-				<ul class="img-list">
-					<li v-for="(item, index) in items">
-						<div v-if="item.drawings[0]">
-							<router-link to="/detail/$index">
-								<img
-									:src="'images/'+item.drawings[0].file"
-									:alt="item.pokeName"
-								/>
-							</router-link>
-						</div>
-						<div v-else><span class="none">{{ index + 1 }} : {{item.pokeName}}</span></div>
-					</li>
-				</ul>
-			</div>
-		</div>
-		<script src="./app.js"></script>
-	</body>
+		 -->
+    <!-- 本番バージョン、サイズと速度のために最適化されています -->
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="head">
+        <h1>1日1種ポケモンをうろ覚えで描くページ</h1>
+        <a
+          href="https://github.com/Yeshi/uropoke/blob/master/public/uropoke/readme.md"
+          class="about-link"
+          target="_blank"
+          >？</a
+        >
+      </div>
+      <div id="result" class="contents">
+        <ul class="img-list">
+          <li v-for="(item, index) in items">
+            <div v-if="item.drawings[0]">
+              <img
+                :src="'images/'+item.drawings[0].file"
+                :alt="item.pokeName"
+              />
+            </div>
+            <div v-else>
+              <span class="none">{{ index + 1 }} : {{item.pokeName}}</span>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <script src="./app.js"></script>
+  </body>
 </html>
