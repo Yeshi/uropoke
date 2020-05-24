@@ -1,2801 +1,7273 @@
 [
-  { "pokeName": "フシギダネ", "drawings": [] },
-  { "pokeName": "フシギソウ", "drawings": [] },
-  { "pokeName": "フシギバナ", "drawings": [] },
+  {
+    "pokeName": "フシギダネ",
+    "drawings": []
+  },
+  {
+    "pokeName": "フシギソウ",
+    "drawings": [
+      {
+        "file": "002_200303_1.jpeg",
+        "date": "2020-03-03"
+      }
+    ]
+  },
+  {
+    "pokeName": "フシギバナ",
+    "drawings": []
+  },
   {
     "pokeName": "ヒトカゲ",
-    "drawings": [{ "file": "004_190224_1.jpeg", "date": "190224" }]
+    "drawings": [
+      {
+        "file": "004_190224_1.jpeg",
+        "date": "2019-02-24"
+      }
+    ]
   },
   {
     "pokeName": "リザード",
-    "drawings": [{ "file": "005_190413_1.jpeg", "date": "190413" }]
+    "drawings": [
+      {
+        "file": "005_190413_1.jpeg",
+        "date": "2019-04-13"
+      }
+    ]
   },
-  { "pokeName": "リザードン", "drawings": [] },
-  { "pokeName": "ゼニガメ", "drawings": [] },
+  {
+    "pokeName": "リザードン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ゼニガメ",
+    "drawings": []
+  },
   {
     "pokeName": "カメール",
-    "drawings": [{ "file": "008_190613_1.jpeg", "date": "190613" }]
+    "drawings": [
+      {
+        "file": "008_190613_1.jpeg",
+        "date": "2019-06-13"
+      }
+    ]
   },
-  { "pokeName": "カメックス", "drawings": [] },
+  {
+    "pokeName": "カメックス",
+    "drawings": []
+  },
   {
     "pokeName": "キャタピー",
-    "drawings": [{ "file": "010_190311_1.jpeg", "date": "190311" }]
+    "drawings": [
+      {
+        "file": "010_190311_1.jpeg",
+        "date": "2019-03-11"
+      }
+    ]
   },
   {
     "pokeName": "トランセル",
-    "drawings": [{ "file": "011_190416_1.jpeg", "date": "190416" }]
+    "drawings": [
+      {
+        "file": "011_190416_1.jpeg",
+        "date": "2019-04-16"
+      }
+    ]
   },
   {
     "pokeName": "バタフリー",
-    "drawings": [{ "file": "012_190709_1.jpeg", "date": "190709" }]
+    "drawings": [
+      {
+        "file": "012_190709_1.jpeg",
+        "date": "2019-07-09"
+      }
+    ]
   },
   {
     "pokeName": "ビードル",
-    "drawings": [{ "file": "013_200104_1.jpeg", "date": "200104" }]
+    "drawings": [
+      {
+        "file": "013_200104_1.jpeg",
+        "date": "2020-01-04"
+      }
+    ]
   },
   {
     "pokeName": "コクーン",
-    "drawings": [{ "file": "014_190504_1.jpeg", "date": "190504" }]
+    "drawings": [
+      {
+        "file": "014_190504_1.jpeg",
+        "date": "2019-05-04"
+      }
+    ]
   },
   {
     "pokeName": "スピアー",
     "drawings": [
-      { "file": "015_200130_1.jpeg", "date": "200130" },
-      { "file": "015_200130_2.jpeg", "date": "200130" }
+      {
+        "file": "015_200130_1.jpeg",
+        "date": "2020-01-30"
+      },
+      {
+        "file": "015_200130_2.jpeg",
+        "date": "2020-01-30"
+      }
     ]
   },
   {
     "pokeName": "ポッポ",
     "drawings": [
-      { "file": "016_190804_1.jpeg", "date": "190804" },
-      { "file": "016_190804_2.jpeg", "date": "190804" }
+      {
+        "file": "016_190804_1.jpeg",
+        "date": "2019-08-04"
+      },
+      {
+        "file": "016_190804_2.jpeg",
+        "date": "2019-08-04"
+      }
     ]
   },
-  { "pokeName": "ピジョン", "drawings": [] },
+  {
+    "pokeName": "ピジョン",
+    "drawings": []
+  },
   {
     "pokeName": "ピジョット",
     "drawings": [
-      { "file": "018_191214_1.jpeg", "date": "191214" },
-      { "file": "018_191214_2.jpeg", "date": "191214" }
+      {
+        "file": "018_191214_1.jpeg",
+        "date": "2019-12-14"
+      },
+      {
+        "file": "018_191214_2.jpeg",
+        "date": "2019-12-14"
+      }
     ]
   },
   {
     "pokeName": "コラッタ",
-    "drawings": [{ "file": "019_190803_1.jpeg", "date": "190803" }]
+    "drawings": [
+      {
+        "file": "019_190803_1.jpeg",
+        "date": "2019-08-03"
+      }
+    ]
   },
-  { "pokeName": "ラッタ", "drawings": [] },
-  { "pokeName": "オニスズメ", "drawings": [] },
+  {
+    "pokeName": "ラッタ",
+    "drawings": []
+  },
+  {
+    "pokeName": "オニスズメ",
+    "drawings": []
+  },
   {
     "pokeName": "オニドリル",
-    "drawings": [{ "file": "022_190705_1.jpeg", "date": "190705" }]
+    "drawings": [
+      {
+        "file": "022_190705_1.jpeg",
+        "date": "2019-07-05"
+      }
+    ]
   },
   {
     "pokeName": "アーボ",
     "drawings": [
-      { "file": "023_191019_1.jpeg", "date": "191019" },
-      { "file": "023_191019_2.jpeg", "date": "191019" }
+      {
+        "file": "023_191019_1.jpeg",
+        "date": "2019-10-19"
+      },
+      {
+        "file": "023_191019_2.jpeg",
+        "date": "2019-10-19"
+      }
     ]
   },
-  { "pokeName": "アーボック", "drawings": [] },
+  {
+    "pokeName": "アーボック",
+    "drawings": []
+  },
   {
     "pokeName": "ピカチュウ",
-    "drawings": [{ "file": "025_191119_1.jpeg", "date": "191119" }]
+    "drawings": [
+      {
+        "file": "025_191119_1.jpeg",
+        "date": "2019-11-19"
+      }
+    ]
   },
   {
     "pokeName": "ライチュウ",
-    "drawings": [{ "file": "026_191203_1.jpeg", "date": "191203" }]
+    "drawings": [
+      {
+        "file": "026_191203_1.jpeg",
+        "date": "2019-12-03"
+      }
+    ]
   },
   {
     "pokeName": "サンド",
     "drawings": [
-      { "file": "027_191220_1.jpeg", "date": "191220" },
-      { "file": "027_191220_2.jpeg", "date": "191220" }
+      {
+        "file": "027_191220_1.jpeg",
+        "date": "2019-12-20"
+      },
+      {
+        "file": "027_191220_2.jpeg",
+        "date": "2019-12-20"
+      }
     ]
   },
   {
     "pokeName": "サンドパン",
     "drawings": [
-      { "file": "028_190721_1.jpeg", "date": "190721" },
-      { "file": "028_190721_2.jpeg", "date": "190721" }
+      {
+        "file": "028_190721_1.jpeg",
+        "date": "2019-07-21"
+      },
+      {
+        "file": "028_190721_2.jpeg",
+        "date": "2019-07-21"
+      }
     ]
   },
   {
     "pokeName": "ニドラン♀",
     "drawings": [
-      { "file": "029_191225_1.jpeg", "date": "191225" },
-      { "file": "029_191225_2.jpeg", "date": "191225" }
+      {
+        "file": "029_191225_1.jpeg",
+        "date": "2019-12-25"
+      },
+      {
+        "file": "029_191225_2.jpeg",
+        "date": "2019-12-25"
+      }
     ]
   },
-  { "pokeName": "ニドリーナ", "drawings": [] },
+  {
+    "pokeName": "ニドリーナ",
+    "drawings": []
+  },
   {
     "pokeName": "ニドクイン",
-    "drawings": [{ "file": "031_190809_1.jpeg", "date": "190809" }]
+    "drawings": [
+      {
+        "file": "031_190809_1.jpeg",
+        "date": "2019-08-09"
+      }
+    ]
   },
   {
     "pokeName": "ニドラン♂",
     "drawings": [
-      { "file": "032_190514_1.jpeg", "date": "190514" },
-      { "file": "032_190514_2.jpeg", "date": "190514" }
+      {
+        "file": "032_190514_1.jpeg",
+        "date": "2019-05-14"
+      },
+      {
+        "file": "032_190514_2.jpeg",
+        "date": "2019-05-14"
+      }
     ]
   },
   {
     "pokeName": "ニドリーノ",
     "drawings": [
-      { "file": "033_190902_1.jpeg", "date": "190902" },
-      { "file": "033_190902_2.jpeg", "date": "190902" }
+      {
+        "file": "033_190902_1.jpeg",
+        "date": "2019-09-02"
+      },
+      {
+        "file": "033_190902_2.jpeg",
+        "date": "2019-09-02"
+      }
     ]
   },
   {
     "pokeName": "ニドキング",
     "drawings": [
-      { "file": "034_190126_1.jpeg", "date": "190126" },
-      { "file": "034_190126_2.jpeg", "date": "190126" }
+      {
+        "file": "034_190126_1.jpeg",
+        "date": "2019-01-26"
+      },
+      {
+        "file": "034_190126_2.jpeg",
+        "date": "2019-01-26"
+      }
     ]
   },
-  { "pokeName": "ピッピ", "drawings": [] },
+  {
+    "pokeName": "ピッピ",
+    "drawings": []
+  },
   {
     "pokeName": "ピクシー",
-    "drawings": [{ "file": "036_191222_1.jpeg", "date": "191222" }]
+    "drawings": [
+      {
+        "file": "036_191222_1.jpeg",
+        "date": "2019-12-22"
+      }
+    ]
   },
-  { "pokeName": "ロコン", "drawings": [] },
+  {
+    "pokeName": "ロコン",
+    "drawings": [
+      {
+        "file": "037_200317_1.jpeg",
+        "date": "2020-03-17"
+      },
+      {
+        "file": "037_200317_2.jpeg",
+        "date": "2020-03-17"
+      }
+    ]
+  },
   {
     "pokeName": "キュウコン",
-    "drawings": [{ "file": "038_190602_1.jpeg", "date": "190602" }]
+    "drawings": [
+      {
+        "file": "038_190602_1.jpeg",
+        "date": "2019-06-02"
+      }
+    ]
   },
   {
     "pokeName": "プリン",
-    "drawings": [{ "file": "039_191110_1.jpeg", "date": "191110" }]
+    "drawings": [
+      {
+        "file": "039_191110_1.jpeg",
+        "date": "2019-11-10"
+      }
+    ]
   },
-  { "pokeName": "プクリン", "drawings": [] },
-  { "pokeName": "ズバット", "drawings": [] },
+  {
+    "pokeName": "プクリン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ズバット",
+    "drawings": []
+  },
   {
     "pokeName": "ゴルバット",
     "drawings": [
-      { "file": "042_190319_1.jpeg", "date": "190319" },
-      { "file": "042_190319_2.jpeg", "date": "190319" }
+      {
+        "file": "042_190319_1.jpeg",
+        "date": "2019-03-19"
+      },
+      {
+        "file": "042_190319_2.jpeg",
+        "date": "2019-03-19"
+      }
     ]
   },
   {
     "pokeName": "ナゾノクサ",
     "drawings": [
-      { "file": "043_190511_1.jpeg", "date": "190511" },
-      { "file": "043_190511_2.jpeg", "date": "190511" }
+      {
+        "file": "043_190511_1.jpeg",
+        "date": "2019-05-11"
+      },
+      {
+        "file": "043_190511_2.jpeg",
+        "date": "2019-05-11"
+      }
     ]
   },
   {
     "pokeName": "クサイハナ",
     "drawings": [
-      { "file": "044_190606_1.jpeg", "date": "190606" },
-      { "file": "044_190606_2.jpeg", "date": "190606" }
+      {
+        "file": "044_190606_1.jpeg",
+        "date": "2019-06-06"
+      },
+      {
+        "file": "044_190606_2.jpeg",
+        "date": "2019-06-06"
+      }
     ]
   },
   {
     "pokeName": "ラフレシア",
-    "drawings": [{ "file": "045_190526_1.png", "date": "190526" }]
+    "drawings": [
+      {
+        "file": "045_190526_1.png",
+        "date": "2019-05-26"
+      }
+    ]
   },
   {
     "pokeName": "パラス",
     "drawings": [
-      { "file": "046_190722_1.jpeg", "date": "190722" },
-      { "file": "046_190722_2.jpeg", "date": "190722" }
+      {
+        "file": "046_190722_1.jpeg",
+        "date": "2019-07-22"
+      },
+      {
+        "file": "046_190722_2.jpeg",
+        "date": "2019-07-22"
+      }
     ]
   },
   {
     "pokeName": "パラセクト",
-    "drawings": [{ "file": "047_191207_1.jpeg", "date": "191207" }]
+    "drawings": [
+      {
+        "file": "047_191207_1.jpeg",
+        "date": "2019-12-07"
+      }
+    ]
   },
   {
     "pokeName": "コンパン",
     "drawings": [
-      { "file": "048_190222_1.jpeg", "date": "190222" },
-      { "file": "048_190222_2.jpeg", "date": "190222" }
+      {
+        "file": "048_190222_1.jpeg",
+        "date": "2019-02-22"
+      },
+      {
+        "file": "048_190222_2.jpeg",
+        "date": "2019-02-22"
+      }
     ]
   },
   {
     "pokeName": "モルフォン",
     "drawings": [
-      { "file": "049_191008_1.jpeg", "date": "191008" },
-      { "file": "049_191008_2.jpeg", "date": "191008" }
+      {
+        "file": "049_191008_1.jpeg",
+        "date": "2019-10-08"
+      },
+      {
+        "file": "049_191008_2.jpeg",
+        "date": "2019-10-08"
+      }
     ]
   },
   {
     "pokeName": "ディグダ",
-    "drawings": [{ "file": "050_200117_1.jpeg", "date": "200117" }]
+    "drawings": [
+      {
+        "file": "050_200117_1.jpeg",
+        "date": "2020-01-17"
+      }
+    ]
   },
-  { "pokeName": "ダグトリオ", "drawings": [] },
+  {
+    "pokeName": "ダグトリオ",
+    "drawings": []
+  },
   {
     "pokeName": "ニャース",
-    "drawings": [{ "file": "052_190225_1.jpeg", "date": "190225" }]
+    "drawings": [
+      {
+        "file": "052_190225_1.jpeg",
+        "date": "2019-02-25"
+      }
+    ]
   },
   {
     "pokeName": "ペルシアン",
     "drawings": [
-      { "file": "053_190228_1.jpeg", "date": "190228" },
-      { "file": "053_190725_1.jpeg", "date": "190725" },
-      { "file": "053_190725_2.jpeg", "date": "190725" }
+      {
+        "file": "053_190228_1.jpeg",
+        "date": "2019-02-28"
+      },
+      {
+        "file": "053_190725_1.jpeg",
+        "date": "2019-07-25"
+      },
+      {
+        "file": "053_190725_2.jpeg",
+        "date": "2019-07-25"
+      }
     ]
   },
-  { "pokeName": "コダック", "drawings": [] },
-  { "pokeName": "ゴルダック", "drawings": [] },
+  {
+    "pokeName": "コダック",
+    "drawings": []
+  },
+  {
+    "pokeName": "ゴルダック",
+    "drawings": []
+  },
   {
     "pokeName": "マンキー",
-    "drawings": [{ "file": "056_190808_1.jpeg", "date": "190808" }]
+    "drawings": [
+      {
+        "file": "056_190808_1.jpeg",
+        "date": "2019-08-08"
+      }
+    ]
   },
   {
     "pokeName": "オコリザル",
     "drawings": [
-      { "file": "057_190202_1.jpeg", "date": "190202" },
-      { "file": "057_190202_2.jpeg", "date": "190202" }
+      {
+        "file": "057_190202_1.jpeg",
+        "date": "2019-02-02"
+      },
+      {
+        "file": "057_190202_2.jpeg",
+        "date": "2019-02-02"
+      }
     ]
   },
-  { "pokeName": "ガーディ", "drawings": [] },
-  { "pokeName": "ウインディ", "drawings": [] },
-  { "pokeName": "ニョロモ", "drawings": [] },
-  { "pokeName": "ニョロゾ", "drawings": [] },
-  { "pokeName": "ニョロボン", "drawings": [] },
+  {
+    "pokeName": "ガーディ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ウインディ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ニョロモ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ニョロゾ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ニョロボン",
+    "drawings": []
+  },
   {
     "pokeName": "ケーシィ",
     "drawings": [
-      { "file": "063_190612_1.jpeg", "date": "190612" },
-      { "file": "063_190612_2.jpeg", "date": "190612" }
+      {
+        "file": "063_190612_1.jpeg",
+        "date": "2019-06-12"
+      },
+      {
+        "file": "063_190612_2.jpeg",
+        "date": "2019-06-12"
+      }
     ]
   },
   {
     "pokeName": "ユンゲラー",
     "drawings": [
-      { "file": "064_191029_1.jpeg", "date": "191029" },
-      { "file": "064_191029_2.jpeg", "date": "191029" }
+      {
+        "file": "064_191029_1.jpeg",
+        "date": "2019-10-29"
+      },
+      {
+        "file": "064_191029_2.jpeg",
+        "date": "2019-10-29"
+      }
     ]
   },
-  { "pokeName": "フーディン", "drawings": [] },
+  {
+    "pokeName": "フーディン",
+    "drawings": [
+      {
+        "file": "065_200426_1.jpeg",
+        "date": "2020-04-26"
+      }
+    ]
+  },
   {
     "pokeName": "ワンリキー",
-    "drawings": [{ "file": "066_190909_1.jpeg", "date": "190909" }]
+    "drawings": [
+      {
+        "file": "066_190909_1.jpeg",
+        "date": "2019-09-09"
+      }
+    ]
   },
   {
     "pokeName": "ゴーリキー",
-    "drawings": [{ "file": "067_190615_1.jpeg", "date": "190615" }]
+    "drawings": [
+      {
+        "file": "067_190615_1.jpeg",
+        "date": "2019-06-15"
+      }
+    ]
   },
   {
     "pokeName": "カイリキー",
-    "drawings": [{ "file": "068_190201_1.jpeg", "date": "190201" }]
+    "drawings": [
+      {
+        "file": "068_190201_1.jpeg",
+        "date": "2019-02-01"
+      }
+    ]
   },
-  { "pokeName": "マダツボミ", "drawings": [] },
+  {
+    "pokeName": "マダツボミ",
+    "drawings": []
+  },
   {
     "pokeName": "ウツドン",
     "drawings": [
-      { "file": "070_190301_1.jpeg", "date": "190301" },
-      { "file": "070_190303_2.jpeg", "date": "190303" }
+      {
+        "file": "070_190301_1.jpeg",
+        "date": "2019-03-01"
+      },
+      {
+        "file": "070_190303_2.jpeg",
+        "date": "2019-03-03"
+      }
     ]
   },
-  { "pokeName": "ウツボット", "drawings": [] },
-  { "pokeName": "メノクラゲ", "drawings": [] },
+  {
+    "pokeName": "ウツボット",
+    "drawings": [
+      {
+        "file": "071_200219_1.jpeg",
+        "date": "2020-02-19"
+      },
+      {
+        "file": "071_200219_2.jpeg",
+        "date": "2020-02-19"
+      }
+    ]
+  },
+  {
+    "pokeName": "メノクラゲ",
+    "drawings": []
+  },
   {
     "pokeName": "ドククラゲ",
     "drawings": [
-      { "file": "073_190320_1.jpeg", "date": "190320" },
-      { "file": "073_190320_2.jpeg", "date": "190320" },
-      { "file": "073_191116_1.jpeg", "date": "191116" }
+      {
+        "file": "073_190320_1.jpeg",
+        "date": "2019-03-20"
+      },
+      {
+        "file": "073_190320_2.jpeg",
+        "date": "2019-03-20"
+      },
+      {
+        "file": "073_191116_1.jpeg",
+        "date": "2019-11-16"
+      }
     ]
   },
-  { "pokeName": "イシツブテ", "drawings": [] },
+  {
+    "pokeName": "イシツブテ",
+    "drawings": []
+  },
   {
     "pokeName": "ゴローン",
     "drawings": [
-      { "file": "075_190329_1.jpeg", "date": "190329" },
-      { "file": "075_191124_1.jpeg", "date": "191124" }
+      {
+        "file": "075_190329_1.jpeg",
+        "date": "2019-03-29"
+      },
+      {
+        "file": "075_191124_1.jpeg",
+        "date": "2019-11-24"
+      }
     ]
   },
-  { "pokeName": "ゴローニャ", "drawings": [] },
+  {
+    "pokeName": "ゴローニャ",
+    "drawings": []
+  },
   {
     "pokeName": "ポニータ",
-    "drawings": [{ "file": "077_190525_1.jpeg", "date": "190525" }]
+    "drawings": [
+      {
+        "file": "077_190525_1.jpeg",
+        "date": "2019-05-25"
+      }
+    ]
   },
   {
     "pokeName": "ギャロップ",
-    "drawings": [{ "file": "078_190703_1.jpeg", "date": "190703" }]
+    "drawings": [
+      {
+        "file": "078_190703_1.jpeg",
+        "date": "2019-07-03"
+      }
+    ]
   },
   {
     "pokeName": "ヤドン",
-    "drawings": [{ "file": "079_190303_1.jpeg", "date": "190303" }]
+    "drawings": [
+      {
+        "file": "079_190303_1.jpeg",
+        "date": "2019-03-03"
+      }
+    ]
   },
-  { "pokeName": "ヤドラン", "drawings": [] },
+  {
+    "pokeName": "ヤドラン",
+    "drawings": []
+  },
   {
     "pokeName": "コイル",
-    "drawings": [{ "file": "081_190814_1.jpeg", "date": "190814" }]
+    "drawings": [
+      {
+        "file": "081_190814_1.jpeg",
+        "date": "2019-08-14"
+      }
+    ]
   },
   {
     "pokeName": "レアコイル",
-    "drawings": [{ "file": "082_191022_1.jpeg", "date": "191022" }]
+    "drawings": [
+      {
+        "file": "082_191022_1.jpeg",
+        "date": "2019-10-22"
+      }
+    ]
   },
   {
     "pokeName": "カモネギ",
-    "drawings": [{ "file": "083_190310_1.jpeg", "date": "190310" }]
+    "drawings": [
+      {
+        "file": "083_190310_1.jpeg",
+        "date": "2019-03-10"
+      }
+    ]
   },
   {
     "pokeName": "ドードー",
-    "drawings": [{ "file": "084_190521_1.jpeg", "date": "190521" }]
+    "drawings": [
+      {
+        "file": "084_190521_1.jpeg",
+        "date": "2019-05-21"
+      }
+    ]
   },
   {
     "pokeName": "ドードリオ",
-    "drawings": [{ "file": "085_190626_1.jpeg", "date": "190626" }]
+    "drawings": [
+      {
+        "file": "085_190626_1.jpeg",
+        "date": "2019-06-26"
+      }
+    ]
   },
-  { "pokeName": "パウワウ", "drawings": [] },
-  { "pokeName": "ジュゴン", "drawings": [] },
+  {
+    "pokeName": "パウワウ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ジュゴン",
+    "drawings": []
+  },
   {
     "pokeName": "ベトベター",
-    "drawings": [{ "file": "088_190701_1.jpeg", "date": "190701" }]
+    "drawings": [
+      {
+        "file": "088_190701_1.jpeg",
+        "date": "2019-07-01"
+      }
+    ]
   },
-  { "pokeName": "ベトベトン", "drawings": [] },
-  { "pokeName": "シェルダー", "drawings": [] },
+  {
+    "pokeName": "ベトベトン",
+    "drawings": []
+  },
+  {
+    "pokeName": "シェルダー",
+    "drawings": []
+  },
   {
     "pokeName": "パルシェン",
-    "drawings": [{ "file": "091_200124_1.jpeg", "date": "200124" }]
+    "drawings": [
+      {
+        "file": "091_200124_1.jpeg",
+        "date": "2020-01-24"
+      }
+    ]
   },
   {
     "pokeName": "ゴース",
-    "drawings": [{ "file": "092_190520_1.jpeg", "date": "190520" }]
+    "drawings": [
+      {
+        "file": "092_190520_1.jpeg",
+        "date": "2019-05-20"
+      }
+    ]
   },
   {
     "pokeName": "ゴースト",
     "drawings": [
-      { "file": "093_190208_1.jpeg", "date": "190208" },
-      { "file": "093_190208_2.jpeg", "date": "190208" }
+      {
+        "file": "093_190208_1.jpeg",
+        "date": "2019-02-08"
+      },
+      {
+        "file": "093_190208_2.jpeg",
+        "date": "2019-02-08"
+      }
     ]
   },
   {
     "pokeName": "ゲンガー",
     "drawings": [
-      { "file": "094_190206_1.jpeg", "date": "190206" },
-      { "file": "094_190206_2.jpeg", "date": "190206" }
+      {
+        "file": "094_190206_1.jpeg",
+        "date": "2019-02-06"
+      },
+      {
+        "file": "094_190206_2.jpeg",
+        "date": "2019-02-06"
+      }
     ]
   },
-  { "pokeName": "イワーク", "drawings": [] },
+  {
+    "pokeName": "イワーク",
+    "drawings": []
+  },
   {
     "pokeName": "スリープ",
     "drawings": [
-      { "file": "096_190507_1.jpeg", "date": "190507" },
-      { "file": "096_190507_2.jpeg", "date": "190507" }
+      {
+        "file": "096_190507_1.jpeg",
+        "date": "2019-05-07"
+      },
+      {
+        "file": "096_190507_2.jpeg",
+        "date": "2019-05-07"
+      }
     ]
   },
   {
     "pokeName": "スリーパー",
     "drawings": [
-      { "file": "097_191002_1.jpeg", "date": "191002" },
-      { "file": "097_191002_2.jpeg", "date": "191002" }
+      {
+        "file": "097_191002_1.jpeg",
+        "date": "2019-10-02"
+      },
+      {
+        "file": "097_191002_2.jpeg",
+        "date": "2019-10-02"
+      }
     ]
   },
-  { "pokeName": "クラブ", "drawings": [] },
-  { "pokeName": "キングラー", "drawings": [] },
-  { "pokeName": "ビリリダマ", "drawings": [] },
+  {
+    "pokeName": "クラブ",
+    "drawings": [
+      {
+        "file": "098_200513_1.jpeg",
+        "date": "2020-05-13"
+      },
+      {
+        "file": "098_200513_2.jpeg",
+        "date": "2020-05-13"
+      }
+    ]
+  },
+  {
+    "pokeName": "キングラー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ビリリダマ",
+    "drawings": []
+  },
   {
     "pokeName": "マルマイン",
-    "drawings": [{ "file": "101_191212_1.jpeg", "date": "191212" }]
+    "drawings": [
+      {
+        "file": "101_191212_1.jpeg",
+        "date": "2019-12-12"
+      }
+    ]
   },
   {
     "pokeName": "タマタマ",
-    "drawings": [{ "file": "102_190423_1.jpeg", "date": "190423" }]
+    "drawings": [
+      {
+        "file": "102_190423_1.jpeg",
+        "date": "2019-04-23"
+      }
+    ]
   },
   {
     "pokeName": "ナッシー",
-    "drawings": [{ "file": "103_190227_1.jpeg", "date": "190227" }]
+    "drawings": [
+      {
+        "file": "103_190227_1.jpeg",
+        "date": "2019-02-27"
+      }
+    ]
   },
   {
     "pokeName": "カラカラ",
-    "drawings": [{ "file": "104_190813_1.jpeg", "date": "190813" }]
+    "drawings": [
+      {
+        "file": "104_190813_1.jpeg",
+        "date": "2019-08-13"
+      }
+    ]
   },
   {
     "pokeName": "ガラガラ",
-    "drawings": [{ "file": "105_190308_1.jpeg", "date": "190308" }]
+    "drawings": [
+      {
+        "file": "105_190308_1.jpeg",
+        "date": "2019-03-08"
+      }
+    ]
   },
   {
     "pokeName": "サワムラー",
-    "drawings": [{ "file": "106_190522_1.jpeg", "date": "190522" }]
+    "drawings": [
+      {
+        "file": "106_190522_1.jpeg",
+        "date": "2019-05-22"
+      }
+    ]
   },
   {
     "pokeName": "エビワラー",
     "drawings": [
-      { "file": "107_191023_1.jpeg", "date": "191023" },
-      { "file": "107_191023_2.jpeg", "date": "191023" }
+      {
+        "file": "107_191023_1.jpeg",
+        "date": "2019-10-23"
+      },
+      {
+        "file": "107_191023_2.jpeg",
+        "date": "2019-10-23"
+      }
     ]
   },
   {
     "pokeName": "ベロリンガ",
-    "drawings": [{ "file": "108_190501_1.jpeg", "date": "190501" }]
+    "drawings": [
+      {
+        "file": "108_190501_1.jpeg",
+        "date": "2019-05-01"
+      }
+    ]
   },
-  { "pokeName": "ドガース", "drawings": [] },
+  {
+    "pokeName": "ドガース",
+    "drawings": [
+      {
+        "file": "109_200417_1.jpeg",
+        "date": "2020-04-17"
+      }
+    ]
+  },
   {
     "pokeName": "マタドガス",
     "drawings": [
-      { "file": "110_190318_1.jpeg", "date": "190318" },
-      { "file": "110_200118_1.jpeg", "date": "200118" }
+      {
+        "file": "110_190318_1.jpeg",
+        "date": "2019-03-18"
+      },
+      {
+        "file": "110_200118_1.jpeg",
+        "date": "2020-01-18"
+      }
     ]
   },
   {
     "pokeName": "サイホーン",
     "drawings": [
-      { "file": "111_191113_1.jpeg", "date": "191113" },
-      { "file": "111_191204_1.jpeg", "date": "191204" }
+      {
+        "file": "111_191113_1.jpeg",
+        "date": "2019-11-13"
+      },
+      {
+        "file": "111_191204_1.jpeg",
+        "date": "2019-12-04"
+      }
     ]
   },
-  { "pokeName": "サイドン", "drawings": [] },
+  {
+    "pokeName": "サイドン",
+    "drawings": []
+  },
   {
     "pokeName": "ラッキー",
-    "drawings": [{ "file": "113_190708_1.jpeg", "date": "190708" }]
+    "drawings": [
+      {
+        "file": "113_190708_1.jpeg",
+        "date": "2019-07-08"
+      }
+    ]
   },
   {
     "pokeName": "モンジャラ",
-    "drawings": [{ "file": "114_190510_1.jpeg", "date": "190510" }]
+    "drawings": [
+      {
+        "file": "114_190510_1.jpeg",
+        "date": "2019-05-10"
+      }
+    ]
   },
-  { "pokeName": "ガルーラ", "drawings": [] },
+  {
+    "pokeName": "ガルーラ",
+    "drawings": []
+  },
   {
     "pokeName": "タッツー",
     "drawings": [
-      { "file": "116_191101_1.jpeg", "date": "191101" },
-      { "file": "116_191101_2.jpeg", "date": "191101" }
+      {
+        "file": "116_191101_1.jpeg",
+        "date": "2019-11-01"
+      },
+      {
+        "file": "116_191101_2.jpeg",
+        "date": "2019-11-01"
+      }
     ]
   },
   {
     "pokeName": "シードラ",
     "drawings": [
-      { "file": "117_190927_1.jpeg", "date": "190927" },
-      { "file": "117_190927_2.jpeg", "date": "190927" }
+      {
+        "file": "117_190927_1.jpeg",
+        "date": "2019-09-27"
+      },
+      {
+        "file": "117_190927_2.jpeg",
+        "date": "2019-09-27"
+      }
     ]
   },
-  { "pokeName": "トサキント", "drawings": [] },
+  {
+    "pokeName": "トサキント",
+    "drawings": []
+  },
   {
     "pokeName": "アズマオウ",
     "drawings": [
-      { "file": "119_190928_1.jpeg", "date": "190928" },
-      { "file": "119_190928_2.jpeg", "date": "190928" }
+      {
+        "file": "119_190928_1.jpeg",
+        "date": "2019-09-28"
+      },
+      {
+        "file": "119_190928_2.jpeg",
+        "date": "2019-09-28"
+      }
     ]
   },
   {
     "pokeName": "ヒトデマン",
     "drawings": [
-      { "file": "120_191230_1.jpeg", "date": "191230" },
-      { "file": "120_191230_2.jpeg", "date": "191230" }
+      {
+        "file": "120_191230_1.jpeg",
+        "date": "2019-12-30"
+      },
+      {
+        "file": "120_191230_2.jpeg",
+        "date": "2019-12-30"
+      }
     ]
   },
   {
     "pokeName": "スターミー",
-    "drawings": [{ "file": "121_190823_1.jpeg", "date": "190823" }]
+    "drawings": [
+      {
+        "file": "121_190823_1.jpeg",
+        "date": "2019-08-23"
+      }
+    ]
   },
-  { "pokeName": "バリヤード", "drawings": [] },
-  { "pokeName": "ストライク", "drawings": [] },
-  { "pokeName": "ルージュラ", "drawings": [] },
+  {
+    "pokeName": "バリヤード",
+    "drawings": [
+      {
+        "file": "122_200301_1.jpeg",
+        "date": "2020-03-01"
+      },
+      {
+        "file": "122_200301_2.jpeg",
+        "date": "2020-03-01"
+      }
+    ]
+  },
+  {
+    "pokeName": "ストライク",
+    "drawings": []
+  },
+  {
+    "pokeName": "ルージュラ",
+    "drawings": []
+  },
   {
     "pokeName": "エレブー",
     "drawings": [
-      { "file": "125_190628_1.jpeg", "date": "190628" },
-      { "file": "125_190628_2.jpeg", "date": "190628" }
+      {
+        "file": "125_190628_1.jpeg",
+        "date": "2019-06-28"
+      },
+      {
+        "file": "125_190628_2.jpeg",
+        "date": "2019-06-28"
+      }
     ]
   },
   {
     "pokeName": "ブーバー",
     "drawings": [
-      { "file": "126_190509_1.jpeg", "date": "190509" },
-      { "file": "126_190509_2.jpeg", "date": "190509" }
+      {
+        "file": "126_190509_1.jpeg",
+        "date": "2019-05-09"
+      },
+      {
+        "file": "126_190509_2.jpeg",
+        "date": "2019-05-09"
+      }
     ]
   },
-  { "pokeName": "カイロス", "drawings": [] },
+  {
+    "pokeName": "カイロス",
+    "drawings": []
+  },
   {
     "pokeName": "ケンタロス",
     "drawings": [
-      { "file": "128_191012_1.jpeg", "date": "191012" },
-      { "file": "128_191012_2.jpeg", "date": "191012" }
+      {
+        "file": "128_191012_1.jpeg",
+        "date": "2019-10-12"
+      },
+      {
+        "file": "128_191012_2.jpeg",
+        "date": "2019-10-12"
+      }
     ]
   },
   {
     "pokeName": "コイキング",
-    "drawings": [{ "file": "129_190502_1.jpeg", "date": "190502" }]
+    "drawings": [
+      {
+        "file": "129_190502_1.jpeg",
+        "date": "2019-05-02"
+      }
+    ]
   },
   {
     "pokeName": "ギャラドス",
     "drawings": [
-      { "file": "130_190921_1.jpeg", "date": "190921" },
-      { "file": "130_190921_2.jpeg", "date": "190921" }
+      {
+        "file": "130_190921_1.jpeg",
+        "date": "2019-09-21"
+      },
+      {
+        "file": "130_190921_2.jpeg",
+        "date": "2019-09-21"
+      }
     ]
   },
-  { "pokeName": "ラプラス", "drawings": [] },
+  {
+    "pokeName": "ラプラス",
+    "drawings": [
+      {
+        "file": "131_200423_1.jpeg",
+        "date": "2020-04-23"
+      },
+      {
+        "file": "131_200423_2.jpeg",
+        "date": "2020-04-23"
+      }
+    ]
+  },
   {
     "pokeName": "メタモン",
-    "drawings": [{ "file": "132_190825_1.jpeg", "date": "190825" }]
+    "drawings": [
+      {
+        "file": "132_190825_1.jpeg",
+        "date": "2019-08-25"
+      }
+    ]
   },
   {
     "pokeName": "イーブイ",
-    "drawings": [{ "file": "133_191003_1.jpeg", "date": "191003" }]
+    "drawings": [
+      {
+        "file": "133_191003_1.jpeg",
+        "date": "2019-10-03"
+      }
+    ]
   },
   {
     "pokeName": "シャワーズ",
     "drawings": [
-      { "file": "134_190305_1.jpeg", "date": "190305" },
-      { "file": "134_190305_2.jpeg", "date": "190305" }
+      {
+        "file": "134_190305_1.jpeg",
+        "date": "2019-03-05"
+      },
+      {
+        "file": "134_190305_2.jpeg",
+        "date": "2019-03-05"
+      }
     ]
   },
   {
     "pokeName": "サンダース",
-    "drawings": [{ "file": "135_191117_1.png", "date": "191117" }]
+    "drawings": [
+      {
+        "file": "135_191117_1.png",
+        "date": "2019-11-17"
+      }
+    ]
   },
   {
     "pokeName": "ブースター",
-    "drawings": [{ "file": "136_200105_1.jpeg", "date": "200105" }]
+    "drawings": [
+      {
+        "file": "136_200105_1.jpeg",
+        "date": "2020-01-05"
+      }
+    ]
   },
   {
     "pokeName": "ポリゴン",
     "drawings": [
-      { "file": "137_190414_1.jpeg", "date": "190414" },
-      { "file": "137_190414_2.jpeg", "date": "190414" }
+      {
+        "file": "137_190414_1.jpeg",
+        "date": "2019-04-14"
+      },
+      {
+        "file": "137_190414_2.jpeg",
+        "date": "2019-04-14"
+      }
     ]
   },
   {
     "pokeName": "オムナイト",
-    "drawings": [{ "file": "138_190428_1.jpeg", "date": "190428" }]
+    "drawings": [
+      {
+        "file": "138_190428_1.jpeg",
+        "date": "2019-04-28"
+      }
+    ]
   },
-  { "pokeName": "オムスター", "drawings": [] },
+  {
+    "pokeName": "オムスター",
+    "drawings": []
+  },
   {
     "pokeName": "カブト",
     "drawings": [
-      { "file": "140_190205_1.jpeg", "date": "190205" },
-      { "file": "140_190205_2.jpeg", "date": "190205" }
+      {
+        "file": "140_190205_1.jpeg",
+        "date": "2019-02-05"
+      },
+      {
+        "file": "140_190205_2.jpeg",
+        "date": "2019-02-05"
+      }
     ]
   },
   {
     "pokeName": "カブトプス",
     "drawings": [
-      { "file": "141_191109_1.jpeg", "date": "191109" },
-      { "file": "141_191109_2.jpeg", "date": "191109" }
+      {
+        "file": "141_191109_1.jpeg",
+        "date": "2019-11-09"
+      },
+      {
+        "file": "141_191109_2.jpeg",
+        "date": "2019-11-09"
+      }
     ]
   },
   {
     "pokeName": "プテラ",
-    "drawings": [{ "file": "142_190627_1.jpeg", "date": "190627" }]
+    "drawings": [
+      {
+        "file": "142_190627_1.jpeg",
+        "date": "2019-06-27"
+      }
+    ]
   },
   {
     "pokeName": "カビゴン",
-    "drawings": [{ "file": "143_200111_1.jpeg", "date": "200111" }]
+    "drawings": [
+      {
+        "file": "143_200111_1.jpeg",
+        "date": "2020-01-11"
+      }
+    ]
   },
-  { "pokeName": "フリーザー", "drawings": [] },
+  {
+    "pokeName": "フリーザー",
+    "drawings": []
+  },
   {
     "pokeName": "サンダー",
-    "drawings": [{ "file": "145_190805_1.jpeg", "date": "190805" }]
+    "drawings": [
+      {
+        "file": "145_190805_1.jpeg",
+        "date": "2019-08-05"
+      }
+    ]
   },
   {
     "pokeName": "ファイヤー",
-    "drawings": [{ "file": "146_200120_1.jpeg", "date": "200120" }]
+    "drawings": [
+      {
+        "file": "146_200120_1.jpeg",
+        "date": "2020-01-20"
+      }
+    ]
   },
   {
     "pokeName": "ミニリュウ",
-    "drawings": [{ "file": "147_190529_1.jpeg", "date": "190529" }]
+    "drawings": [
+      {
+        "file": "147_190529_1.jpeg",
+        "date": "2019-05-29"
+      }
+    ]
   },
   {
     "pokeName": "ハクリュー",
     "drawings": [
-      { "file": "148_190331_1.jpeg", "date": "190331" },
-      { "file": "148_190331_2.jpeg", "date": "190331" },
-      { "file": "148_190820_1.jpeg", "date": "190820" },
-      { "file": "148_190820_2.jpeg", "date": "190820" }
+      {
+        "file": "148_190331_1.jpeg",
+        "date": "2019-03-31"
+      },
+      {
+        "file": "148_190331_2.jpeg",
+        "date": "2019-03-31"
+      },
+      {
+        "file": "148_190820_1.jpeg",
+        "date": "2019-08-20"
+      },
+      {
+        "file": "148_190820_2.jpeg",
+        "date": "2019-08-20"
+      }
     ]
   },
   {
     "pokeName": "カイリュー",
-    "drawings": [{ "file": "149_190609_1.jpeg", "date": "190609" }]
+    "drawings": [
+      {
+        "file": "149_190609_1.jpeg",
+        "date": "2019-06-09"
+      }
+    ]
   },
   {
     "pokeName": "ミュウツー",
     "drawings": [
-      { "file": "150_190601_1.jpeg", "date": "190601" },
-      { "file": "150_190601_2.jpeg", "date": "190601" }
+      {
+        "file": "150_190601_1.jpeg",
+        "date": "2019-06-01"
+      },
+      {
+        "file": "150_190601_2.jpeg",
+        "date": "2019-06-01"
+      }
     ]
   },
   {
     "pokeName": "ミュウ",
     "drawings": [
-      { "file": "151_190524_1.png", "date": "190524" },
-      { "file": "151_190524_2.jpeg", "date": "190524" }
+      {
+        "file": "151_190524_1.png",
+        "date": "2019-05-24"
+      },
+      {
+        "file": "151_190524_2.jpeg",
+        "date": "2019-05-24"
+      }
     ]
   },
   {
     "pokeName": "チコリータ",
     "drawings": [
-      { "file": "152_190807_1.jpeg", "date": "190807" },
-      { "file": "152_190807_2.jpeg", "date": "190807" }
+      {
+        "file": "152_190807_1.jpeg",
+        "date": "2019-08-07"
+      },
+      {
+        "file": "152_190807_2.jpeg",
+        "date": "2019-08-07"
+      }
     ]
   },
   {
     "pokeName": "ベイリーフ",
     "drawings": [
-      { "file": "153_191102_1.jpeg", "date": "191102" },
-      { "file": "153_191102_2.jpeg", "date": "191102" }
+      {
+        "file": "153_191102_1.jpeg",
+        "date": "2019-11-02"
+      },
+      {
+        "file": "153_191102_2.jpeg",
+        "date": "2019-11-02"
+      }
     ]
   },
   {
     "pokeName": "メガニウム",
     "drawings": [
-      { "file": "154_191114_1.jpeg", "date": "191114" },
-      { "file": "154_191114_2.jpeg", "date": "191114" }
+      {
+        "file": "154_191114_1.jpeg",
+        "date": "2019-11-14"
+      },
+      {
+        "file": "154_191114_2.jpeg",
+        "date": "2019-11-14"
+      }
     ]
   },
-  { "pokeName": "ヒノアラシ", "drawings": [] },
-  { "pokeName": "マグマラシ", "drawings": [] },
+  {
+    "pokeName": "ヒノアラシ",
+    "drawings": []
+  },
+  {
+    "pokeName": "マグマラシ",
+    "drawings": []
+  },
   {
     "pokeName": "バクフーン",
     "drawings": [
-      { "file": "157_191111_1.jpeg", "date": "191111" },
-      { "file": "157_191111_2.jpeg", "date": "191111" }
+      {
+        "file": "157_191111_1.jpeg",
+        "date": "2019-11-11"
+      },
+      {
+        "file": "157_191111_2.jpeg",
+        "date": "2019-11-11"
+      }
     ]
   },
   {
     "pokeName": "ワニノコ",
     "drawings": [
-      { "file": "158_190516_1.jpeg", "date": "190516" },
-      { "file": "158_190516_2.jpeg", "date": "190516" }
+      {
+        "file": "158_190516_1.jpeg",
+        "date": "2019-05-16"
+      },
+      {
+        "file": "158_190516_2.jpeg",
+        "date": "2019-05-16"
+      }
     ]
   },
   {
     "pokeName": "アリゲイツ",
     "drawings": [
-      { "file": "159_190828_1.jpeg", "date": "190828" },
-      { "file": "159_190828_2.jpeg", "date": "190828" }
+      {
+        "file": "159_190828_1.jpeg",
+        "date": "2019-08-28"
+      },
+      {
+        "file": "159_190828_2.jpeg",
+        "date": "2019-08-28"
+      }
     ]
   },
   {
     "pokeName": "オーダイル",
-    "drawings": [{ "file": "160_191018_1.jpeg", "date": "191018" }]
+    "drawings": [
+      {
+        "file": "160_191018_1.jpeg",
+        "date": "2019-10-18"
+      }
+    ]
   },
   {
     "pokeName": "オタチ",
     "drawings": [
-      { "file": "161_200103_1.jpeg", "date": "200103" },
-      { "file": "161_200103_2.jpeg", "date": "200103" }
+      {
+        "file": "161_200103_1.jpeg",
+        "date": "2020-01-03"
+      },
+      {
+        "file": "161_200103_2.jpeg",
+        "date": "2020-01-03"
+      }
     ]
   },
   {
     "pokeName": "オオタチ",
     "drawings": [
-      { "file": "162_190919_1.jpeg", "date": "190919" },
-      { "file": "162_190919_2.jpeg", "date": "190919" },
-      { "file": "162_190919_3.jpeg", "date": "190919" }
+      {
+        "file": "162_190919_1.jpeg",
+        "date": "2019-09-19"
+      },
+      {
+        "file": "162_190919_2.jpeg",
+        "date": "2019-09-19"
+      },
+      {
+        "file": "162_190919_3.jpeg",
+        "date": "2019-09-19"
+      }
     ]
   },
-  { "pokeName": "ホーホー", "drawings": [] },
-  { "pokeName": "ヨルノズク", "drawings": [] },
+  {
+    "pokeName": "ホーホー",
+    "drawings": [
+      {
+        "file": "163_200430_1.jpeg",
+        "date": "2020-04-30"
+      },
+      {
+        "file": "163_200430_2.jpeg",
+        "date": "2020-04-30"
+      }
+    ]
+  },
+  {
+    "pokeName": "ヨルノズク",
+    "drawings": []
+  },
   {
     "pokeName": "レディバ",
     "drawings": [
-      { "file": "165_191205_1.jpeg", "date": "191205" },
-      { "file": "165_191205_2.jpeg", "date": "191205" }
+      {
+        "file": "165_191205_1.jpeg",
+        "date": "2019-12-05"
+      },
+      {
+        "file": "165_191205_2.jpeg",
+        "date": "2019-12-05"
+      }
     ]
   },
-  { "pokeName": "レディアン", "drawings": [] },
+  {
+    "pokeName": "レディアン",
+    "drawings": []
+  },
   {
     "pokeName": "イトマル",
     "drawings": [
-      { "file": "167_190124_1.jpeg", "date": "190124" },
-      { "file": "167_190124_2.jpeg", "date": "190124" }
+      {
+        "file": "167_190124_1.jpeg",
+        "date": "2019-01-24"
+      },
+      {
+        "file": "167_190124_2.jpeg",
+        "date": "2019-01-24"
+      }
     ]
   },
-  { "pokeName": "アリアドス", "drawings": [] },
-  { "pokeName": "クロバット", "drawings": [] },
-  { "pokeName": "チョンチー", "drawings": [] },
-  { "pokeName": "ランターン", "drawings": [] },
-  { "pokeName": "ピチュー", "drawings": [] },
+  {
+    "pokeName": "アリアドス",
+    "drawings": []
+  },
+  {
+    "pokeName": "クロバット",
+    "drawings": []
+  },
+  {
+    "pokeName": "チョンチー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ランターン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ピチュー",
+    "drawings": []
+  },
   {
     "pokeName": "ピィ",
     "drawings": [
-      { "file": "173_190316_1.jpeg", "date": "190316" },
-      { "file": "173_190316_2.jpeg", "date": "190316" }
+      {
+        "file": "173_190316_1.jpeg",
+        "date": "2019-03-16"
+      },
+      {
+        "file": "173_190316_2.jpeg",
+        "date": "2019-03-16"
+      }
     ]
   },
   {
     "pokeName": "ププリン",
-    "drawings": [{ "file": "174_190824_1.jpeg", "date": "190824" }]
+    "drawings": [
+      {
+        "file": "174_190824_1.jpeg",
+        "date": "2019-08-24"
+      }
+    ]
   },
   {
     "pokeName": "トゲピー",
     "drawings": [
-      { "file": "175_191025_1.jpeg", "date": "191025" },
-      { "file": "175_191025_2.jpeg", "date": "191025" }
+      {
+        "file": "175_191025_1.jpeg",
+        "date": "2019-10-25"
+      },
+      {
+        "file": "175_191025_2.jpeg",
+        "date": "2019-10-25"
+      }
     ]
   },
   {
     "pokeName": "トゲチック",
     "drawings": [
-      { "file": "176_190710_1.jpeg", "date": "190710" },
-      { "file": "176_190710_2.jpeg", "date": "190710" }
+      {
+        "file": "176_190710_1.jpeg",
+        "date": "2019-07-10"
+      },
+      {
+        "file": "176_190710_2.jpeg",
+        "date": "2019-07-10"
+      }
     ]
   },
   {
     "pokeName": "ネイティ",
     "drawings": [
-      { "file": "177_190605_1.jpeg", "date": "190605" },
-      { "file": "177_190605_2.jpeg", "date": "190605" }
+      {
+        "file": "177_190605_1.jpeg",
+        "date": "2019-06-05"
+      },
+      {
+        "file": "177_190605_2.jpeg",
+        "date": "2019-06-05"
+      }
     ]
   },
   {
     "pokeName": "ネイティオ",
-    "drawings": [{ "file": "178_190527_1.png", "date": "190527" }]
+    "drawings": [
+      {
+        "file": "178_190527_1.png",
+        "date": "2019-05-27"
+      }
+    ]
   },
-  { "pokeName": "メリープ", "drawings": [] },
+  {
+    "pokeName": "メリープ",
+    "drawings": [
+      {
+        "file": "179_200312_1.jpeg",
+        "date": "2020-03-12"
+      },
+      {
+        "file": "179_200312_2.jpeg",
+        "date": "2020-03-12"
+      }
+    ]
+  },
   {
     "pokeName": "モココ",
     "drawings": [
-      { "file": "180_190614_1.jpeg", "date": "190614" },
-      { "file": "180_190614_2.jpeg", "date": "190614" }
+      {
+        "file": "180_190614_1.jpeg",
+        "date": "2019-06-14"
+      },
+      {
+        "file": "180_190614_2.jpeg",
+        "date": "2019-06-14"
+      }
     ]
   },
   {
     "pokeName": "デンリュウ",
     "drawings": [
-      { "file": "181_190128_1.jpeg", "date": "190128" },
-      { "file": "181_190128_2.jpeg", "date": "190128" }
+      {
+        "file": "181_190128_1.jpeg",
+        "date": "2019-01-28"
+      },
+      {
+        "file": "181_190128_2.jpeg",
+        "date": "2019-01-28"
+      }
     ]
   },
   {
     "pokeName": "キレイハナ",
-    "drawings": [{ "file": "182_190826_1.jpeg", "date": "190826" }]
+    "drawings": [
+      {
+        "file": "182_190826_1.jpeg",
+        "date": "2019-08-26"
+      }
+    ]
   },
-  { "pokeName": "マリル", "drawings": [] },
-  { "pokeName": "マリルリ", "drawings": [] },
-  { "pokeName": "ウソッキー", "drawings": [] },
-  { "pokeName": "ニョロトノ", "drawings": [] },
-  { "pokeName": "ハネッコ", "drawings": [] },
-  { "pokeName": "ポポッコ", "drawings": [] },
-  { "pokeName": "ワタッコ", "drawings": [] },
-  { "pokeName": "エイパム", "drawings": [] },
+  {
+    "pokeName": "マリル",
+    "drawings": []
+  },
+  {
+    "pokeName": "マリルリ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ウソッキー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ニョロトノ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ハネッコ",
+    "drawings": [
+      {
+        "file": "187_200318_1.jpeg",
+        "date": "2020-03-18"
+      },
+      {
+        "file": "187_200318_2.jpeg",
+        "date": "2020-03-18"
+      }
+    ]
+  },
+  {
+    "pokeName": "ポポッコ",
+    "drawings": [
+      {
+        "file": "188_200511_1.jpeg",
+        "date": "2020-05-11"
+      },
+      {
+        "file": "188_200511_2.jpeg",
+        "date": "2020-05-11"
+      }
+    ]
+  },
+  {
+    "pokeName": "ワタッコ",
+    "drawings": [
+      {
+        "file": "189_200221_1.jpeg",
+        "date": "2020-02-21"
+      }
+    ]
+  },
+  {
+    "pokeName": "エイパム",
+    "drawings": []
+  },
   {
     "pokeName": "ヒマナッツ",
-    "drawings": [{ "file": "191_190719_1.jpeg", "date": "190719" }]
+    "drawings": [
+      {
+        "file": "191_190719_1.jpeg",
+        "date": "2019-07-19"
+      }
+    ]
   },
   {
     "pokeName": "キマワリ",
     "drawings": [
-      { "file": "192_190713_1.jpeg", "date": "190713" },
-      { "file": "192_190713_2.jpeg", "date": "190713" }
+      {
+        "file": "192_190713_1.jpeg",
+        "date": "2019-07-13"
+      },
+      {
+        "file": "192_190713_2.jpeg",
+        "date": "2019-07-13"
+      }
     ]
   },
-  { "pokeName": "ヤンヤンマ", "drawings": [] },
-  { "pokeName": "ウパー", "drawings": [] },
-  { "pokeName": "ヌオー", "drawings": [] },
-  { "pokeName": "エーフィ", "drawings": [] },
-  { "pokeName": "ブラッキー", "drawings": [] },
+  {
+    "pokeName": "ヤンヤンマ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ウパー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ヌオー",
+    "drawings": []
+  },
+  {
+    "pokeName": "エーフィ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ブラッキー",
+    "drawings": []
+  },
   {
     "pokeName": "ヤミカラス",
-    "drawings": [{ "file": "198_191122_1.jpeg", "date": "191122" }]
+    "drawings": [
+      {
+        "file": "198_191122_1.jpeg",
+        "date": "2019-11-22"
+      }
+    ]
   },
   {
     "pokeName": "ヤドキング",
     "drawings": [
-      { "file": "199_200121_1.jpeg", "date": "200121" },
-      { "file": "199_200121_2.jpeg", "date": "200121" }
+      {
+        "file": "199_200121_1.jpeg",
+        "date": "2020-01-21"
+      },
+      {
+        "file": "199_200121_2.jpeg",
+        "date": "2020-01-21"
+      }
     ]
   },
-  { "pokeName": "ムウマ", "drawings": [] },
-  { "pokeName": "アンノーン", "drawings": [] },
-  { "pokeName": "ソーナンス", "drawings": [] },
-  { "pokeName": "キリンリキ", "drawings": [] },
+  {
+    "pokeName": "ムウマ",
+    "drawings": []
+  },
+  {
+    "pokeName": "アンノーン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ソーナンス",
+    "drawings": []
+  },
+  {
+    "pokeName": "キリンリキ",
+    "drawings": []
+  },
   {
     "pokeName": "クヌギダマ",
-    "drawings": [{ "file": "204_190822_1.jpeg", "date": "190822" }]
+    "drawings": [
+      {
+        "file": "204_190822_1.jpeg",
+        "date": "2019-08-22"
+      }
+    ]
   },
   {
     "pokeName": "フォレトス",
     "drawings": [
-      { "file": "205_190408_1.jpeg", "date": "190408" },
-      { "file": "205_190625_1.jpeg", "date": "190625" }
+      {
+        "file": "205_190408_1.jpeg",
+        "date": "2019-04-08"
+      },
+      {
+        "file": "205_190625_1.jpeg",
+        "date": "2019-06-25"
+      }
     ]
   },
   {
     "pokeName": "ノコッチ",
     "drawings": [
-      { "file": "206_191224_1.jpeg", "date": "191224" },
-      { "file": "206_191224_2.jpeg", "date": "191224" }
+      {
+        "file": "206_191224_1.jpeg",
+        "date": "2019-12-24"
+      },
+      {
+        "file": "206_191224_2.jpeg",
+        "date": "2019-12-24"
+      }
     ]
   },
   {
     "pokeName": "グライガー",
     "drawings": [
-      { "file": "207_190830_1.jpeg", "date": "190830" },
-      { "file": "207_190830_2.jpeg", "date": "190830" },
-      { "file": "207_190830_3.jpeg", "date": "190830" }
+      {
+        "file": "207_190830_1.jpeg",
+        "date": "2019-08-30"
+      },
+      {
+        "file": "207_190830_2.jpeg",
+        "date": "2019-08-30"
+      },
+      {
+        "file": "207_190830_3.jpeg",
+        "date": "2019-08-30"
+      }
     ]
   },
-  { "pokeName": "ハガネール", "drawings": [] },
-  { "pokeName": "ブルー", "drawings": [] },
+  {
+    "pokeName": "ハガネール",
+    "drawings": []
+  },
+  {
+    "pokeName": "ブルー",
+    "drawings": []
+  },
   {
     "pokeName": "グランブル",
-    "drawings": [{ "file": "210_200207_1.jpeg", "date": "200207" }]
+    "drawings": [
+      {
+        "file": "210_200207_1.jpeg",
+        "date": "2020-02-07"
+      }
+    ]
   },
   {
     "pokeName": "ハリーセン",
     "drawings": [
-      { "file": "211_190405_1.jpeg", "date": "190405" },
-      { "file": "211_190429_1.jpeg", "date": "190429" },
-      { "file": "211_190429_2.jpeg", "date": "190429" }
+      {
+        "file": "211_190405_1.jpeg",
+        "date": "2019-04-05"
+      },
+      {
+        "file": "211_190429_1.jpeg",
+        "date": "2019-04-29"
+      },
+      {
+        "file": "211_190429_2.jpeg",
+        "date": "2019-04-29"
+      }
     ]
   },
   {
     "pokeName": "ハッサム",
     "drawings": [
-      { "file": "212_200125_1.jpeg", "date": "200125" },
-      { "file": "212_200125_2.jpeg", "date": "200125" }
+      {
+        "file": "212_200125_1.jpeg",
+        "date": "2020-01-25"
+      },
+      {
+        "file": "212_200125_2.jpeg",
+        "date": "2020-01-25"
+      }
     ]
   },
   {
     "pokeName": "ツボツボ",
-    "drawings": [{ "file": "213_190907_1.jpeg", "date": "190907" }]
+    "drawings": [
+      {
+        "file": "213_190907_1.jpeg",
+        "date": "2019-09-07"
+      }
+    ]
   },
-  { "pokeName": "ヘラクロス", "drawings": [] },
+  {
+    "pokeName": "ヘラクロス",
+    "drawings": [
+      {
+        "file": "214_200402_1.jpeg",
+        "date": "2020-04-02"
+      }
+    ]
+  },
   {
     "pokeName": "ニューラ",
-    "drawings": [{ "file": "215_190426_1.jpeg", "date": "190426" }]
+    "drawings": [
+      {
+        "file": "215_190426_1.jpeg",
+        "date": "2019-04-26"
+      }
+    ]
   },
-  { "pokeName": "ヒメグマ", "drawings": [] },
+  {
+    "pokeName": "ヒメグマ",
+    "drawings": []
+  },
   {
     "pokeName": "リングマ",
     "drawings": [
-      { "file": "217_190711_1.jpeg", "date": "190711" },
-      { "file": "217_190711_2.jpeg", "date": "190711" }
+      {
+        "file": "217_190711_1.jpeg",
+        "date": "2019-07-11"
+      },
+      {
+        "file": "217_190711_2.jpeg",
+        "date": "2019-07-11"
+      }
     ]
   },
-  { "pokeName": "マグマッグ", "drawings": [] },
-  { "pokeName": "マグカルゴ", "drawings": [] },
+  {
+    "pokeName": "マグマッグ",
+    "drawings": [
+      {
+        "file": "218_200224_1.jpeg",
+        "date": "2020-02-24"
+      }
+    ]
+  },
+  {
+    "pokeName": "マグカルゴ",
+    "drawings": []
+  },
   {
     "pokeName": "ウリムー",
-    "drawings": [{ "file": "220_190409_1.jpeg", "date": "190409" }]
+    "drawings": [
+      {
+        "file": "220_190409_1.jpeg",
+        "date": "2019-04-09"
+      }
+    ]
   },
   {
     "pokeName": "イノムー",
     "drawings": [
-      { "file": "221_190323_1.jpeg", "date": "190323" },
-      { "file": "221_190323_2.jpeg", "date": "190323" }
+      {
+        "file": "221_190323_1.jpeg",
+        "date": "2019-03-23"
+      },
+      {
+        "file": "221_190323_2.jpeg",
+        "date": "2019-03-23"
+      }
     ]
   },
-  { "pokeName": "サニーゴ", "drawings": [] },
+  {
+    "pokeName": "サニーゴ",
+    "drawings": []
+  },
   {
     "pokeName": "テッポウオ",
     "drawings": [
-      { "file": "223_190212_1.jpeg", "date": "190212" },
-      { "file": "223_190212_2.jpeg", "date": "190212" }
+      {
+        "file": "223_190212_1.jpeg",
+        "date": "2019-02-12"
+      },
+      {
+        "file": "223_190212_2.jpeg",
+        "date": "2019-02-12"
+      }
     ]
   },
   {
     "pokeName": "オクタン",
-    "drawings": [{ "file": "224_190619_1.jpeg", "date": "190619" }]
+    "drawings": [
+      {
+        "file": "224_190619_1.jpeg",
+        "date": "2019-06-19"
+      }
+    ]
   },
-  { "pokeName": "デリバード", "drawings": [] },
-  { "pokeName": "マンタイン", "drawings": [] },
-  { "pokeName": "エアームド", "drawings": [] },
+  {
+    "pokeName": "デリバード",
+    "drawings": []
+  },
+  {
+    "pokeName": "マンタイン",
+    "drawings": [
+      {
+        "file": "226_200215_1.jpeg",
+        "date": "2020-02-15"
+      }
+    ]
+  },
+  {
+    "pokeName": "エアームド",
+    "drawings": []
+  },
   {
     "pokeName": "デルビル",
     "drawings": [
-      { "file": "228_190214_1.jpeg", "date": "190214" },
-      { "file": "228_190214_2.jpeg", "date": "190214" }
+      {
+        "file": "228_190214_1.jpeg",
+        "date": "2019-02-14"
+      },
+      {
+        "file": "228_190214_2.jpeg",
+        "date": "2019-02-14"
+      }
     ]
   },
-  { "pokeName": "ヘルガー", "drawings": [] },
+  {
+    "pokeName": "ヘルガー",
+    "drawings": [
+      {
+        "file": "229_200506_1.jpeg",
+        "date": "2020-05-06"
+      },
+      {
+        "file": "229_200506_2.jpeg",
+        "date": "2020-05-06"
+      }
+    ]
+  },
   {
     "pokeName": "キングドラ",
-    "drawings": [{ "file": "230_190327_1.jpeg", "date": "190327" }]
+    "drawings": [
+      {
+        "file": "230_190327_1.jpeg",
+        "date": "2019-03-27"
+      }
+    ]
   },
-  { "pokeName": "ゴマゾウ", "drawings": [] },
-  { "pokeName": "ドンファン", "drawings": [] },
-  { "pokeName": "ポリゴン2", "drawings": [] },
+  {
+    "pokeName": "ゴマゾウ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ドンファン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ポリゴン2",
+    "drawings": []
+  },
   {
     "pokeName": "オドシシ",
     "drawings": [
-      { "file": "234_200107_1.jpeg", "date": "200107" },
-      { "file": "234_200107_2.jpeg", "date": "200107" }
+      {
+        "file": "234_200107_1.jpeg",
+        "date": "2020-01-07"
+      },
+      {
+        "file": "234_200107_2.jpeg",
+        "date": "2020-01-07"
+      }
     ]
   },
-  { "pokeName": "ドーブル", "drawings": [] },
-  { "pokeName": "バルキー", "drawings": [] },
+  {
+    "pokeName": "ドーブル",
+    "drawings": []
+  },
+  {
+    "pokeName": "バルキー",
+    "drawings": []
+  },
   {
     "pokeName": "カポエラー",
-    "drawings": [{ "file": "237_190226_1.jpeg", "date": "190226" }]
+    "drawings": [
+      {
+        "file": "237_190226_1.jpeg",
+        "date": "2019-02-26"
+      }
+    ]
   },
   {
     "pokeName": "ムチュール",
     "drawings": [
-      { "file": "238_191121_1.jpeg", "date": "191121" },
-      { "file": "238_191121_2.jpeg", "date": "191121" }
+      {
+        "file": "238_191121_1.jpeg",
+        "date": "2019-11-21"
+      },
+      {
+        "file": "238_191121_2.jpeg",
+        "date": "2019-11-21"
+      }
     ]
   },
   {
     "pokeName": "エレキッド",
-    "drawings": [{ "file": "239_190802_1.jpeg", "date": "190802" }]
+    "drawings": [
+      {
+        "file": "239_190802_1.jpeg",
+        "date": "2019-08-02"
+      }
+    ]
   },
-  { "pokeName": "ブビィ", "drawings": [] },
-  { "pokeName": "ミルタンク", "drawings": [] },
-  { "pokeName": "ハピナス", "drawings": [] },
+  {
+    "pokeName": "ブビィ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ミルタンク",
+    "drawings": [
+      {
+        "file": "241_200316_1.jpeg",
+        "date": "2020-03-16"
+      },
+      {
+        "file": "241_200316_2.jpeg",
+        "date": "2020-03-16"
+      }
+    ]
+  },
+  {
+    "pokeName": "ハピナス",
+    "drawings": []
+  },
   {
     "pokeName": "ライコウ",
     "drawings": [
-      { "file": "243_200116_1.jpeg", "date": "200116" },
-      { "file": "243_200116_2.jpeg", "date": "200116" }
+      {
+        "file": "243_200116_1.jpeg",
+        "date": "2020-01-16"
+      },
+      {
+        "file": "243_200116_2.jpeg",
+        "date": "2020-01-16"
+      }
     ]
   },
   {
     "pokeName": "エンテイ",
     "drawings": [
-      { "file": "244_200101_1.jpeg", "date": "200101" },
-      { "file": "244_200101_2.jpeg", "date": "200101" }
+      {
+        "file": "244_200101_1.jpeg",
+        "date": "2020-01-01"
+      },
+      {
+        "file": "244_200101_2.jpeg",
+        "date": "2020-01-01"
+      }
     ]
   },
-  { "pokeName": "スイクン", "drawings": [] },
+  {
+    "pokeName": "スイクン",
+    "drawings": []
+  },
   {
     "pokeName": "ヨーギラス",
-    "drawings": [{ "file": "246_190421_1.jpeg", "date": "190421" }]
+    "drawings": [
+      {
+        "file": "246_190421_1.jpeg",
+        "date": "2019-04-21"
+      }
+    ]
   },
-  { "pokeName": "サナギラス", "drawings": [] },
-  { "pokeName": "バンギラス", "drawings": [] },
+  {
+    "pokeName": "サナギラス",
+    "drawings": []
+  },
+  {
+    "pokeName": "バンギラス",
+    "drawings": []
+  },
   {
     "pokeName": "ルギア",
     "drawings": [
-      { "file": "249_200110_1.jpeg", "date": "200110" },
-      { "file": "249_200110_2.jpeg", "date": "200110" }
+      {
+        "file": "249_200110_1.jpeg",
+        "date": "2020-01-10"
+      },
+      {
+        "file": "249_200110_2.jpeg",
+        "date": "2020-01-10"
+      }
     ]
   },
   {
     "pokeName": "ホウオウ",
-    "drawings": [{ "file": "250_190915_1.jpeg", "date": "190915" }]
+    "drawings": [
+      {
+        "file": "250_190915_1.jpeg",
+        "date": "2019-09-15"
+      }
+    ]
   },
-  { "pokeName": "セレビィ", "drawings": [] },
+  {
+    "pokeName": "セレビィ",
+    "drawings": []
+  },
   {
     "pokeName": "キモリ",
     "drawings": [
-      { "file": "252_191013_1.jpeg", "date": "191013" },
-      { "file": "252_191013_2.jpeg", "date": "191013" }
+      {
+        "file": "252_191013_1.jpeg",
+        "date": "2019-10-13"
+      },
+      {
+        "file": "252_191013_2.jpeg",
+        "date": "2019-10-13"
+      }
     ]
   },
   {
     "pokeName": "ジュプトル",
     "drawings": [
-      { "file": "253_190620_1.jpeg", "date": "190620" },
-      { "file": "253_190620_2.jpeg", "date": "190620" }
+      {
+        "file": "253_190620_1.jpeg",
+        "date": "2019-06-20"
+      },
+      {
+        "file": "253_190620_2.jpeg",
+        "date": "2019-06-20"
+      }
     ]
   },
-  { "pokeName": "ジュカイン", "drawings": [] },
-  { "pokeName": "アチャモ", "drawings": [] },
-  { "pokeName": "ワカシャモ", "drawings": [] },
+  {
+    "pokeName": "ジュカイン",
+    "drawings": []
+  },
+  {
+    "pokeName": "アチャモ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ワカシャモ",
+    "drawings": []
+  },
   {
     "pokeName": "バシャーモ",
     "drawings": [
-      { "file": "257_190926_1.png", "date": "190926" },
-      { "file": "257_190926_2.png", "date": "190926" }
+      {
+        "file": "257_190926_1.png",
+        "date": "2019-09-26"
+      },
+      {
+        "file": "257_190926_2.png",
+        "date": "2019-09-26"
+      }
     ]
   },
-  { "pokeName": "ミズゴロウ", "drawings": [] },
+  {
+    "pokeName": "ミズゴロウ",
+    "drawings": []
+  },
   {
     "pokeName": "ヌマクロー",
     "drawings": [
-      { "file": "259_200211_1.jpeg", "date": "200211" },
-      { "file": "259_200211_2.jpeg", "date": "200211" }
+      {
+        "file": "259_200211_1.jpeg",
+        "date": "2020-02-11"
+      },
+      {
+        "file": "259_200211_2.jpeg",
+        "date": "2020-02-11"
+      }
     ]
   },
   {
     "pokeName": "ラグラージ",
     "drawings": [
-      { "file": "260_190302_1.jpeg", "date": "190302" },
-      { "file": "260_190302_2.jpeg", "date": "190302" }
+      {
+        "file": "260_190302_1.jpeg",
+        "date": "2019-03-02"
+      },
+      {
+        "file": "260_190302_2.jpeg",
+        "date": "2019-03-02"
+      }
     ]
   },
-  { "pokeName": "ポチエナ", "drawings": [] },
+  {
+    "pokeName": "ポチエナ",
+    "drawings": [
+      {
+        "file": "261_200420_1.jpeg",
+        "date": "2020-04-20"
+      },
+      {
+        "file": "261_200420_2.jpeg",
+        "date": "2020-04-20"
+      },
+      {
+        "file": "261_200420_3.jpeg",
+        "date": "2020-04-20"
+      }
+    ]
+  },
   {
     "pokeName": "グラエナ",
     "drawings": [
-      { "file": "262_190716_1.jpeg", "date": "190716" },
-      { "file": "262_190716_2.jpeg", "date": "190716" }
+      {
+        "file": "262_190716_1.jpeg",
+        "date": "2019-07-16"
+      },
+      {
+        "file": "262_190716_2.jpeg",
+        "date": "2019-07-16"
+      }
     ]
   },
-  { "pokeName": "ジグザグマ", "drawings": [] },
+  {
+    "pokeName": "ジグザグマ",
+    "drawings": []
+  },
   {
     "pokeName": "マッスグマ",
     "drawings": [
-      { "file": "264_190121_1.jpeg", "date": "190121" },
-      { "file": "264_190121_2.jpeg", "date": "190121" }
+      {
+        "file": "264_190121_1.jpeg",
+        "date": "2019-01-21"
+      },
+      {
+        "file": "264_190121_2.jpeg",
+        "date": "2019-01-21"
+      }
     ]
   },
   {
     "pokeName": "ケムッソ",
     "drawings": [
-      { "file": "265_191021_1.jpeg", "date": "191021" },
-      { "file": "265_191021_2.jpeg", "date": "191021" }
+      {
+        "file": "265_191021_1.jpeg",
+        "date": "2019-10-21"
+      },
+      {
+        "file": "265_191021_2.jpeg",
+        "date": "2019-10-21"
+      }
     ]
   },
   {
     "pokeName": "カラサリス",
-    "drawings": [{ "file": "266_191108_1.jpeg", "date": "191108" }]
+    "drawings": [
+      {
+        "file": "266_191108_1.jpeg",
+        "date": "2019-11-08"
+      }
+    ]
   },
-  { "pokeName": "アゲハント", "drawings": [] },
+  {
+    "pokeName": "アゲハント",
+    "drawings": []
+  },
   {
     "pokeName": "マユルド",
-    "drawings": [{ "file": "268_190829_1.jpeg", "date": "190829" }]
+    "drawings": [
+      {
+        "file": "268_190829_1.jpeg",
+        "date": "2019-08-29"
+      }
+    ]
   },
-  { "pokeName": "ドクケイル", "drawings": [] },
-  { "pokeName": "ハスボー", "drawings": [] },
+  {
+    "pokeName": "ドクケイル",
+    "drawings": []
+  },
+  {
+    "pokeName": "ハスボー",
+    "drawings": [
+      {
+        "file": "270_200504_1.jpeg",
+        "date": "2020-05-04"
+      },
+      {
+        "file": "270_200504_2.jpeg",
+        "date": "2020-05-04"
+      }
+    ]
+  },
   {
     "pokeName": "ハスブレロ",
-    "drawings": [{ "file": "271_190629_1.jpeg", "date": "190629" }]
+    "drawings": [
+      {
+        "file": "271_190629_1.jpeg",
+        "date": "2019-06-29"
+      }
+    ]
   },
   {
     "pokeName": "ルンパッパ",
     "drawings": [
-      { "file": "272_190313_1.jpeg", "date": "190313" },
-      { "file": "272_190313_2.jpeg", "date": "190313" }
+      {
+        "file": "272_190313_1.jpeg",
+        "date": "2019-03-13"
+      },
+      {
+        "file": "272_190313_2.jpeg",
+        "date": "2019-03-13"
+      }
     ]
   },
   {
     "pokeName": "タネボー",
     "drawings": [
-      { "file": "273_191031_1.jpeg", "date": "191031" },
-      { "file": "273_191031_2.jpeg", "date": "191031" }
+      {
+        "file": "273_191031_1.jpeg",
+        "date": "2019-10-31"
+      },
+      {
+        "file": "273_191031_2.jpeg",
+        "date": "2019-10-31"
+      }
     ]
   },
-  { "pokeName": "コノハナ", "drawings": [] },
+  {
+    "pokeName": "コノハナ",
+    "drawings": []
+  },
   {
     "pokeName": "ダーテング",
-    "drawings": [{ "file": "275_191228_1.jpeg", "date": "191228" }]
+    "drawings": [
+      {
+        "file": "275_191228_1.jpeg",
+        "date": "2019-12-28"
+      }
+    ]
   },
-  { "pokeName": "スバメ", "drawings": [] },
+  {
+    "pokeName": "スバメ",
+    "drawings": []
+  },
   {
     "pokeName": "オオスバメ",
-    "drawings": [{ "file": "277_190518_1.jpeg", "date": "190518" }]
+    "drawings": [
+      {
+        "file": "277_190518_1.jpeg",
+        "date": "2019-05-18"
+      }
+    ]
   },
-  { "pokeName": "キャモメ", "drawings": [] },
+  {
+    "pokeName": "キャモメ",
+    "drawings": []
+  },
   {
     "pokeName": "ペリッパー",
-    "drawings": [{ "file": "279_190415_1.jpeg", "date": "190415" }]
+    "drawings": [
+      {
+        "file": "279_190415_1.jpeg",
+        "date": "2019-04-15"
+      }
+    ]
   },
-  { "pokeName": "ラルトス", "drawings": [] },
-  { "pokeName": "キルリア", "drawings": [] },
-  { "pokeName": "サーナイト", "drawings": [] },
-  { "pokeName": "アメタマ", "drawings": [] },
-  { "pokeName": "アメモース", "drawings": [] },
-  { "pokeName": "キノココ", "drawings": [] },
-  { "pokeName": "キノガッサ", "drawings": [] },
-  { "pokeName": "ナマケロ", "drawings": [] },
-  { "pokeName": "ヤルキモノ", "drawings": [] },
+  {
+    "pokeName": "ラルトス",
+    "drawings": []
+  },
+  {
+    "pokeName": "キルリア",
+    "drawings": []
+  },
+  {
+    "pokeName": "サーナイト",
+    "drawings": [
+      {
+        "file": "282_200220_1.jpeg",
+        "date": "2020-02-20"
+      },
+      {
+        "file": "282_200220_2.jpeg",
+        "date": "2020-02-20"
+      },
+      {
+        "file": "282_200220_3.jpeg",
+        "date": "2020-02-20"
+      }
+    ]
+  },
+  {
+    "pokeName": "アメタマ",
+    "drawings": []
+  },
+  {
+    "pokeName": "アメモース",
+    "drawings": []
+  },
+  {
+    "pokeName": "キノココ",
+    "drawings": []
+  },
+  {
+    "pokeName": "キノガッサ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ナマケロ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ヤルキモノ",
+    "drawings": []
+  },
   {
     "pokeName": "ケッキング",
-    "drawings": [{ "file": "289_190122_1.png", "date": "190122" }]
+    "drawings": [
+      {
+        "file": "289_190122_1.png",
+        "date": "2019-01-22"
+      }
+    ]
   },
-  { "pokeName": "ツチニン", "drawings": [] },
+  {
+    "pokeName": "ツチニン",
+    "drawings": [
+      {
+        "file": "290_200217_1.jpeg",
+        "date": "2020-02-17"
+      },
+      {
+        "file": "290_200217_2.jpeg",
+        "date": "2020-02-17"
+      }
+    ]
+  },
   {
     "pokeName": "テッカニン",
     "drawings": [
-      { "file": "291_190923_1.jpeg", "date": "190923" },
-      { "file": "291_190923_2.jpeg", "date": "190923" }
+      {
+        "file": "291_190923_1.jpeg",
+        "date": "2019-09-23"
+      },
+      {
+        "file": "291_190923_2.jpeg",
+        "date": "2019-09-23"
+      }
     ]
   },
   {
     "pokeName": "ヌケニン",
     "drawings": [
-      { "file": "292_190929_1.jpeg", "date": "190929" },
-      { "file": "292_190929_2.jpeg", "date": "190929" }
+      {
+        "file": "292_190929_1.jpeg",
+        "date": "2019-09-29"
+      },
+      {
+        "file": "292_190929_2.jpeg",
+        "date": "2019-09-29"
+      }
     ]
   },
   {
     "pokeName": "ゴニョニョ",
-    "drawings": [{ "file": "293_191128_1.jpeg", "date": "191128" }]
+    "drawings": [
+      {
+        "file": "293_191128_1.jpeg",
+        "date": "2019-11-28"
+      }
+    ]
   },
-  { "pokeName": "ドゴーム", "drawings": [] },
+  {
+    "pokeName": "ドゴーム",
+    "drawings": []
+  },
   {
     "pokeName": "バクオング",
     "drawings": [
-      { "file": "295_190618_1.jpeg", "date": "190618" },
-      { "file": "295_190618_2.jpeg", "date": "190618" }
+      {
+        "file": "295_190618_1.jpeg",
+        "date": "2019-06-18"
+      },
+      {
+        "file": "295_190618_2.jpeg",
+        "date": "2019-06-18"
+      }
     ]
   },
-  { "pokeName": "マクノシタ", "drawings": [] },
+  {
+    "pokeName": "マクノシタ",
+    "drawings": [
+      {
+        "file": "296_200226_1.jpeg",
+        "date": "2020-02-26"
+      }
+    ]
+  },
   {
     "pokeName": "ハリテヤマ",
-    "drawings": [{ "file": "297_200129_1.jpeg", "date": "200129" }]
+    "drawings": [
+      {
+        "file": "297_200129_1.jpeg",
+        "date": "2020-01-29"
+      }
+    ]
   },
   {
     "pokeName": "ルリリ",
     "drawings": [
-      { "file": "298_191211_1.jpeg", "date": "191211" },
-      { "file": "298_191211_2.jpeg", "date": "191211" }
+      {
+        "file": "298_191211_1.jpeg",
+        "date": "2019-12-11"
+      },
+      {
+        "file": "298_191211_2.jpeg",
+        "date": "2019-12-11"
+      }
     ]
   },
-  { "pokeName": "ノズパス", "drawings": [] },
+  {
+    "pokeName": "ノズパス",
+    "drawings": []
+  },
   {
     "pokeName": "エネコ",
     "drawings": [
-      { "file": "300_191127_1.jpeg", "date": "191127" },
-      { "file": "300_191127_2.jpeg", "date": "191127" }
+      {
+        "file": "300_191127_1.jpeg",
+        "date": "2019-11-27"
+      },
+      {
+        "file": "300_191127_2.jpeg",
+        "date": "2019-11-27"
+      }
     ]
   },
   {
     "pokeName": "エネコロロ",
     "drawings": [
-      { "file": "301_190712_1.jpeg", "date": "190712" },
-      { "file": "301_190712_2.jpeg", "date": "190712" },
-      { "file": "301_191110_1.jpeg", "date": "191110" }
+      {
+        "file": "301_190712_1.jpeg",
+        "date": "2019-07-12"
+      },
+      {
+        "file": "301_190712_2.jpeg",
+        "date": "2019-07-12"
+      },
+      {
+        "file": "301_191110_1.jpeg",
+        "date": "2019-11-10"
+      }
     ]
   },
   {
     "pokeName": "ヤミラミ",
     "drawings": [
-      { "file": "302_191227_1.jpeg", "date": "191227" },
-      { "file": "302_191227_2.jpeg", "date": "191227" }
+      {
+        "file": "302_191227_1.jpeg",
+        "date": "2019-12-27"
+      },
+      {
+        "file": "302_191227_2.jpeg",
+        "date": "2019-12-27"
+      }
     ]
   },
-  { "pokeName": "クチート", "drawings": [] },
+  {
+    "pokeName": "クチート",
+    "drawings": []
+  },
   {
     "pokeName": "ココドラ",
-    "drawings": [{ "file": "304_191104_1.jpeg", "date": "191104" }]
+    "drawings": [
+      {
+        "file": "304_191104_1.jpeg",
+        "date": "2019-11-04"
+      }
+    ]
   },
   {
     "pokeName": "コドラ",
     "drawings": [
-      { "file": "305_190512_1.jpeg", "date": "190512" },
-      { "file": "305_190512_2.jpeg", "date": "190512" }
+      {
+        "file": "305_190512_1.jpeg",
+        "date": "2019-05-12"
+      },
+      {
+        "file": "305_190512_2.jpeg",
+        "date": "2019-05-12"
+      }
     ]
   },
   {
     "pokeName": "ボスゴドラ",
-    "drawings": [{ "file": "306_190911_1.jpeg", "date": "190911" }]
+    "drawings": [
+      {
+        "file": "306_190911_1.jpeg",
+        "date": "2019-09-11"
+      }
+    ]
   },
-  { "pokeName": "アサナン", "drawings": [] },
+  {
+    "pokeName": "アサナン",
+    "drawings": []
+  },
   {
     "pokeName": "チャーレム",
-    "drawings": [{ "file": "308_190913_1.jpeg", "date": "190913" }]
+    "drawings": [
+      {
+        "file": "308_190913_1.jpeg",
+        "date": "2019-09-13"
+      }
+    ]
   },
-  { "pokeName": "ラクライ", "drawings": [] },
+  {
+    "pokeName": "ラクライ",
+    "drawings": []
+  },
   {
     "pokeName": "ライボルト",
     "drawings": [
-      { "file": "310_190918_1.jpeg", "date": "190918" },
-      { "file": "310_190918_2.jpeg", "date": "190918" },
-      { "file": "310_191124_1.jpeg", "date": "191124" }
+      {
+        "file": "310_190918_1.jpeg",
+        "date": "2019-09-18"
+      },
+      {
+        "file": "310_190918_2.jpeg",
+        "date": "2019-09-18"
+      },
+      {
+        "file": "310_191124_1.jpeg",
+        "date": "2019-11-24"
+      }
     ]
   },
-  { "pokeName": "プラスル", "drawings": [] },
-  { "pokeName": "マイナン", "drawings": [] },
+  {
+    "pokeName": "プラスル",
+    "drawings": []
+  },
+  {
+    "pokeName": "マイナン",
+    "drawings": [
+      {
+        "file": "312_200421_1.jpeg",
+        "date": "2020-04-21"
+      },
+      {
+        "file": "312_200421_2.jpeg",
+        "date": "2020-04-21"
+      }
+    ]
+  },
   {
     "pokeName": "バルビート",
     "drawings": [
-      { "file": "313_190806_1.jpeg", "date": "190806" },
-      { "file": "313_191103_1.jpeg", "date": "191103" }
+      {
+        "file": "313_190806_1.jpeg",
+        "date": "2019-08-06"
+      },
+      {
+        "file": "313_191103_1.jpeg",
+        "date": "2019-11-03"
+      }
     ]
   },
-  { "pokeName": "イルミーゼ", "drawings": [] },
-  { "pokeName": "ロゼリア", "drawings": [] },
+  {
+    "pokeName": "イルミーゼ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ロゼリア",
+    "drawings": []
+  },
   {
     "pokeName": "ゴクリン",
-    "drawings": [{ "file": "316_191120_1.jpeg", "date": "191120" }]
+    "drawings": [
+      {
+        "file": "316_191120_1.jpeg",
+        "date": "2019-11-20"
+      }
+    ]
   },
   {
     "pokeName": "マルノーム",
-    "drawings": [{ "file": "317_190523_1.jpeg", "date": "190523" }]
+    "drawings": [
+      {
+        "file": "317_190523_1.jpeg",
+        "date": "2019-05-23"
+      }
+    ]
   },
-  { "pokeName": "キバニア", "drawings": [] },
+  {
+    "pokeName": "キバニア",
+    "drawings": []
+  },
   {
     "pokeName": "サメハダー",
     "drawings": [
-      { "file": "319_190125_1.png", "date": "190125" },
-      { "file": "319_190125_2.png", "date": "190125" },
-      { "file": "319_190125_3.png", "date": "190125" }
+      {
+        "file": "319_190125_1.png",
+        "date": "2019-01-25"
+      },
+      {
+        "file": "319_190125_2.png",
+        "date": "2019-01-25"
+      },
+      {
+        "file": "319_190125_3.png",
+        "date": "2019-01-25"
+      }
     ]
   },
-  { "pokeName": "ホエルコ", "drawings": [] },
-  { "pokeName": "ホエルオー", "drawings": [] },
+  {
+    "pokeName": "ホエルコ",
+    "drawings": [
+      {
+        "file": "320_200411_1.jpeg",
+        "date": "2020-04-11"
+      }
+    ]
+  },
+  {
+    "pokeName": "ホエルオー",
+    "drawings": []
+  },
   {
     "pokeName": "ドンメル",
     "drawings": [
-      { "file": "322_190131_1.jpeg", "date": "190131" },
-      { "file": "322_190131_2.jpeg", "date": "190131" }
+      {
+        "file": "322_190131_1.jpeg",
+        "date": "2019-01-31"
+      },
+      {
+        "file": "322_190131_2.jpeg",
+        "date": "2019-01-31"
+      }
     ]
   },
   {
     "pokeName": "バクーダ",
     "drawings": [
-      { "file": "323_190821_1.jpeg", "date": "190821" },
-      { "file": "323_190821_2.jpeg", "date": "190821" }
+      {
+        "file": "323_190821_1.jpeg",
+        "date": "2019-08-21"
+      },
+      {
+        "file": "323_190821_2.jpeg",
+        "date": "2019-08-21"
+      }
     ]
   },
   {
     "pokeName": "コータス",
-    "drawings": [{ "file": "324_200205_1.jpeg", "date": "200205" }]
+    "drawings": [
+      {
+        "file": "324_200205_1.jpeg",
+        "date": "2020-02-05"
+      }
+    ]
   },
-  { "pokeName": "バネブー", "drawings": [] },
-  { "pokeName": "ブーピッグ", "drawings": [] },
-  { "pokeName": "パッチール", "drawings": [] },
-  { "pokeName": "ナックラー", "drawings": [] },
+  {
+    "pokeName": "バネブー",
+    "drawings": [
+      {
+        "file": "325_200216_1.jpeg",
+        "date": "2020-02-16"
+      },
+      {
+        "file": "325_200216_2.jpeg",
+        "date": "2020-02-16"
+      }
+    ]
+  },
+  {
+    "pokeName": "ブーピッグ",
+    "drawings": [
+      {
+        "file": "326_200414_1.jpeg",
+        "date": "2020-04-14"
+      }
+    ]
+  },
+  {
+    "pokeName": "パッチール",
+    "drawings": [
+      {
+        "file": "327_200408_1.jpeg",
+        "date": "2020-04-08"
+      },
+      {
+        "file": "327_200408_2.jpeg",
+        "date": "2020-04-08"
+      }
+    ]
+  },
+  {
+    "pokeName": "ナックラー",
+    "drawings": []
+  },
   {
     "pokeName": "ビブラーバ",
-    "drawings": [{ "file": "329_190908_1.jpeg", "date": "190908" }]
+    "drawings": [
+      {
+        "file": "329_190908_1.jpeg",
+        "date": "2019-09-08"
+      }
+    ]
   },
-  { "pokeName": "フライゴン", "drawings": [] },
+  {
+    "pokeName": "フライゴン",
+    "drawings": [
+      {
+        "file": "330_200508_1.jpeg",
+        "date": "2020-05-08"
+      }
+    ]
+  },
   {
     "pokeName": "サボネア",
     "drawings": [
-      { "file": "331_190904_1.jpeg", "date": "190904" },
-      { "file": "331_190904_2.jpeg", "date": "190904" }
+      {
+        "file": "331_190904_1.jpeg",
+        "date": "2019-09-04"
+      },
+      {
+        "file": "331_190904_2.jpeg",
+        "date": "2019-09-04"
+      }
     ]
   },
   {
     "pokeName": "ノクタス",
     "drawings": [
-      { "file": "332_191015_1.jpeg", "date": "191015" },
-      { "file": "332_191015_2.jpeg", "date": "191015" },
-      { "file": "332_191015_3.jpeg", "date": "191015" }
+      {
+        "file": "332_191015_1.jpeg",
+        "date": "2019-10-15"
+      },
+      {
+        "file": "332_191015_2.jpeg",
+        "date": "2019-10-15"
+      },
+      {
+        "file": "332_191015_3.jpeg",
+        "date": "2019-10-15"
+      }
     ]
   },
   {
     "pokeName": "チルット",
     "drawings": [
-      { "file": "333_200109_1.jpeg", "date": "200109" },
-      { "file": "333_200109_2.jpeg", "date": "200109" }
+      {
+        "file": "333_200109_1.jpeg",
+        "date": "2020-01-09"
+      },
+      {
+        "file": "333_200109_2.jpeg",
+        "date": "2020-01-09"
+      }
     ]
   },
-  { "pokeName": "チルタリス", "drawings": [] },
+  {
+    "pokeName": "チルタリス",
+    "drawings": []
+  },
   {
     "pokeName": "ザングース",
     "drawings": [
-      { "file": "335_190515_1.jpeg", "date": "190515" },
-      { "file": "335_190515_2.jpeg", "date": "190515" }
+      {
+        "file": "335_190515_1.jpeg",
+        "date": "2019-05-15"
+      },
+      {
+        "file": "335_190515_2.jpeg",
+        "date": "2019-05-15"
+      }
     ]
   },
   {
     "pokeName": "ハブネーク",
     "drawings": [
-      { "file": "336_191010_1.png", "date": "191010" },
-      { "file": "336_191010_2.png", "date": "191010" }
+      {
+        "file": "336_191010_1.png",
+        "date": "2019-10-10"
+      },
+      {
+        "file": "336_191010_2.png",
+        "date": "2019-10-10"
+      }
     ]
   },
   {
     "pokeName": "ルナトーン",
-    "drawings": [{ "file": "337_200131_1.jpeg", "date": "200131" }]
+    "drawings": [
+      {
+        "file": "337_200131_1.jpeg",
+        "date": "2020-01-31"
+      }
+    ]
   },
   {
     "pokeName": "ソルロック",
     "drawings": [
-      { "file": "338_191229_1.jpeg", "date": "191229" },
-      { "file": "338_191229_2.jpeg", "date": "191229" }
+      {
+        "file": "338_191229_1.jpeg",
+        "date": "2019-12-29"
+      },
+      {
+        "file": "338_191229_2.jpeg",
+        "date": "2019-12-29"
+      }
     ]
   },
   {
     "pokeName": "ドジョッチ",
-    "drawings": [{ "file": "339_191216_1.jpeg", "date": "191216" }]
+    "drawings": [
+      {
+        "file": "339_191216_1.jpeg",
+        "date": "2019-12-16"
+      }
+    ]
   },
   {
     "pokeName": "ナマズン",
     "drawings": [
-      { "file": "340_190216_1.jpeg", "date": "190216" },
-      { "file": "340_190216_2.jpeg", "date": "190216" }
+      {
+        "file": "340_190216_1.jpeg",
+        "date": "2019-02-16"
+      },
+      {
+        "file": "340_190216_2.jpeg",
+        "date": "2019-02-16"
+      }
     ]
   },
-  { "pokeName": "ヘイガニ", "drawings": [] },
-  { "pokeName": "シザリガー", "drawings": [] },
+  {
+    "pokeName": "ヘイガニ",
+    "drawings": []
+  },
+  {
+    "pokeName": "シザリガー",
+    "drawings": []
+  },
   {
     "pokeName": "ヤジロン",
     "drawings": [
-      { "file": "343_190811_1.jpeg", "date": "190811" },
-      { "file": "343_190811_2.jpeg", "date": "190811" }
+      {
+        "file": "343_190811_1.jpeg",
+        "date": "2019-08-11"
+      },
+      {
+        "file": "343_190811_2.jpeg",
+        "date": "2019-08-11"
+      }
     ]
   },
   {
     "pokeName": "ネンドール",
-    "drawings": [{ "file": "344_191130_1.jpeg", "date": "191130" }]
+    "drawings": [
+      {
+        "file": "344_191130_1.jpeg",
+        "date": "2019-11-30"
+      }
+    ]
   },
   {
     "pokeName": "リリーラ",
     "drawings": [
-      { "file": "345_190129_1.jpeg", "date": "190129" },
-      { "file": "345_190129_2.jpeg", "date": "190129" }
+      {
+        "file": "345_190129_1.jpeg",
+        "date": "2019-01-29"
+      },
+      {
+        "file": "345_190129_2.jpeg",
+        "date": "2019-01-29"
+      }
     ]
   },
-  { "pokeName": "ユレイドル", "drawings": [] },
-  { "pokeName": "アノプス", "drawings": [] },
-  { "pokeName": "アーマルド", "drawings": [] },
+  {
+    "pokeName": "ユレイドル",
+    "drawings": [
+      {
+        "file": "346_200413_1.jpeg",
+        "date": "2020-04-13"
+      }
+    ]
+  },
+  {
+    "pokeName": "アノプス",
+    "drawings": []
+  },
+  {
+    "pokeName": "アーマルド",
+    "drawings": []
+  },
   {
     "pokeName": "ヒンバス",
     "drawings": [
-      { "file": "349_190508_1.jpeg", "date": "190508" },
-      { "file": "349_190508_2.jpeg", "date": "190508" }
+      {
+        "file": "349_190508_1.jpeg",
+        "date": "2019-05-08"
+      },
+      {
+        "file": "349_190508_2.jpeg",
+        "date": "2019-05-08"
+      }
     ]
   },
   {
     "pokeName": "ミロカロス",
-    "drawings": [{ "file": "350_190223_1.jpeg", "date": "190223" }]
+    "drawings": [
+      {
+        "file": "350_190223_1.jpeg",
+        "date": "2019-02-23"
+      }
+    ]
   },
   {
     "pokeName": "ポワルン",
-    "drawings": [{ "file": "351_190617_1.jpeg", "date": "190617" }]
+    "drawings": [
+      {
+        "file": "351_190617_1.jpeg",
+        "date": "2019-06-17"
+      }
+    ]
   },
-  { "pokeName": "カクレオン", "drawings": [] },
-  { "pokeName": "カゲボウズ", "drawings": [] },
-  { "pokeName": "ジュペッタ", "drawings": [] },
+  {
+    "pokeName": "カクレオン",
+    "drawings": [
+      {
+        "file": "352_200329_1.jpeg",
+        "date": "2020-03-29"
+      },
+      {
+        "file": "352_200329_2.jpeg",
+        "date": "2020-03-29"
+      }
+    ]
+  },
+  {
+    "pokeName": "カゲボウズ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ジュペッタ",
+    "drawings": []
+  },
   {
     "pokeName": "ヨマワル",
     "drawings": [
-      { "file": "355_190215_1.jpeg", "date": "190215" },
-      { "file": "355_190215_2.jpeg", "date": "190215" }
+      {
+        "file": "355_190215_1.jpeg",
+        "date": "2019-02-15"
+      },
+      {
+        "file": "355_190215_2.jpeg",
+        "date": "2019-02-15"
+      }
     ]
   },
   {
     "pokeName": "サマヨール",
     "drawings": [
-      { "file": "356_190817_1.jpeg", "date": "190817" },
-      { "file": "356_190817_2.jpeg", "date": "190817" }
+      {
+        "file": "356_190817_1.jpeg",
+        "date": "2019-08-17"
+      },
+      {
+        "file": "356_190817_2.jpeg",
+        "date": "2019-08-17"
+      }
     ]
   },
-  { "pokeName": "トロピウス", "drawings": [] },
+  {
+    "pokeName": "トロピウス",
+    "drawings": [
+      {
+        "file": "357_200427_1.jpeg",
+        "date": "2020-04-27"
+      },
+      {
+        "file": "357_200427_2.jpeg",
+        "date": "2020-04-27"
+      }
+    ]
+  },
   {
     "pokeName": "チリーン",
     "drawings": [
-      { "file": "358_190209_1.jpeg", "date": "190209" },
-      { "file": "358_190209_2.jpeg", "date": "190209" }
+      {
+        "file": "358_190209_1.jpeg",
+        "date": "2019-02-09"
+      },
+      {
+        "file": "358_190209_2.jpeg",
+        "date": "2019-02-09"
+      }
     ]
   },
-  { "pokeName": "アブソル", "drawings": [] },
+  {
+    "pokeName": "アブソル",
+    "drawings": []
+  },
   {
     "pokeName": "ソーナノ",
-    "drawings": [{ "file": "360_190819_1.jpeg", "date": "190819" }]
+    "drawings": [
+      {
+        "file": "360_190819_1.jpeg",
+        "date": "2019-08-19"
+      }
+    ]
   },
-  { "pokeName": "ユキワラシ", "drawings": [] },
-  { "pokeName": "オニゴーリ", "drawings": [] },
+  {
+    "pokeName": "ユキワラシ",
+    "drawings": []
+  },
+  {
+    "pokeName": "オニゴーリ",
+    "drawings": []
+  },
   {
     "pokeName": "タマザラシ",
     "drawings": [
-      { "file": "363_190417_1.jpeg", "date": "190417" },
-      { "file": "363_190417_2.jpeg", "date": "190417" }
+      {
+        "file": "363_190417_1.jpeg",
+        "date": "2019-04-17"
+      },
+      {
+        "file": "363_190417_2.jpeg",
+        "date": "2019-04-17"
+      }
     ]
   },
-  { "pokeName": "トドグラー", "drawings": [] },
+  {
+    "pokeName": "トドグラー",
+    "drawings": []
+  },
   {
     "pokeName": "トドゼルガ",
     "drawings": [
-      { "file": "365_190425_1.jpeg", "date": "190425" },
-      { "file": "365_190425_2.jpeg", "date": "190425" }
+      {
+        "file": "365_190425_1.jpeg",
+        "date": "2019-04-25"
+      },
+      {
+        "file": "365_190425_2.jpeg",
+        "date": "2019-04-25"
+      }
     ]
   },
   {
     "pokeName": "パールル",
     "drawings": [
-      { "file": "366_191020_1.jpeg", "date": "191020" },
-      { "file": "366_191020_2.jpeg", "date": "191020" }
+      {
+        "file": "366_191020_1.jpeg",
+        "date": "2019-10-20"
+      },
+      {
+        "file": "366_191020_2.jpeg",
+        "date": "2019-10-20"
+      }
     ]
   },
-  { "pokeName": "ハンテール", "drawings": [] },
-  { "pokeName": "サクラビス", "drawings": [] },
-  { "pokeName": "ジーランス", "drawings": [] },
+  {
+    "pokeName": "ハンテール",
+    "drawings": []
+  },
+  {
+    "pokeName": "サクラビス",
+    "drawings": [
+      {
+        "file": "368_200228_1.jpeg",
+        "date": "2020-02-28"
+      }
+    ]
+  },
+  {
+    "pokeName": "ジーランス",
+    "drawings": [
+      {
+        "file": "369_200419_1.jpeg",
+        "date": "2020-04-19"
+      }
+    ]
+  },
   {
     "pokeName": "ラブカス",
-    "drawings": [{ "file": "370_190530_1.jpeg", "date": "190530" }]
+    "drawings": [
+      {
+        "file": "370_190530_1.jpeg",
+        "date": "2019-05-30"
+      }
+    ]
   },
-  { "pokeName": "タツベイ", "drawings": [] },
-  { "pokeName": "コモルー", "drawings": [] },
+  {
+    "pokeName": "タツベイ",
+    "drawings": [
+      {
+        "file": "371_200310_1.jpeg",
+        "date": "2020-03-10"
+      },
+      {
+        "file": "371_200310_2.jpeg",
+        "date": "2020-03-10"
+      }
+    ]
+  },
+  {
+    "pokeName": "コモルー",
+    "drawings": []
+  },
   {
     "pokeName": "ボーマンダ",
     "drawings": [
-      { "file": "373_190531_1.jpeg", "date": "190531" },
-      { "file": "373_190531_2.jpeg", "date": "190531" }
+      {
+        "file": "373_190531_1.jpeg",
+        "date": "2019-05-31"
+      },
+      {
+        "file": "373_190531_2.jpeg",
+        "date": "2019-05-31"
+      }
     ]
   },
   {
     "pokeName": "ダンバル",
     "drawings": [
-      { "file": "374_190203_1.jpeg", "date": "190203" },
-      { "file": "374_190203_2.jpeg", "date": "190203" }
+      {
+        "file": "374_190203_1.jpeg",
+        "date": "2019-02-03"
+      },
+      {
+        "file": "374_190203_2.jpeg",
+        "date": "2019-02-03"
+      }
     ]
   },
   {
     "pokeName": "メタング",
-    "drawings": [{ "file": "375_200106_1.jpeg", "date": "200106" }]
+    "drawings": [
+      {
+        "file": "375_200106_1.jpeg",
+        "date": "2020-01-06"
+      }
+    ]
   },
-  { "pokeName": "メタグロス", "drawings": [] },
+  {
+    "pokeName": "メタグロス",
+    "drawings": []
+  },
   {
     "pokeName": "レジロック",
-    "drawings": [{ "file": "377_190723_1.jpeg", "date": "190723" }]
+    "drawings": [
+      {
+        "file": "377_190723_1.jpeg",
+        "date": "2019-07-23"
+      }
+    ]
   },
-  { "pokeName": "レジアイス", "drawings": [] },
-  { "pokeName": "レジスチル", "drawings": [] },
-  { "pokeName": "ラティアス", "drawings": [] },
+  {
+    "pokeName": "レジアイス",
+    "drawings": []
+  },
+  {
+    "pokeName": "レジスチル",
+    "drawings": []
+  },
+  {
+    "pokeName": "ラティアス",
+    "drawings": [
+      {
+        "file": "380_200324_1.jpeg",
+        "date": "2020-03-24"
+      }
+    ]
+  },
   {
     "pokeName": "ラティオス",
     "drawings": [
-      { "file": "381_191009_1.jpeg", "date": "191009" },
-      { "file": "381_191009_2.jpeg", "date": "191009" }
+      {
+        "file": "381_191009_1.jpeg",
+        "date": "2019-10-09"
+      },
+      {
+        "file": "381_191009_2.jpeg",
+        "date": "2019-10-09"
+      }
     ]
   },
   {
     "pokeName": "カイオーガ",
     "drawings": [
-      { "file": "382_190505_1.jpeg", "date": "190505" },
-      { "file": "382_190505_2.jpeg", "date": "190505" }
+      {
+        "file": "382_190505_1.jpeg",
+        "date": "2019-05-05"
+      },
+      {
+        "file": "382_190505_2.jpeg",
+        "date": "2019-05-05"
+      }
     ]
   },
   {
     "pokeName": "グラードン",
     "drawings": [
-      { "file": "383_190903_1.jpeg", "date": "190903" },
-      { "file": "383_190903_2.jpeg", "date": "190903" }
+      {
+        "file": "383_190903_1.jpeg",
+        "date": "2019-09-03"
+      },
+      {
+        "file": "383_190903_2.jpeg",
+        "date": "2019-09-03"
+      }
     ]
   },
-  { "pokeName": "レックウザ", "drawings": [] },
+  {
+    "pokeName": "レックウザ",
+    "drawings": []
+  },
   {
     "pokeName": "ジラーチ",
     "drawings": [
-      { "file": "385_191206_1.jpeg", "date": "191206" },
-      { "file": "385_191206_2.jpeg", "date": "191206" }
+      {
+        "file": "385_191206_1.jpeg",
+        "date": "2019-12-06"
+      },
+      {
+        "file": "385_191206_2.jpeg",
+        "date": "2019-12-06"
+      }
     ]
   },
-  { "pokeName": "デオキシス", "drawings": [] },
+  {
+    "pokeName": "デオキシス",
+    "drawings": []
+  },
   {
     "pokeName": "ナエトル",
     "drawings": [
-      { "file": "387_191209_1.jpeg", "date": "191209" },
-      { "file": "387_191209_2.jpeg", "date": "191209" }
+      {
+        "file": "387_191209_1.jpeg",
+        "date": "2019-12-09"
+      },
+      {
+        "file": "387_191209_2.jpeg",
+        "date": "2019-12-09"
+      }
     ]
   },
-  { "pokeName": "ハヤシガメ", "drawings": [] },
-  { "pokeName": "ドダイトス", "drawings": [] },
+  {
+    "pokeName": "ハヤシガメ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ドダイトス",
+    "drawings": []
+  },
   {
     "pokeName": "ヒコザル",
-    "drawings": [{ "file": "390_191118_1.png", "date": "191118" }]
+    "drawings": [
+      {
+        "file": "390_191118_1.png",
+        "date": "2019-11-18"
+      }
+    ]
   },
-  { "pokeName": "モウカザル", "drawings": [] },
+  {
+    "pokeName": "モウカザル",
+    "drawings": []
+  },
   {
     "pokeName": "ゴウカザル",
     "drawings": [
-      { "file": "392_190213_1.jpeg", "date": "190213" },
-      { "file": "392_190213_2.jpeg", "date": "190213" }
+      {
+        "file": "392_190213_1.jpeg",
+        "date": "2019-02-13"
+      },
+      {
+        "file": "392_190213_2.jpeg",
+        "date": "2019-02-13"
+      }
     ]
   },
-  { "pokeName": "ポッチャマ", "drawings": [] },
+  {
+    "pokeName": "ポッチャマ",
+    "drawings": []
+  },
   {
     "pokeName": "ポッタイシ",
-    "drawings": [{ "file": "394_191123_1.jpeg", "date": "191123" }]
+    "drawings": [
+      {
+        "file": "394_191123_1.jpeg",
+        "date": "2019-11-23"
+      }
+    ]
   },
-  { "pokeName": "エンペルト", "drawings": [] },
+  {
+    "pokeName": "エンペルト",
+    "drawings": []
+  },
   {
     "pokeName": "ムックル",
     "drawings": [
-      { "file": "396_190528_1.jpeg", "date": "190528" },
-      { "file": "396_190927_1.jpeg", "date": "190927" }
+      {
+        "file": "396_190528_1.jpeg",
+        "date": "2019-05-28"
+      },
+      {
+        "file": "396_190927_1.jpeg",
+        "date": "2019-09-27"
+      }
     ]
   },
-  { "pokeName": "ムクバード", "drawings": [] },
-  { "pokeName": "ムクホーク", "drawings": [] },
+  {
+    "pokeName": "ムクバード",
+    "drawings": [
+      {
+        "file": "397_200515_1.jpeg",
+        "date": "2020-05-15"
+      }
+    ]
+  },
+  {
+    "pokeName": "ムクホーク",
+    "drawings": [
+      {
+        "file": "398_200425_1.jpeg",
+        "date": "2020-04-25"
+      }
+    ]
+  },
   {
     "pokeName": "ビッパ",
     "drawings": [
-      { "file": "399_190221_1.jpeg", "date": "190221" },
-      { "file": "399_190221_2.jpeg", "date": "190221" }
+      {
+        "file": "399_190221_1.jpeg",
+        "date": "2019-02-21"
+      },
+      {
+        "file": "399_190221_2.jpeg",
+        "date": "2019-02-21"
+      }
     ]
   },
-  { "pokeName": "ビーダル", "drawings": [] },
-  { "pokeName": "コロボーシ", "drawings": [] },
+  {
+    "pokeName": "ビーダル",
+    "drawings": []
+  },
+  {
+    "pokeName": "コロボーシ",
+    "drawings": []
+  },
   {
     "pokeName": "コロトック",
     "drawings": [
-      { "file": "402_190519_1.jpeg", "date": "190519" },
-      { "file": "402_190519_2.jpeg", "date": "190519" }
+      {
+        "file": "402_190519_1.jpeg",
+        "date": "2019-05-19"
+      },
+      {
+        "file": "402_190519_2.jpeg",
+        "date": "2019-05-19"
+      }
     ]
   },
-  { "pokeName": "コリンク", "drawings": [] },
+  {
+    "pokeName": "コリンク",
+    "drawings": []
+  },
   {
     "pokeName": "ルクシオ",
     "drawings": [
-      { "file": "404_191024_1.jpeg", "date": "191024" },
-      { "file": "404_191024_2.jpeg", "date": "191024" },
-      { "file": "404_191024_3.jpeg", "date": "191024" },
-      { "file": "404_191024_4.jpeg", "date": "191024" }
+      {
+        "file": "404_191024_1.jpeg",
+        "date": "2019-10-24"
+      },
+      {
+        "file": "404_191024_2.jpeg",
+        "date": "2019-10-24"
+      },
+      {
+        "file": "404_191024_3.jpeg",
+        "date": "2019-10-24"
+      },
+      {
+        "file": "404_191024_4.jpeg",
+        "date": "2019-10-24"
+      }
     ]
   },
   {
     "pokeName": "レントラー",
     "drawings": [
-      { "file": "405_190120_1.png", "date": "190120" },
-      { "file": "405_190120_2.png", "date": "190120" }
+      {
+        "file": "405_190120_1.png",
+        "date": "2019-01-20"
+      },
+      {
+        "file": "405_190120_2.png",
+        "date": "2019-01-20"
+      }
     ]
   },
-  { "pokeName": "スボミー", "drawings": [] },
-  { "pokeName": "ロズレイド", "drawings": [] },
-  { "pokeName": "ズガイドス", "drawings": [] },
-  { "pokeName": "ラムパルド", "drawings": [] },
+  {
+    "pokeName": "スボミー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ロズレイド",
+    "drawings": [
+      {
+        "file": "407_200509_1.jpeg",
+        "date": "2020-05-09"
+      },
+      {
+        "file": "407_200509_2.jpeg",
+        "date": "2020-05-09"
+      }
+    ]
+  },
+  {
+    "pokeName": "ズガイドス",
+    "drawings": []
+  },
+  {
+    "pokeName": "ラムパルド",
+    "drawings": []
+  },
   {
     "pokeName": "タテトプス",
     "drawings": [
-      { "file": "410_190324_1.jpeg", "date": "190324" },
-      { "file": "410_190324_2.jpeg", "date": "190324" }
+      {
+        "file": "410_190324_1.jpeg",
+        "date": "2019-03-24"
+      },
+      {
+        "file": "410_190324_2.jpeg",
+        "date": "2019-03-24"
+      }
     ]
   },
   {
     "pokeName": "トリデプス",
-    "drawings": [{ "file": "411_191005_1.jpeg", "date": "191005" }]
+    "drawings": [
+      {
+        "file": "411_191005_1.jpeg",
+        "date": "2019-10-05"
+      }
+    ]
   },
   {
     "pokeName": "ミノムッチ",
     "drawings": [
-      { "file": "412_190616_1.jpeg", "date": "190616" },
-      { "file": "412_190616_2.jpeg", "date": "190616" }
+      {
+        "file": "412_190616_1.jpeg",
+        "date": "2019-06-16"
+      },
+      {
+        "file": "412_190616_2.jpeg",
+        "date": "2019-06-16"
+      }
     ]
   },
-  { "pokeName": "ミノマダム", "drawings": [] },
-  { "pokeName": "ガーメイル", "drawings": [] },
-  { "pokeName": "ミツハニー", "drawings": [] },
+  {
+    "pokeName": "ミノマダム",
+    "drawings": []
+  },
+  {
+    "pokeName": "ガーメイル",
+    "drawings": []
+  },
+  {
+    "pokeName": "ミツハニー",
+    "drawings": []
+  },
   {
     "pokeName": "ビークイン",
     "drawings": [
-      { "file": "416_190831_1.jpeg", "date": "190831" },
-      { "file": "416_190831_2.jpeg", "date": "190831" }
+      {
+        "file": "416_190831_1.jpeg",
+        "date": "2019-08-31"
+      },
+      {
+        "file": "416_190831_2.jpeg",
+        "date": "2019-08-31"
+      }
     ]
   },
-  { "pokeName": "パチリス", "drawings": [] },
-  { "pokeName": "ブイゼル", "drawings": [] },
-  { "pokeName": "フローゼル", "drawings": [] },
+  {
+    "pokeName": "パチリス",
+    "drawings": []
+  },
+  {
+    "pokeName": "ブイゼル",
+    "drawings": [
+      {
+        "file": "418_200331_1.jpeg",
+        "date": "2020-03-31"
+      },
+      {
+        "file": "418_200331_2.jpeg",
+        "date": "2020-03-31"
+      }
+    ]
+  },
+  {
+    "pokeName": "フローゼル",
+    "drawings": []
+  },
   {
     "pokeName": "チェリンボ",
-    "drawings": [{ "file": "420_191112_2.jpeg", "date": "191112" }]
+    "drawings": [
+      {
+        "file": "420_191112_2.jpeg",
+        "date": "2019-11-12"
+      }
+    ]
   },
   {
     "pokeName": "チェリム",
     "drawings": [
-      { "file": "421_190818_1.jpeg", "date": "190818" },
-      { "file": "421_190818_2.jpeg", "date": "190818" }
+      {
+        "file": "421_190818_1.jpeg",
+        "date": "2019-08-18"
+      },
+      {
+        "file": "421_190818_2.jpeg",
+        "date": "2019-08-18"
+      }
     ]
   },
-  { "pokeName": "カラナクシ", "drawings": [] },
+  {
+    "pokeName": "カラナクシ",
+    "drawings": []
+  },
   {
     "pokeName": "トリトドン",
     "drawings": [
-      { "file": "423_190917_1.jpeg", "date": "190917" },
-      { "file": "423_190917_2.jpeg", "date": "190917" },
-      { "file": "423_191103_1.jpeg", "date": "191103" }
+      {
+        "file": "423_190917_1.jpeg",
+        "date": "2019-09-17"
+      },
+      {
+        "file": "423_190917_2.jpeg",
+        "date": "2019-09-17"
+      },
+      {
+        "file": "423_191103_1.jpeg",
+        "date": "2019-11-03"
+      }
     ]
   },
   {
     "pokeName": "エテボース",
     "drawings": [
-      { "file": "424_190517_1.jpeg", "date": "190517" },
-      { "file": "424_190517_2.jpeg", "date": "190517" }
+      {
+        "file": "424_190517_1.jpeg",
+        "date": "2019-05-17"
+      },
+      {
+        "file": "424_190517_2.jpeg",
+        "date": "2019-05-17"
+      }
     ]
   },
-  { "pokeName": "フワンテ", "drawings": [] },
-  { "pokeName": "フワライド", "drawings": [] },
-  { "pokeName": "ミミロル", "drawings": [] },
+  {
+    "pokeName": "フワンテ",
+    "drawings": [
+      {
+        "file": "425_200327_1.jpeg",
+        "date": "2020-03-27"
+      }
+    ]
+  },
+  {
+    "pokeName": "フワライド",
+    "drawings": []
+  },
+  {
+    "pokeName": "ミミロル",
+    "drawings": []
+  },
   {
     "pokeName": "ミミロップ",
     "drawings": [
-      { "file": "428_190328_1.jpeg", "date": "190328" },
-      { "file": "428_190328_2.jpeg", "date": "190328" }
+      {
+        "file": "428_190328_1.jpeg",
+        "date": "2019-03-28"
+      },
+      {
+        "file": "428_190328_2.jpeg",
+        "date": "2019-03-28"
+      }
     ]
   },
-  { "pokeName": "ムウマージ", "drawings": [] },
+  {
+    "pokeName": "ムウマージ",
+    "drawings": []
+  },
   {
     "pokeName": "ドンカラス",
     "drawings": [
-      { "file": "430_200127_1.jpeg", "date": "200127" },
-      { "file": "430_200127_2.jpeg", "date": "200127" }
+      {
+        "file": "430_200127_1.jpeg",
+        "date": "2020-01-27"
+      },
+      {
+        "file": "430_200127_2.jpeg",
+        "date": "2020-01-27"
+      }
     ]
   },
-  { "pokeName": "ニャルマー", "drawings": [] },
-  { "pokeName": "ブニャット", "drawings": [] },
-  { "pokeName": "リーシャン", "drawings": [] },
+  {
+    "pokeName": "ニャルマー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ブニャット",
+    "drawings": []
+  },
+  {
+    "pokeName": "リーシャン",
+    "drawings": [
+      {
+        "file": "433_200330_1.jpeg",
+        "date": "2020-03-30"
+      },
+      {
+        "file": "433_200330_2.jpeg",
+        "date": "2020-03-30"
+      }
+    ]
+  },
   {
     "pokeName": "スカンプー",
     "drawings": [
-      { "file": "434_190217_1.jpeg", "date": "190217" },
-      { "file": "434_190217_2.jpeg", "date": "190217" },
-      { "file": "434_191026_1.jpeg", "date": "191026" }
+      {
+        "file": "434_190217_1.jpeg",
+        "date": "2019-02-17"
+      },
+      {
+        "file": "434_190217_2.jpeg",
+        "date": "2019-02-17"
+      },
+      {
+        "file": "434_191026_1.jpeg",
+        "date": "2019-10-26"
+      }
     ]
   },
-  { "pokeName": "スカタンク", "drawings": [] },
-  { "pokeName": "ドーミラー", "drawings": [] },
+  {
+    "pokeName": "スカタンク",
+    "drawings": []
+  },
+  {
+    "pokeName": "ドーミラー",
+    "drawings": [
+      {
+        "file": "436_200407_1.jpeg",
+        "date": "2020-04-07"
+      }
+    ]
+  },
   {
     "pokeName": "ドータクン",
-    "drawings": [{ "file": "437_190307_1.jpeg", "date": "190307" }]
+    "drawings": [
+      {
+        "file": "437_190307_1.jpeg",
+        "date": "2019-03-07"
+      }
+    ]
   },
   {
     "pokeName": "ウソハチ",
     "drawings": [
-      { "file": "438_190315_1.jpeg", "date": "190315" },
-      { "file": "438_190315_2.jpeg", "date": "190315" }
+      {
+        "file": "438_190315_1.jpeg",
+        "date": "2019-03-15"
+      },
+      {
+        "file": "438_190315_2.jpeg",
+        "date": "2019-03-15"
+      }
     ]
   },
-  { "pokeName": "マネネ", "drawings": [] },
+  {
+    "pokeName": "マネネ",
+    "drawings": [
+      {
+        "file": "439_200516_1.jpeg",
+        "date": "2020-05-16"
+      },
+      {
+        "file": "439_200516_2.jpeg",
+        "date": "2020-05-16"
+      }
+    ]
+  },
   {
     "pokeName": "ピンプク",
     "drawings": [
-      { "file": "440_191030_1.jpeg", "date": "191030" },
-      { "file": "440_191030_2.jpeg", "date": "191030" }
+      {
+        "file": "440_191030_1.jpeg",
+        "date": "2019-10-30"
+      },
+      {
+        "file": "440_191030_2.jpeg",
+        "date": "2019-10-30"
+      }
     ]
   },
   {
     "pokeName": "ペラップ",
-    "drawings": [{ "file": "441_190424_1.jpeg", "date": "190424" }]
+    "drawings": [
+      {
+        "file": "441_190424_1.jpeg",
+        "date": "2019-04-24"
+      }
+    ]
   },
   {
     "pokeName": "ミカルゲ",
-    "drawings": [{ "file": "442_190924_1.png", "date": "190924" }]
+    "drawings": [
+      {
+        "file": "442_190924_1.png",
+        "date": "2019-09-24"
+      }
+    ]
   },
   {
     "pokeName": "フカマル",
-    "drawings": [{ "file": "443_190815_1.jpeg", "date": "190815" }]
+    "drawings": [
+      {
+        "file": "443_190815_1.jpeg",
+        "date": "2019-08-15"
+      }
+    ]
   },
-  { "pokeName": "ガバイト", "drawings": [] },
-  { "pokeName": "ガブリアス", "drawings": [] },
-  { "pokeName": "ゴンベ", "drawings": [] },
+  {
+    "pokeName": "ガバイト",
+    "drawings": [
+      {
+        "file": "444_200227_1.jpeg",
+        "date": "2020-02-27"
+      }
+    ]
+  },
+  {
+    "pokeName": "ガブリアス",
+    "drawings": []
+  },
+  {
+    "pokeName": "ゴンベ",
+    "drawings": [
+      {
+        "file": "446_200320_1.jpeg",
+        "date": "2020-03-20"
+      }
+    ]
+  },
   {
     "pokeName": "リオル",
     "drawings": [
-      { "file": "447_190127_1.jpeg", "date": "190127" },
-      { "file": "447_190127_2.jpeg", "date": "190127" }
+      {
+        "file": "447_190127_1.jpeg",
+        "date": "2019-01-27"
+      },
+      {
+        "file": "447_190127_2.jpeg",
+        "date": "2019-01-27"
+      }
     ]
   },
   {
     "pokeName": "ルカリオ",
     "drawings": [
-      { "file": "448_200128_1.jpeg", "date": "200128" },
-      { "file": "448_200128_2.jpeg", "date": "200128" },
-      { "file": "448_200128_3.jpeg", "date": "200128" }
+      {
+        "file": "448_200128_1.jpeg",
+        "date": "2020-01-28"
+      },
+      {
+        "file": "448_200128_2.jpeg",
+        "date": "2020-01-28"
+      },
+      {
+        "file": "448_200128_3.jpeg",
+        "date": "2020-01-28"
+      }
     ]
   },
-  { "pokeName": "ヒポポタス", "drawings": [] },
+  {
+    "pokeName": "ヒポポタス",
+    "drawings": []
+  },
   {
     "pokeName": "カバルドン",
     "drawings": [
-      { "file": "450_200202_1.jpeg", "date": "200202" },
-      { "file": "450_200202_2.jpeg", "date": "200202" }
+      {
+        "file": "450_200202_1.jpeg",
+        "date": "2020-02-02"
+      },
+      {
+        "file": "450_200202_2.jpeg",
+        "date": "2020-02-02"
+      }
     ]
   },
   {
     "pokeName": "スコルピ",
-    "drawings": [{ "file": "451_190922_1.jpeg", "date": "190922" }]
+    "drawings": [
+      {
+        "file": "451_190922_1.jpeg",
+        "date": "2019-09-22"
+      }
+    ]
   },
   {
     "pokeName": "ドラピオン",
     "drawings": [
-      { "file": "452_200210_1.jpeg", "date": "200210" },
-      { "file": "452_200210_2.jpeg", "date": "200210" }
+      {
+        "file": "452_200210_1.jpeg",
+        "date": "2020-02-10"
+      },
+      {
+        "file": "452_200210_2.jpeg",
+        "date": "2020-02-10"
+      }
     ]
   },
   {
     "pokeName": "グレッグル",
     "drawings": [
-      { "file": "453_190720_1.jpeg", "date": "190720" },
-      { "file": "453_190720_2.jpeg", "date": "190720" }
+      {
+        "file": "453_190720_1.jpeg",
+        "date": "2019-07-20"
+      },
+      {
+        "file": "453_190720_2.jpeg",
+        "date": "2019-07-20"
+      }
     ]
   },
-  { "pokeName": "ドクロッグ", "drawings": [] },
+  {
+    "pokeName": "ドクロッグ",
+    "drawings": []
+  },
   {
     "pokeName": "マスキッパ",
     "drawings": [
-      { "file": "455_190322_1.jpeg", "date": "190322" },
-      { "file": "455_190322_2.jpeg", "date": "190322" }
+      {
+        "file": "455_190322_1.jpeg",
+        "date": "2019-03-22"
+      },
+      {
+        "file": "455_190322_2.jpeg",
+        "date": "2019-03-22"
+      }
     ]
   },
-  { "pokeName": "ケイコウオ", "drawings": [] },
-  { "pokeName": "ネオラント", "drawings": [] },
+  {
+    "pokeName": "ケイコウオ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ネオラント",
+    "drawings": [
+      {
+        "file": "457_200422_1.jpeg",
+        "date": "2020-04-22"
+      },
+      {
+        "file": "457_200422_2.jpeg",
+        "date": "2020-04-22"
+      }
+    ]
+  },
   {
     "pokeName": "タマンタ",
     "drawings": [
-      { "file": "458_200119_1.jpeg", "date": "200119" },
-      { "file": "458_200119_2.jpeg", "date": "200119" }
+      {
+        "file": "458_200119_1.jpeg",
+        "date": "2020-01-19"
+      },
+      {
+        "file": "458_200119_2.jpeg",
+        "date": "2020-01-19"
+      }
     ]
   },
-  { "pokeName": "ユキカブリ", "drawings": [] },
+  {
+    "pokeName": "ユキカブリ",
+    "drawings": [
+      {
+        "file": "459_200501_1.jpeg",
+        "date": "2020-05-01"
+      },
+      {
+        "file": "459_200501_2.jpeg",
+        "date": "2020-05-01"
+      }
+    ]
+  },
   {
     "pokeName": "ユキノオー",
     "drawings": [
-      { "file": "460_191219_1.jpeg", "date": "191219" },
-      { "file": "460_191219_2.jpeg", "date": "191219" }
+      {
+        "file": "460_191219_1.jpeg",
+        "date": "2019-12-19"
+      },
+      {
+        "file": "460_191219_2.jpeg",
+        "date": "2019-12-19"
+      }
     ]
   },
   {
     "pokeName": "マニューラ",
-    "drawings": [{ "file": "461_191017_1.jpeg", "date": "191017" }]
+    "drawings": [
+      {
+        "file": "461_191017_1.jpeg",
+        "date": "2019-10-17"
+      }
+    ]
   },
   {
     "pokeName": "ジバコイル",
     "drawings": [
-      { "file": "462_200122_1.jpeg", "date": "200122" },
-      { "file": "462_200122_2.jpeg", "date": "200122" },
-      { "file": "462_200122_3.jpeg", "date": "200122" }
+      {
+        "file": "462_200122_1.jpeg",
+        "date": "2020-01-22"
+      },
+      {
+        "file": "462_200122_2.jpeg",
+        "date": "2020-01-22"
+      },
+      {
+        "file": "462_200122_3.jpeg",
+        "date": "2020-01-22"
+      }
     ]
   },
-  { "pokeName": "ベロベルト", "drawings": [] },
+  {
+    "pokeName": "ベロベルト",
+    "drawings": []
+  },
   {
     "pokeName": "ドサイドン",
     "drawings": [
-      { "file": "464_191218_1.jpeg", "date": "191218" },
-      { "file": "464_191218_2.jpeg", "date": "191218" }
+      {
+        "file": "464_191218_1.jpeg",
+        "date": "2019-12-18"
+      },
+      {
+        "file": "464_191218_2.jpeg",
+        "date": "2019-12-18"
+      }
     ]
   },
-  { "pokeName": "モジャンボ", "drawings": [] },
-  { "pokeName": "エレキブル", "drawings": [] },
+  {
+    "pokeName": "モジャンボ",
+    "drawings": []
+  },
+  {
+    "pokeName": "エレキブル",
+    "drawings": []
+  },
   {
     "pokeName": "ブーバーン",
     "drawings": [
-      { "file": "467_200208_1.jpeg", "date": "200208" },
-      { "file": "467_200208_2.jpeg", "date": "200208" }
+      {
+        "file": "467_200208_1.jpeg",
+        "date": "2020-02-08"
+      },
+      {
+        "file": "467_200208_2.jpeg",
+        "date": "2020-02-08"
+      }
     ]
   },
   {
     "pokeName": "トゲキッス",
-    "drawings": [{ "file": "468_190330_1.jpeg", "date": "190330" }]
+    "drawings": [
+      {
+        "file": "468_190330_1.jpeg",
+        "date": "2019-03-30"
+      }
+    ]
   },
-  { "pokeName": "メガヤンマ", "drawings": [] },
+  {
+    "pokeName": "メガヤンマ",
+    "drawings": []
+  },
   {
     "pokeName": "リーフィア",
-    "drawings": [{ "file": "470_200112_1.jpeg", "date": "200112" }]
+    "drawings": [
+      {
+        "file": "470_200112_1.jpeg",
+        "date": "2020-01-12"
+      }
+    ]
   },
-  { "pokeName": "グレイシア", "drawings": [] },
+  {
+    "pokeName": "グレイシア",
+    "drawings": []
+  },
   {
     "pokeName": "グライオン",
     "drawings": [
-      { "file": "472_190210_1.jpeg", "date": "190210" },
-      { "file": "472_190210_2.jpeg", "date": "190210" }
+      {
+        "file": "472_190210_1.jpeg",
+        "date": "2019-02-10"
+      },
+      {
+        "file": "472_190210_2.jpeg",
+        "date": "2019-02-10"
+      }
     ]
   },
   {
     "pokeName": "マンムー",
     "drawings": [
-      { "file": "473_191231_1.jpeg", "date": "191231" },
-      { "file": "473_191231_2.jpeg", "date": "191231" }
+      {
+        "file": "473_191231_1.jpeg",
+        "date": "2019-12-31"
+      },
+      {
+        "file": "473_191231_2.jpeg",
+        "date": "2019-12-31"
+      }
     ]
   },
-  { "pokeName": "ポリゴンZ", "drawings": [] },
+  {
+    "pokeName": "ポリゴンZ",
+    "drawings": [
+      {
+        "file": "474_200315_1.jpeg",
+        "date": "2020-03-15"
+      },
+      {
+        "file": "474_200315_2.jpeg",
+        "date": "2020-03-15"
+      }
+    ]
+  },
   {
     "pokeName": "エルレイド",
     "drawings": [
-      { "file": "475_191210_1.jpeg", "date": "191210" },
-      { "file": "475_191210_2.jpeg", "date": "191210" }
+      {
+        "file": "475_191210_1.jpeg",
+        "date": "2019-12-10"
+      },
+      {
+        "file": "475_191210_2.jpeg",
+        "date": "2019-12-10"
+      }
     ]
   },
-  { "pokeName": "ダイノーズ", "drawings": [] },
+  {
+    "pokeName": "ダイノーズ",
+    "drawings": []
+  },
   {
     "pokeName": "ヨノワール",
     "drawings": [
-      { "file": "477_191011_1.jpeg", "date": "191011" },
-      { "file": "477_191011_2.jpeg", "date": "191011" }
+      {
+        "file": "477_191011_1.jpeg",
+        "date": "2019-10-11"
+      },
+      {
+        "file": "477_191011_2.jpeg",
+        "date": "2019-10-11"
+      }
     ]
   },
   {
     "pokeName": "ユキメノコ",
     "drawings": [
-      { "file": "478_200118_1.jpeg", "date": "200118" },
-      { "file": "478_200118_2.jpeg", "date": "200118" }
+      {
+        "file": "478_200118_1.jpeg",
+        "date": "2020-01-18"
+      },
+      {
+        "file": "478_200118_2.jpeg",
+        "date": "2020-01-18"
+      }
     ]
   },
   {
     "pokeName": "ロトム",
     "drawings": [
-      { "file": "479_190503_1.jpeg", "date": "190503" },
-      { "file": "479_190503_2.jpeg", "date": "190503" }
+      {
+        "file": "479_190503_1.jpeg",
+        "date": "2019-05-03"
+      },
+      {
+        "file": "479_190503_2.jpeg",
+        "date": "2019-05-03"
+      }
     ]
   },
-  { "pokeName": "ユクシー", "drawings": [] },
+  {
+    "pokeName": "ユクシー",
+    "drawings": []
+  },
   {
     "pokeName": "エムリット",
     "drawings": [
-      { "file": "481_190604_1.jpeg", "date": "190604" },
-      { "file": "481_190604_2.jpeg", "date": "190604" },
-      { "file": "481_190604_3.jpeg", "date": "190604" }
+      {
+        "file": "481_190604_1.jpeg",
+        "date": "2019-06-04"
+      },
+      {
+        "file": "481_190604_2.jpeg",
+        "date": "2019-06-04"
+      },
+      {
+        "file": "481_190604_3.jpeg",
+        "date": "2019-06-04"
+      }
     ]
   },
   {
     "pokeName": "アグノム",
-    "drawings": [{ "file": "482_190401_1.jpeg", "date": "190401" }]
+    "drawings": [
+      {
+        "file": "482_190401_1.jpeg",
+        "date": "2019-04-01"
+      }
+    ]
   },
   {
     "pokeName": "ディアルガ",
-    "drawings": [{ "file": "483_191213_1.jpeg", "date": "191213" }]
+    "drawings": [
+      {
+        "file": "483_191213_1.jpeg",
+        "date": "2019-12-13"
+      }
+    ]
   },
-  { "pokeName": "パルキア", "drawings": [] },
+  {
+    "pokeName": "パルキア",
+    "drawings": []
+  },
   {
     "pokeName": "ヒードラン",
     "drawings": [
-      { "file": "485_200201_1.jpeg", "date": "200201" },
-      { "file": "485_200201_2.jpeg", "date": "200201" }
+      {
+        "file": "485_200201_1.jpeg",
+        "date": "2020-02-01"
+      },
+      {
+        "file": "485_200201_2.jpeg",
+        "date": "2020-02-01"
+      }
     ]
   },
-  { "pokeName": "レギジガス", "drawings": [] },
+  {
+    "pokeName": "レギジガス",
+    "drawings": []
+  },
   {
     "pokeName": "ギラティナ",
     "drawings": [
-      { "file": "487_191027_1.jpeg", "date": "191027" },
-      { "file": "487_191027_2.jpeg", "date": "191027" }
+      {
+        "file": "487_191027_1.jpeg",
+        "date": "2019-10-27"
+      },
+      {
+        "file": "487_191027_2.jpeg",
+        "date": "2019-10-27"
+      }
     ]
   },
   {
     "pokeName": "クレセリア",
-    "drawings": [{ "file": "488_190630_1.jpeg", "date": "190630" }]
+    "drawings": [
+      {
+        "file": "488_190630_1.jpeg",
+        "date": "2019-06-30"
+      }
+    ]
   },
   {
     "pokeName": "フィオネ",
     "drawings": [
-      { "file": "489_190724_1.jpeg", "date": "190724" },
-      { "file": "489_190724_2.jpeg", "date": "190724" }
+      {
+        "file": "489_190724_1.jpeg",
+        "date": "2019-07-24"
+      },
+      {
+        "file": "489_190724_2.jpeg",
+        "date": "2019-07-24"
+      }
     ]
   },
   {
     "pokeName": "マナフィ",
-    "drawings": [{ "file": "490_190317_1.jpeg", "date": "190317" }]
+    "drawings": [
+      {
+        "file": "490_190317_1.jpeg",
+        "date": "2019-03-17"
+      }
+    ]
   },
   {
     "pokeName": "ダークライ",
     "drawings": [
-      { "file": "491_191007_1.jpeg", "date": "191007" },
-      { "file": "491_191007_2.jpeg", "date": "191007" }
+      {
+        "file": "491_191007_1.jpeg",
+        "date": "2019-10-07"
+      },
+      {
+        "file": "491_191007_2.jpeg",
+        "date": "2019-10-07"
+      }
     ]
   },
-  { "pokeName": "シェイミ", "drawings": [] },
-  { "pokeName": "アルセウス", "drawings": [] },
-  { "pokeName": "ビクティニ", "drawings": [] },
+  {
+    "pokeName": "シェイミ",
+    "drawings": []
+  },
+  {
+    "pokeName": "アルセウス",
+    "drawings": []
+  },
+  {
+    "pokeName": "ビクティニ",
+    "drawings": []
+  },
   {
     "pokeName": "ツタージャ",
     "drawings": [
-      { "file": "495_190218_1.jpeg", "date": "190218" },
-      { "file": "495_190218_2.jpeg", "date": "190218" }
+      {
+        "file": "495_190218_1.jpeg",
+        "date": "2019-02-18"
+      },
+      {
+        "file": "495_190218_2.jpeg",
+        "date": "2019-02-18"
+      }
     ]
   },
-  { "pokeName": "ジャノビー", "drawings": [] },
-  { "pokeName": "ジャローダ", "drawings": [] },
+  {
+    "pokeName": "ジャノビー",
+    "drawings": [
+      {
+        "file": "496_200418_1.jpeg",
+        "date": "2020-04-18"
+      }
+    ]
+  },
+  {
+    "pokeName": "ジャローダ",
+    "drawings": []
+  },
   {
     "pokeName": "ポカブ",
     "drawings": [
-      { "file": "498_190920_1.jpeg", "date": "190920" },
-      { "file": "498_190920_2.jpeg", "date": "190920" }
+      {
+        "file": "498_190920_1.jpeg",
+        "date": "2019-09-20"
+      },
+      {
+        "file": "498_190920_2.jpeg",
+        "date": "2019-09-20"
+      }
     ]
   },
-  { "pokeName": "チャオブー", "drawings": [] },
+  {
+    "pokeName": "チャオブー",
+    "drawings": []
+  },
   {
     "pokeName": "エンブオー",
     "drawings": [
-      { "file": "500_190325_1.jpeg", "date": "190325" },
-      { "file": "500_190325_2.jpeg", "date": "190325" }
+      {
+        "file": "500_190325_1.jpeg",
+        "date": "2019-03-25"
+      },
+      {
+        "file": "500_190325_2.jpeg",
+        "date": "2019-03-25"
+      }
     ]
   },
   {
     "pokeName": "ミジュマル",
     "drawings": [
-      { "file": "501_190607_1.jpeg", "date": "190607" },
-      { "file": "501_190607_2.jpeg", "date": "190607" }
+      {
+        "file": "501_190607_1.jpeg",
+        "date": "2019-06-07"
+      },
+      {
+        "file": "501_190607_2.jpeg",
+        "date": "2019-06-07"
+      }
     ]
   },
-  { "pokeName": "フタチマル", "drawings": [] },
+  {
+    "pokeName": "フタチマル",
+    "drawings": []
+  },
   {
     "pokeName": "ダイケンキ",
-    "drawings": [{ "file": "503_190427_1.jpeg", "date": "190427" }]
+    "drawings": [
+      {
+        "file": "503_190427_1.jpeg",
+        "date": "2019-04-27"
+      }
+    ]
   },
-  { "pokeName": "ミネズミ", "drawings": [] },
-  { "pokeName": "ミルホッグ", "drawings": [] },
-  { "pokeName": "ヨーテリー", "drawings": [] },
-  { "pokeName": "ハーデリア", "drawings": [] },
+  {
+    "pokeName": "ミネズミ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ミルホッグ",
+    "drawings": [
+      {
+        "file": "505_200404_1.jpeg",
+        "date": "2020-04-04"
+      },
+      {
+        "file": "505_200404_2.jpeg",
+        "date": "2020-04-04"
+      }
+    ]
+  },
+  {
+    "pokeName": "ヨーテリー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ハーデリア",
+    "drawings": []
+  },
   {
     "pokeName": "ムーランド",
-    "drawings": [{ "file": "508_191004_1.jpeg", "date": "191004" }]
+    "drawings": [
+      {
+        "file": "508_191004_1.jpeg",
+        "date": "2019-10-04"
+      }
+    ]
   },
-  { "pokeName": "チョロネコ", "drawings": [] },
+  {
+    "pokeName": "チョロネコ",
+    "drawings": []
+  },
   {
     "pokeName": "レパルダス",
     "drawings": [
-      { "file": "510_190801_1.jpeg", "date": "190801" },
-      { "file": "510_190801_2.jpeg", "date": "190801" }
+      {
+        "file": "510_190801_1.jpeg",
+        "date": "2019-08-01"
+      },
+      {
+        "file": "510_190801_2.jpeg",
+        "date": "2019-08-01"
+      }
     ]
   },
-  { "pokeName": "ヤナップ", "drawings": [] },
+  {
+    "pokeName": "ヤナップ",
+    "drawings": []
+  },
   {
     "pokeName": "ヤナッキー",
-    "drawings": [{ "file": "512_191124_1.jpeg", "date": "191124" }]
+    "drawings": [
+      {
+        "file": "512_191124_1.jpeg",
+        "date": "2019-11-24"
+      }
+    ]
   },
   {
     "pokeName": "バオップ",
     "drawings": [
-      { "file": "513_190925_1.jpeg", "date": "190925" },
-      { "file": "513_190925_2.jpeg", "date": "190925" }
+      {
+        "file": "513_190925_1.jpeg",
+        "date": "2019-09-25"
+      },
+      {
+        "file": "513_190925_2.jpeg",
+        "date": "2019-09-25"
+      }
     ]
   },
-  { "pokeName": "バオッキー", "drawings": [] },
+  {
+    "pokeName": "バオッキー",
+    "drawings": [
+      {
+        "file": "514_200306_1.jpeg",
+        "date": "2020-03-06"
+      }
+    ]
+  },
   {
     "pokeName": "ヒヤップ",
-    "drawings": [{ "file": "515_191204_2.jpeg", "date": "191204" }]
+    "drawings": [
+      {
+        "file": "515_191204_2.jpeg",
+        "date": "2019-12-04"
+      }
+    ]
   },
   {
     "pokeName": "ヒヤッキー",
     "drawings": [
-      { "file": "516_190810_1.jpeg", "date": "190810" },
-      { "file": "516_190810_2.jpeg", "date": "190810" },
-      { "file": "516_190810_3.jpeg", "date": "190810" },
-      { "file": "516_190930_1.jpeg", "date": "190930" },
-      { "file": "516_190930_2.jpeg", "date": "190930" }
+      {
+        "file": "516_190810_1.jpeg",
+        "date": "2019-08-10"
+      },
+      {
+        "file": "516_190810_2.jpeg",
+        "date": "2019-08-10"
+      },
+      {
+        "file": "516_190810_3.jpeg",
+        "date": "2019-08-10"
+      },
+      {
+        "file": "516_190930_1.jpeg",
+        "date": "2019-09-30"
+      },
+      {
+        "file": "516_190930_2.jpeg",
+        "date": "2019-09-30"
+      }
     ]
   },
   {
     "pokeName": "ムンナ",
     "drawings": [
-      { "file": "517_190506_1.jpeg", "date": "190506" },
-      { "file": "517_190506_2.jpeg", "date": "190506" },
-      { "file": "517_190812_1.jpeg", "date": "190812" },
-      { "file": "517_191112_1.jpeg", "date": "191112" }
+      {
+        "file": "517_190506_1.jpeg",
+        "date": "2019-05-06"
+      },
+      {
+        "file": "517_190506_2.jpeg",
+        "date": "2019-05-06"
+      },
+      {
+        "file": "517_190812_1.jpeg",
+        "date": "2019-08-12"
+      },
+      {
+        "file": "517_191112_1.jpeg",
+        "date": "2019-11-12"
+      }
     ]
   },
-  { "pokeName": "ムシャーナ", "drawings": [] },
+  {
+    "pokeName": "ムシャーナ",
+    "drawings": [
+      {
+        "file": "518_200416_1.jpeg",
+        "date": "2020-04-16"
+      }
+    ]
+  },
   {
     "pokeName": "マメパト",
     "drawings": [
-      { "file": "519_190702_1.jpeg", "date": "190702" },
-      { "file": "519_190702_2.jpeg", "date": "190702" }
+      {
+        "file": "519_190702_1.jpeg",
+        "date": "2019-07-02"
+      },
+      {
+        "file": "519_190702_2.jpeg",
+        "date": "2019-07-02"
+      }
     ]
   },
-  { "pokeName": "ハトーボー", "drawings": [] },
-  { "pokeName": "ケンホロウ", "drawings": [] },
+  {
+    "pokeName": "ハトーボー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ケンホロウ",
+    "drawings": []
+  },
   {
     "pokeName": "シママ",
     "drawings": [
-      { "file": "522_190211_1.jpeg", "date": "190211" },
-      { "file": "522_190211_2.jpeg", "date": "190211" }
+      {
+        "file": "522_190211_1.jpeg",
+        "date": "2019-02-11"
+      },
+      {
+        "file": "522_190211_2.jpeg",
+        "date": "2019-02-11"
+      }
     ]
   },
-  { "pokeName": "ゼブライカ", "drawings": [] },
+  {
+    "pokeName": "ゼブライカ",
+    "drawings": []
+  },
   {
     "pokeName": "ダンゴロ",
-    "drawings": [{ "file": "524_190704_1.jpeg", "date": "190704" }]
+    "drawings": [
+      {
+        "file": "524_190704_1.jpeg",
+        "date": "2019-07-04"
+      }
+    ]
   },
   {
     "pokeName": "ガントル",
     "drawings": [
-      { "file": "525_190403_1.jpeg", "date": "190403" },
-      { "file": "525_190731_1.jpeg", "date": "190731" },
-      { "file": "525_190731_2.jpeg", "date": "190731" }
+      {
+        "file": "525_190403_1.jpeg",
+        "date": "2019-04-03"
+      },
+      {
+        "file": "525_190731_1.jpeg",
+        "date": "2019-07-31"
+      },
+      {
+        "file": "525_190731_2.jpeg",
+        "date": "2019-07-31"
+      }
     ]
   },
   {
     "pokeName": "ギガイアス",
     "drawings": [
-      { "file": "526_190204_1.jpeg", "date": "190204" },
-      { "file": "526_190204_2.jpeg", "date": "190204" }
+      {
+        "file": "526_190204_1.jpeg",
+        "date": "2019-02-04"
+      },
+      {
+        "file": "526_190204_2.jpeg",
+        "date": "2019-02-04"
+      }
     ]
   },
-  { "pokeName": "コロモリ", "drawings": [] },
-  { "pokeName": "ココロモリ", "drawings": [] },
+  {
+    "pokeName": "コロモリ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ココロモリ",
+    "drawings": []
+  },
   {
     "pokeName": "モグリュー",
-    "drawings": [{ "file": "529_190707_1.jpeg", "date": "190707" }]
+    "drawings": [
+      {
+        "file": "529_190707_1.jpeg",
+        "date": "2019-07-07"
+      }
+    ]
   },
-  { "pokeName": "ドリュウズ", "drawings": [] },
+  {
+    "pokeName": "ドリュウズ",
+    "drawings": []
+  },
   {
     "pokeName": "タブンネ",
     "drawings": [
-      { "file": "531_191026_1.jpeg", "date": "191026" },
-      { "file": "531_191026_2.jpeg", "date": "191026" }
+      {
+        "file": "531_191026_1.jpeg",
+        "date": "2019-10-26"
+      },
+      {
+        "file": "531_191026_2.jpeg",
+        "date": "2019-10-26"
+      }
     ]
   },
   {
     "pokeName": "ドッコラー",
     "drawings": [
-      { "file": "532_190610_1.jpeg", "date": "190610" },
-      { "file": "532_190610_2.jpeg", "date": "190610" }
+      {
+        "file": "532_190610_1.jpeg",
+        "date": "2019-06-10"
+      },
+      {
+        "file": "532_190610_2.jpeg",
+        "date": "2019-06-10"
+      }
     ]
   },
-  { "pokeName": "ドテッコツ", "drawings": [] },
-  { "pokeName": "ローブシン", "drawings": [] },
-  { "pokeName": "オタマロ", "drawings": [] },
+  {
+    "pokeName": "ドテッコツ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ローブシン",
+    "drawings": []
+  },
+  {
+    "pokeName": "オタマロ",
+    "drawings": []
+  },
   {
     "pokeName": "ガマガル",
     "drawings": [
-      { "file": "536_190624_1.jpeg", "date": "190624" },
-      { "file": "536_190624_2.jpeg", "date": "190624" }
+      {
+        "file": "536_190624_1.jpeg",
+        "date": "2019-06-24"
+      },
+      {
+        "file": "536_190624_2.jpeg",
+        "date": "2019-06-24"
+      }
     ]
   },
   {
     "pokeName": "ガマゲロゲ",
-    "drawings": [{ "file": "537_190430_1.jpeg", "date": "190430" }]
+    "drawings": [
+      {
+        "file": "537_190430_1.jpeg",
+        "date": "2019-04-30"
+      }
+    ]
   },
-  { "pokeName": "ナゲキ", "drawings": [] },
+  {
+    "pokeName": "ナゲキ",
+    "drawings": []
+  },
   {
     "pokeName": "ダゲキ",
-    "drawings": [{ "file": "539_191103_1.jpeg", "date": "191103" }]
+    "drawings": [
+      {
+        "file": "539_191103_1.jpeg",
+        "date": "2019-11-03"
+      }
+    ]
   },
   {
     "pokeName": "クルミル",
     "drawings": [
-      { "file": "540_191126_1.jpeg", "date": "191126" },
-      { "file": "540_191126_2.jpeg", "date": "191126" }
+      {
+        "file": "540_191126_1.jpeg",
+        "date": "2019-11-26"
+      },
+      {
+        "file": "540_191126_2.jpeg",
+        "date": "2019-11-26"
+      }
     ]
   },
-  { "pokeName": "クルマユ", "drawings": [] },
+  {
+    "pokeName": "クルマユ",
+    "drawings": []
+  },
   {
     "pokeName": "ハハコモリ",
     "drawings": [
-      { "file": "542_190309_1.jpeg", "date": "190309" },
-      { "file": "542_190309_2.png", "date": "190309" }
+      {
+        "file": "542_190309_1.jpeg",
+        "date": "2019-03-09"
+      },
+      {
+        "file": "542_190309_2.png",
+        "date": "2019-03-09"
+      }
     ]
   },
-  { "pokeName": "フシデ", "drawings": [] },
+  {
+    "pokeName": "フシデ",
+    "drawings": []
+  },
   {
     "pokeName": "ホイーガ",
     "drawings": [
-      { "file": "544_190901_1.jpeg", "date": "190901" },
-      { "file": "544_190901_2.jpeg", "date": "190901" }
+      {
+        "file": "544_190901_1.jpeg",
+        "date": "2019-09-01"
+      },
+      {
+        "file": "544_190901_2.jpeg",
+        "date": "2019-09-01"
+      }
     ]
   },
   {
     "pokeName": "ペンドラー",
     "drawings": [
-      { "file": "545_190906_1.jpeg", "date": "190906" },
-      { "file": "545_190906_2.jpeg", "date": "190906" }
+      {
+        "file": "545_190906_1.jpeg",
+        "date": "2019-09-06"
+      },
+      {
+        "file": "545_190906_2.jpeg",
+        "date": "2019-09-06"
+      }
     ]
   },
   {
     "pokeName": "モンメン",
     "drawings": [
-      { "file": "546_191014_1.jpeg", "date": "191014" },
-      { "file": "546_191014_2.jpeg", "date": "191014" }
+      {
+        "file": "546_191014_1.jpeg",
+        "date": "2019-10-14"
+      },
+      {
+        "file": "546_191014_2.jpeg",
+        "date": "2019-10-14"
+      }
     ]
   },
   {
     "pokeName": "エルフーン",
     "drawings": [
-      { "file": "547_191215_1.jpeg", "date": "191215" },
-      { "file": "547_191215_2.jpeg", "date": "191215" }
+      {
+        "file": "547_191215_1.jpeg",
+        "date": "2019-12-15"
+      },
+      {
+        "file": "547_191215_2.jpeg",
+        "date": "2019-12-15"
+      }
     ]
   },
-  { "pokeName": "チュリネ", "drawings": [] },
+  {
+    "pokeName": "チュリネ",
+    "drawings": []
+  },
   {
     "pokeName": "ドレディア",
     "drawings": [
-      { "file": "549_190827_1.jpeg", "date": "190827" },
-      { "file": "549_190827_2.jpeg", "date": "190827" }
+      {
+        "file": "549_190827_1.jpeg",
+        "date": "2019-08-27"
+      },
+      {
+        "file": "549_190827_2.jpeg",
+        "date": "2019-08-27"
+      }
     ]
   },
-  { "pokeName": "バスラオ", "drawings": [] },
-  { "pokeName": "メグロコ", "drawings": [] },
-  { "pokeName": "ワルビル", "drawings": [] },
-  { "pokeName": "ワルビアル", "drawings": [] },
+  {
+    "pokeName": "バスラオ",
+    "drawings": []
+  },
+  {
+    "pokeName": "メグロコ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ワルビル",
+    "drawings": [
+      {
+        "file": "552_200322_1.jpeg",
+        "date": "2020-03-22"
+      }
+    ]
+  },
+  {
+    "pokeName": "ワルビアル",
+    "drawings": []
+  },
   {
     "pokeName": "ダルマッカ",
     "drawings": [
-      { "file": "554_200108_1.jpeg", "date": "200108" },
-      { "file": "554_200108_2.jpeg", "date": "200108" }
+      {
+        "file": "554_200108_1.jpeg",
+        "date": "2020-01-08"
+      },
+      {
+        "file": "554_200108_2.jpeg",
+        "date": "2020-01-08"
+      }
     ]
   },
-  { "pokeName": "ヒヒダルマ", "drawings": [] },
-  { "pokeName": "マラカッチ", "drawings": [] },
-  { "pokeName": "イシズマイ", "drawings": [] },
+  {
+    "pokeName": "ヒヒダルマ",
+    "drawings": []
+  },
+  {
+    "pokeName": "マラカッチ",
+    "drawings": []
+  },
+  {
+    "pokeName": "イシズマイ",
+    "drawings": []
+  },
   {
     "pokeName": "イワパレス",
     "drawings": [
-      { "file": "558_190207_1.jpeg", "date": "190207" },
-      { "file": "558_190207_2.jpeg", "date": "190207" }
+      {
+        "file": "558_190207_1.jpeg",
+        "date": "2019-02-07"
+      },
+      {
+        "file": "558_190207_2.jpeg",
+        "date": "2019-02-07"
+      }
     ]
   },
-  { "pokeName": "ズルッグ", "drawings": [] },
-  { "pokeName": "ズルズキン", "drawings": [] },
-  { "pokeName": "シンボラー", "drawings": [] },
-  { "pokeName": "デスマス", "drawings": [] },
-  { "pokeName": "デスカーン", "drawings": [] },
+  {
+    "pokeName": "ズルッグ",
+    "drawings": [
+      {
+        "file": "559_200503_1.jpeg",
+        "date": "2020-05-03"
+      },
+      {
+        "file": "559_200503_2.jpeg",
+        "date": "2020-05-03"
+      }
+    ]
+  },
+  {
+    "pokeName": "ズルズキン",
+    "drawings": []
+  },
+  {
+    "pokeName": "シンボラー",
+    "drawings": []
+  },
+  {
+    "pokeName": "デスマス",
+    "drawings": []
+  },
+  {
+    "pokeName": "デスカーン",
+    "drawings": []
+  },
   {
     "pokeName": "プロトーガ",
     "drawings": [
-      { "file": "564_190608_1.jpeg", "date": "190608" },
-      { "file": "564_190608_2.jpeg", "date": "190608" }
+      {
+        "file": "564_190608_1.jpeg",
+        "date": "2019-06-08"
+      },
+      {
+        "file": "564_190608_2.jpeg",
+        "date": "2019-06-08"
+      }
     ]
   },
   {
     "pokeName": "アバゴーラ",
     "drawings": [
-      { "file": "565_190729_1.jpeg", "date": "190729" },
-      { "file": "565_190729_2.jpeg", "date": "190729" }
+      {
+        "file": "565_190729_1.jpeg",
+        "date": "2019-07-29"
+      },
+      {
+        "file": "565_190729_2.jpeg",
+        "date": "2019-07-29"
+      }
     ]
   },
   {
     "pokeName": "アーケン",
-    "drawings": [{ "file": "566_190402_1.jpeg", "date": "190402" }]
+    "drawings": [
+      {
+        "file": "566_190402_1.jpeg",
+        "date": "2019-04-02"
+      }
+    ]
   },
-  { "pokeName": "アーケオス", "drawings": [] },
+  {
+    "pokeName": "アーケオス",
+    "drawings": []
+  },
   {
     "pokeName": "ヤブクロン",
     "drawings": [
-      { "file": "568_190727_1.jpeg", "date": "190727" },
-      { "file": "568_190727_2.jpeg", "date": "190727" },
-      { "file": "568_190727_3.jpeg", "date": "190727" }
+      {
+        "file": "568_190727_1.jpeg",
+        "date": "2019-07-27"
+      },
+      {
+        "file": "568_190727_2.jpeg",
+        "date": "2019-07-27"
+      },
+      {
+        "file": "568_190727_3.jpeg",
+        "date": "2019-07-27"
+      }
     ]
   },
   {
     "pokeName": "ダストダス",
     "drawings": [
-      { "file": "569_191115_1.jpeg", "date": "191115" },
-      { "file": "569_191115_2.jpeg", "date": "191115" }
+      {
+        "file": "569_191115_1.jpeg",
+        "date": "2019-11-15"
+      },
+      {
+        "file": "569_191115_2.jpeg",
+        "date": "2019-11-15"
+      }
     ]
   },
-  { "pokeName": "ゾロア", "drawings": [] },
+  {
+    "pokeName": "ゾロア",
+    "drawings": []
+  },
   {
     "pokeName": "ゾロアーク",
     "drawings": [
-      { "file": "571_190306_1.jpeg", "date": "190306" },
-      { "file": "571_190306_2.jpeg", "date": "190306" }
+      {
+        "file": "571_190306_1.jpeg",
+        "date": "2019-03-06"
+      },
+      {
+        "file": "571_190306_2.jpeg",
+        "date": "2019-03-06"
+      }
     ]
   },
-  { "pokeName": "チラーミィ", "drawings": [] },
-  { "pokeName": "チラチーノ", "drawings": [] },
+  {
+    "pokeName": "チラーミィ",
+    "drawings": [
+      {
+        "file": "572_200507_1.jpeg",
+        "date": "2020-05-07"
+      },
+      {
+        "file": "572_200507_2.jpeg",
+        "date": "2020-05-07"
+      }
+    ]
+  },
+  {
+    "pokeName": "チラチーノ",
+    "drawings": []
+  },
   {
     "pokeName": "ゴチム",
     "drawings": [
-      { "file": "574_190912_1.jpeg", "date": "190912" },
-      { "file": "574_190912_2.jpeg", "date": "190912" }
+      {
+        "file": "574_190912_1.jpeg",
+        "date": "2019-09-12"
+      },
+      {
+        "file": "574_190912_2.jpeg",
+        "date": "2019-09-12"
+      }
     ]
   },
   {
     "pokeName": "ゴチミル",
     "drawings": [
-      { "file": "575_200209_1.jpeg", "date": "200209" },
-      { "file": "575_200209_2.jpeg", "date": "200209" }
+      {
+        "file": "575_200209_1.jpeg",
+        "date": "2020-02-09"
+      },
+      {
+        "file": "575_200209_2.jpeg",
+        "date": "2020-02-09"
+      }
     ]
   },
-  { "pokeName": "ゴチルゼル", "drawings": [] },
+  {
+    "pokeName": "ゴチルゼル",
+    "drawings": []
+  },
   {
     "pokeName": "ユニラン",
     "drawings": [
-      { "file": "577_190326_1.jpeg", "date": "190326" },
-      { "file": "577_190326_2.png", "date": "190326" }
+      {
+        "file": "577_190326_1.jpeg",
+        "date": "2019-03-26"
+      },
+      {
+        "file": "577_190326_2.png",
+        "date": "2019-03-26"
+      }
     ]
   },
-  { "pokeName": "ダブラン", "drawings": [] },
-  { "pokeName": "ランクルス", "drawings": [] },
+  {
+    "pokeName": "ダブラン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ランクルス",
+    "drawings": []
+  },
   {
     "pokeName": "コアルヒー",
     "drawings": [
-      { "file": "580_190914_1.png", "date": "190914" },
-      { "file": "580_190914_2.png", "date": "190914" }
+      {
+        "file": "580_190914_1.png",
+        "date": "2019-09-14"
+      },
+      {
+        "file": "580_190914_2.png",
+        "date": "2019-09-14"
+      }
     ]
   },
-  { "pokeName": "スワンナ", "drawings": [] },
-  { "pokeName": "バニプッチ", "drawings": [] },
+  {
+    "pokeName": "スワンナ",
+    "drawings": []
+  },
+  {
+    "pokeName": "バニプッチ",
+    "drawings": []
+  },
   {
     "pokeName": "バニリッチ",
     "drawings": [
-      { "file": "583_200114_1.jpeg", "date": "200114" },
-      { "file": "583_200114_2.jpeg", "date": "200114" }
+      {
+        "file": "583_200114_1.jpeg",
+        "date": "2020-01-14"
+      },
+      {
+        "file": "583_200114_2.jpeg",
+        "date": "2020-01-14"
+      }
     ]
   },
   {
     "pokeName": "バイバニラ",
-    "drawings": [{ "file": "584_191105_1.jpeg", "date": "191105" }]
+    "drawings": [
+      {
+        "file": "584_191105_1.jpeg",
+        "date": "2019-11-05"
+      }
+    ]
   },
-  { "pokeName": "シキジカ", "drawings": [] },
+  {
+    "pokeName": "シキジカ",
+    "drawings": []
+  },
   {
     "pokeName": "メブキジカ",
     "drawings": [
-      { "file": "586_190123_1.jpeg", "date": "190123" },
-      { "file": "586_190123_2.jpeg", "date": "190123" }
+      {
+        "file": "586_190123_1.jpeg",
+        "date": "2019-01-23"
+      },
+      {
+        "file": "586_190123_2.jpeg",
+        "date": "2019-01-23"
+      }
     ]
   },
-  { "pokeName": "エモンガ", "drawings": [] },
+  {
+    "pokeName": "エモンガ",
+    "drawings": []
+  },
   {
     "pokeName": "カブルモ",
     "drawings": [
-      { "file": "588_190314_1.jpeg", "date": "190314" },
-      { "file": "588_190314_2.jpeg", "date": "190314" }
+      {
+        "file": "588_190314_1.jpeg",
+        "date": "2019-03-14"
+      },
+      {
+        "file": "588_190314_2.jpeg",
+        "date": "2019-03-14"
+      }
     ]
   },
   {
     "pokeName": "シュバルゴ",
     "drawings": [
-      { "file": "589_190726_1.jpeg", "date": "190726" },
-      { "file": "589_190726_2.jpeg", "date": "190726" }
+      {
+        "file": "589_190726_1.jpeg",
+        "date": "2019-07-26"
+      },
+      {
+        "file": "589_190726_2.jpeg",
+        "date": "2019-07-26"
+      }
     ]
   },
-  { "pokeName": "タマゲタケ", "drawings": [] },
+  {
+    "pokeName": "タマゲタケ",
+    "drawings": []
+  },
   {
     "pokeName": "モロバレル",
     "drawings": [
-      { "file": "591_190718_1.jpeg", "date": "190718" },
-      { "file": "591_190718_2.jpeg", "date": "190718" }
+      {
+        "file": "591_190718_1.jpeg",
+        "date": "2019-07-18"
+      },
+      {
+        "file": "591_190718_2.jpeg",
+        "date": "2019-07-18"
+      }
     ]
   },
   {
     "pokeName": "プルリル",
     "drawings": [
-      { "file": "592_190419_1.jpeg", "date": "190419" },
-      { "file": "592_190419_2.jpeg", "date": "190419" }
+      {
+        "file": "592_190419_1.jpeg",
+        "date": "2019-04-19"
+      },
+      {
+        "file": "592_190419_2.jpeg",
+        "date": "2019-04-19"
+      }
     ]
   },
   {
     "pokeName": "ブルンゲル",
-    "drawings": [{ "file": "593_190410_1.jpeg", "date": "190410" }]
+    "drawings": [
+      {
+        "file": "593_190410_1.jpeg",
+        "date": "2019-04-10"
+      }
+    ]
   },
-  { "pokeName": "ママンボウ", "drawings": [] },
+  {
+    "pokeName": "ママンボウ",
+    "drawings": [
+      {
+        "file": "594_200406_1.jpeg",
+        "date": "2020-04-06"
+      },
+      {
+        "file": "594_200406_2.jpeg",
+        "date": "2020-04-06"
+      }
+    ]
+  },
   {
     "pokeName": "バチュル",
     "drawings": [
-      { "file": "595_190714_1.jpeg", "date": "190714" },
-      { "file": "595_190714_2.jpeg", "date": "190714" }
+      {
+        "file": "595_190714_1.jpeg",
+        "date": "2019-07-14"
+      },
+      {
+        "file": "595_190714_2.jpeg",
+        "date": "2019-07-14"
+      }
     ]
   },
-  { "pokeName": "デンチュラ", "drawings": [] },
-  { "pokeName": "テッシード", "drawings": [] },
-  { "pokeName": "ナットレイ", "drawings": [] },
-  { "pokeName": "ギアル", "drawings": [] },
-  { "pokeName": "ギギアル", "drawings": [] },
-  { "pokeName": "ギギギアル", "drawings": [] },
+  {
+    "pokeName": "デンチュラ",
+    "drawings": []
+  },
+  {
+    "pokeName": "テッシード",
+    "drawings": []
+  },
+  {
+    "pokeName": "ナットレイ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ギアル",
+    "drawings": []
+  },
+  {
+    "pokeName": "ギギアル",
+    "drawings": []
+  },
+  {
+    "pokeName": "ギギギアル",
+    "drawings": []
+  },
   {
     "pokeName": "シビシラス",
     "drawings": [
-      { "file": "602_190312_1.jpeg", "date": "190312" },
-      { "file": "602_190312_2.jpeg", "date": "190312" }
+      {
+        "file": "602_190312_1.jpeg",
+        "date": "2019-03-12"
+      },
+      {
+        "file": "602_190312_2.jpeg",
+        "date": "2019-03-12"
+      }
     ]
   },
-  { "pokeName": "シビビール", "drawings": [] },
-  { "pokeName": "シビルドン", "drawings": [] },
+  {
+    "pokeName": "シビビール",
+    "drawings": []
+  },
+  {
+    "pokeName": "シビルドン",
+    "drawings": [
+      {
+        "file": "604_200308_1.jpeg",
+        "date": "2020-03-08"
+      },
+      {
+        "file": "604_200308_2.jpeg",
+        "date": "2020-03-08"
+      }
+    ]
+  },
   {
     "pokeName": "リグレー",
     "drawings": [
-      { "file": "605_190816_1.jpeg", "date": "190816" },
-      { "file": "605_190816_2.jpeg", "date": "190816" }
+      {
+        "file": "605_190816_1.jpeg",
+        "date": "2019-08-16"
+      },
+      {
+        "file": "605_190816_2.jpeg",
+        "date": "2019-08-16"
+      }
     ]
   },
   {
     "pokeName": "オーベム",
     "drawings": [
-      { "file": "606_200212_1.jpeg", "date": "200212" },
-      { "file": "606_200212_2.jpeg", "date": "200212" }
+      {
+        "file": "606_200212_1.jpeg",
+        "date": "2020-02-12"
+      },
+      {
+        "file": "606_200212_2.jpeg",
+        "date": "2020-02-12"
+      }
     ]
   },
-  { "pokeName": "ヒトモシ", "drawings": [] },
-  { "pokeName": "ランプラー", "drawings": [] },
-  { "pokeName": "シャンデラ", "drawings": [] },
+  {
+    "pokeName": "ヒトモシ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ランプラー",
+    "drawings": []
+  },
+  {
+    "pokeName": "シャンデラ",
+    "drawings": []
+  },
   {
     "pokeName": "キバゴ",
     "drawings": [
-      { "file": "610_190219_1.jpeg", "date": "190219" },
-      { "file": "610_190219_2.jpeg", "date": "190219" }
+      {
+        "file": "610_190219_1.jpeg",
+        "date": "2019-02-19"
+      },
+      {
+        "file": "610_190219_2.jpeg",
+        "date": "2019-02-19"
+      }
     ]
   },
   {
     "pokeName": "オノンド",
     "drawings": [
-      { "file": "611_190603_1.jpeg", "date": "190603" },
-      { "file": "611_190603_2.jpeg", "date": "190603" }
+      {
+        "file": "611_190603_1.jpeg",
+        "date": "2019-06-03"
+      },
+      {
+        "file": "611_190603_2.jpeg",
+        "date": "2019-06-03"
+      }
     ]
   },
   {
     "pokeName": "オノノクス",
     "drawings": [
-      { "file": "612_190321_1.jpeg", "date": "190321" },
-      { "file": "612_190321_2.jpeg", "date": "190321" }
+      {
+        "file": "612_190321_1.jpeg",
+        "date": "2019-03-21"
+      },
+      {
+        "file": "612_190321_2.jpeg",
+        "date": "2019-03-21"
+      }
     ]
   },
-  { "pokeName": "クマシュン", "drawings": [] },
+  {
+    "pokeName": "クマシュン",
+    "drawings": []
+  },
   {
     "pokeName": "ツンベアー",
     "drawings": [
-      { "file": "614_191106_1.jpeg", "date": "191106" },
-      { "file": "614_191106_2.jpeg", "date": "191106" }
+      {
+        "file": "614_191106_1.jpeg",
+        "date": "2019-11-06"
+      },
+      {
+        "file": "614_191106_2.jpeg",
+        "date": "2019-11-06"
+      }
     ]
   },
   {
     "pokeName": "フリージオ",
     "drawings": [
-      { "file": "615_191028_1.jpeg", "date": "191028" },
-      { "file": "615_191028_2.jpeg", "date": "191028" }
+      {
+        "file": "615_191028_1.jpeg",
+        "date": "2019-10-28"
+      },
+      {
+        "file": "615_191028_2.jpeg",
+        "date": "2019-10-28"
+      }
     ]
   },
   {
     "pokeName": "チョボマキ",
-    "drawings": [{ "file": "616_190916_1.jpeg", "date": "190916" }]
+    "drawings": [
+      {
+        "file": "616_190916_1.jpeg",
+        "date": "2019-09-16"
+      }
+    ]
   },
-  { "pokeName": "アギルダー", "drawings": [] },
+  {
+    "pokeName": "アギルダー",
+    "drawings": [
+      {
+        "file": "617_200403_1.jpeg",
+        "date": "2020-04-03"
+      }
+    ]
+  },
   {
     "pokeName": "マッギョ",
     "drawings": [
-      { "file": "618_200126_1.jpeg", "date": "200126" },
-      { "file": "618_200126_2.jpeg", "date": "200126" }
+      {
+        "file": "618_200126_1.jpeg",
+        "date": "2020-01-26"
+      },
+      {
+        "file": "618_200126_2.jpeg",
+        "date": "2020-01-26"
+      }
     ]
   },
-  { "pokeName": "コジョフー", "drawings": [] },
+  {
+    "pokeName": "コジョフー",
+    "drawings": [
+      {
+        "file": "619_200510_1.jpeg",
+        "date": "2020-05-10"
+      },
+      {
+        "file": "619_200510_2.jpeg",
+        "date": "2020-05-10"
+      }
+    ]
+  },
   {
     "pokeName": "コジョンド",
     "drawings": [
-      { "file": "620_191201_1.jpeg", "date": "191201" },
-      { "file": "620_191201_2.jpeg", "date": "191201" }
+      {
+        "file": "620_191201_1.jpeg",
+        "date": "2019-12-01"
+      },
+      {
+        "file": "620_191201_2.jpeg",
+        "date": "2019-12-01"
+      }
     ]
   },
-  { "pokeName": "クリムガン", "drawings": [] },
-  { "pokeName": "ゴビット", "drawings": [] },
-  { "pokeName": "ゴルーグ", "drawings": [] },
+  {
+    "pokeName": "クリムガン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ゴビット",
+    "drawings": []
+  },
+  {
+    "pokeName": "ゴルーグ",
+    "drawings": []
+  },
   {
     "pokeName": "コマタナ",
     "drawings": [
-      { "file": "624_190622_1.jpeg", "date": "190622" },
-      { "file": "624_190622_2.jpeg", "date": "190622" }
+      {
+        "file": "624_190622_1.jpeg",
+        "date": "2019-06-22"
+      },
+      {
+        "file": "624_190622_2.jpeg",
+        "date": "2019-06-22"
+      }
     ]
   },
-  { "pokeName": "キリキザン", "drawings": [] },
+  {
+    "pokeName": "キリキザン",
+    "drawings": [
+      {
+        "file": "625_200225_1.jpeg",
+        "date": "2020-02-25"
+      },
+      {
+        "file": "625_200225_2.jpeg",
+        "date": "2020-02-25"
+      }
+    ]
+  },
   {
     "pokeName": "バッフロン",
-    "drawings": [{ "file": "626_190130_1.jpeg", "date": "190130" }]
+    "drawings": [
+      {
+        "file": "626_190130_1.jpeg",
+        "date": "2019-01-30"
+      }
+    ]
   },
-  { "pokeName": "ワシボン", "drawings": [] },
+  {
+    "pokeName": "ワシボン",
+    "drawings": []
+  },
   {
     "pokeName": "ウォーグル",
     "drawings": [
-      { "file": "628_190706_1.jpeg", "date": "190706" },
-      { "file": "628_190706_2.jpeg", "date": "190706" }
+      {
+        "file": "628_190706_1.jpeg",
+        "date": "2019-07-06"
+      },
+      {
+        "file": "628_190706_2.jpeg",
+        "date": "2019-07-06"
+      }
     ]
   },
   {
     "pokeName": "バルチャイ",
-    "drawings": [{ "file": "629_190411_1.jpeg", "date": "190411" }]
+    "drawings": [
+      {
+        "file": "629_190411_1.jpeg",
+        "date": "2019-04-11"
+      }
+    ]
   },
   {
     "pokeName": "バルジーナ",
     "drawings": [
-      { "file": "630_191107_1.jpeg", "date": "191107" },
-      { "file": "630_191107_2.jpeg", "date": "191107" }
+      {
+        "file": "630_191107_1.jpeg",
+        "date": "2019-11-07"
+      },
+      {
+        "file": "630_191107_2.jpeg",
+        "date": "2019-11-07"
+      }
     ]
   },
-  { "pokeName": "クイタラン", "drawings": [] },
-  { "pokeName": "アイアント", "drawings": [] },
+  {
+    "pokeName": "クイタラン",
+    "drawings": [
+      {
+        "file": "631_200429_1.jpeg",
+        "date": "2020-04-29"
+      }
+    ]
+  },
+  {
+    "pokeName": "アイアント",
+    "drawings": []
+  },
   {
     "pokeName": "モノズ",
     "drawings": [
-      { "file": "633_190717_1.jpeg", "date": "190717" },
-      { "file": "633_190717_2.jpeg", "date": "190717" }
+      {
+        "file": "633_190717_1.jpeg",
+        "date": "2019-07-17"
+      },
+      {
+        "file": "633_190717_2.jpeg",
+        "date": "2019-07-17"
+      }
     ]
   },
-  { "pokeName": "ジヘッド", "drawings": [] },
+  {
+    "pokeName": "ジヘッド",
+    "drawings": []
+  },
   {
     "pokeName": "サザンドラ",
     "drawings": [
-      { "file": "635_190220_1.jpeg", "date": "190220" },
-      { "file": "635_190220_2.jpeg", "date": "190220" }
+      {
+        "file": "635_190220_1.jpeg",
+        "date": "2019-02-20"
+      },
+      {
+        "file": "635_190220_2.jpeg",
+        "date": "2019-02-20"
+      }
     ]
   },
   {
     "pokeName": "メラルバ",
     "drawings": [
-      { "file": "636_190728_1.jpeg", "date": "190728" },
-      { "file": "636_190728_2.jpeg", "date": "190728" }
+      {
+        "file": "636_190728_1.jpeg",
+        "date": "2019-07-28"
+      },
+      {
+        "file": "636_190728_2.jpeg",
+        "date": "2019-07-28"
+      }
     ]
   },
   {
     "pokeName": "ウルガモス",
     "drawings": [
-      { "file": "637_191116_1.jpeg", "date": "191116" },
-      { "file": "637_191116_2.jpeg", "date": "191116" }
+      {
+        "file": "637_191116_1.jpeg",
+        "date": "2019-11-16"
+      },
+      {
+        "file": "637_191116_2.jpeg",
+        "date": "2019-11-16"
+      }
     ]
   },
   {
     "pokeName": "コバルオン",
     "drawings": [
-      { "file": "638_191208_1.jpeg", "date": "191208" },
-      { "file": "638_191208_2.jpeg", "date": "191208" }
+      {
+        "file": "638_191208_1.jpeg",
+        "date": "2019-12-08"
+      },
+      {
+        "file": "638_191208_2.jpeg",
+        "date": "2019-12-08"
+      }
     ]
   },
-  { "pokeName": "テラキオン", "drawings": [] },
-  { "pokeName": "ビリジオン", "drawings": [] },
+  {
+    "pokeName": "テラキオン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ビリジオン",
+    "drawings": []
+  },
   {
     "pokeName": "トルネロス",
     "drawings": [
-      { "file": "641_191006_1.jpeg", "date": "191006" },
-      { "file": "641_191006_2.jpeg", "date": "191006" }
+      {
+        "file": "641_191006_1.jpeg",
+        "date": "2019-10-06"
+      },
+      {
+        "file": "641_191006_2.jpeg",
+        "date": "2019-10-06"
+      }
     ]
   },
-  { "pokeName": "ボルトロス", "drawings": [] },
-  { "pokeName": "レシラム", "drawings": [] },
+  {
+    "pokeName": "ボルトロス",
+    "drawings": [
+      {
+        "file": "642_200502_1.jpeg",
+        "date": "2020-05-02"
+      }
+    ]
+  },
+  {
+    "pokeName": "レシラム",
+    "drawings": []
+  },
   {
     "pokeName": "ゼクロム",
     "drawings": [
-      { "file": "644_190910_1.jpeg", "date": "190910" },
-      { "file": "644_190910_2.jpeg", "date": "190910" }
+      {
+        "file": "644_190910_1.jpeg",
+        "date": "2019-09-10"
+      },
+      {
+        "file": "644_190910_2.jpeg",
+        "date": "2019-09-10"
+      }
     ]
   },
-  { "pokeName": "ランドロス", "drawings": [] },
-  { "pokeName": "キュレム", "drawings": [] },
+  {
+    "pokeName": "ランドロス",
+    "drawings": []
+  },
+  {
+    "pokeName": "キュレム",
+    "drawings": []
+  },
   {
     "pokeName": "ケルディオ",
     "drawings": [
-      { "file": "647_191223_1.jpeg", "date": "191223" },
-      { "file": "647_191223_2.jpeg", "date": "191223" }
+      {
+        "file": "647_191223_1.jpeg",
+        "date": "2019-12-23"
+      },
+      {
+        "file": "647_191223_2.jpeg",
+        "date": "2019-12-23"
+      }
     ]
   },
   {
     "pokeName": "メロエッタ",
     "drawings": [
-      { "file": "648_200123_1.jpeg", "date": "200123" },
-      { "file": "648_200123_2.jpeg", "date": "200123" }
+      {
+        "file": "648_200123_1.jpeg",
+        "date": "2020-01-23"
+      },
+      {
+        "file": "648_200123_2.jpeg",
+        "date": "2020-01-23"
+      }
     ]
   },
-  { "pokeName": "ゲノセクト", "drawings": [] },
-  { "pokeName": "ハリマロン", "drawings": [] },
-  { "pokeName": "ハリボーグ", "drawings": [] },
+  {
+    "pokeName": "ゲノセクト",
+    "drawings": []
+  },
+  {
+    "pokeName": "ハリマロン",
+    "drawings": [
+      {
+        "file": "650_200309_1.jpeg",
+        "date": "2020-03-09"
+      },
+      {
+        "file": "650_200309_2.jpeg",
+        "date": "2020-03-09"
+      }
+    ]
+  },
+  {
+    "pokeName": "ハリボーグ",
+    "drawings": [
+      {
+        "file": "651_200323_1.jpeg",
+        "date": "2020-03-23"
+      },
+      {
+        "file": "651_200323_2.jpeg",
+        "date": "2020-03-23"
+      }
+    ]
+  },
   {
     "pokeName": "ブリガロン",
     "drawings": [
-      { "file": "652_191125_1.jpeg", "date": "191125" },
-      { "file": "652_191125_2.jpeg", "date": "191125" }
+      {
+        "file": "652_191125_1.jpeg",
+        "date": "2019-11-25"
+      },
+      {
+        "file": "652_191125_2.jpeg",
+        "date": "2019-11-25"
+      }
     ]
   },
-  { "pokeName": "フォッコ", "drawings": [] },
-  { "pokeName": "テールナー", "drawings": [] },
-  { "pokeName": "マフォクシー", "drawings": [] },
+  {
+    "pokeName": "フォッコ",
+    "drawings": [
+      {
+        "file": "653_200326_1.jpeg",
+        "date": "2020-03-26"
+      },
+      {
+        "file": "653_200326_2.jpeg",
+        "date": "2020-03-26"
+      }
+    ]
+  },
+  {
+    "pokeName": "テールナー",
+    "drawings": []
+  },
+  {
+    "pokeName": "マフォクシー",
+    "drawings": [
+      {
+        "file": "655_200304_1.jpeg",
+        "date": "2020-03-04"
+      }
+    ]
+  },
   {
     "pokeName": "ケロマツ",
     "drawings": [
-      { "file": "656_190420_1.jpeg", "date": "190420" },
-      { "file": "656_190420_2.jpeg", "date": "190420" }
+      {
+        "file": "656_190420_1.jpeg",
+        "date": "2019-04-20"
+      },
+      {
+        "file": "656_190420_2.jpeg",
+        "date": "2019-04-20"
+      }
     ]
   },
-  { "pokeName": "ゲコガシラ", "drawings": [] },
-  { "pokeName": "ゲッコウガ", "drawings": [] },
-  { "pokeName": "ホルビー", "drawings": [] },
+  {
+    "pokeName": "ゲコガシラ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ゲッコウガ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ホルビー",
+    "drawings": []
+  },
   {
     "pokeName": "ホルード",
     "drawings": [
-      { "file": "660_200102_1.jpeg", "date": "200102" },
-      { "file": "660_200102_2.jpeg", "date": "200102" }
+      {
+        "file": "660_200102_1.jpeg",
+        "date": "2020-01-02"
+      },
+      {
+        "file": "660_200102_2.jpeg",
+        "date": "2020-01-02"
+      }
     ]
   },
-  { "pokeName": "ヤヤコマ", "drawings": [] },
-  { "pokeName": "ヒノヤコマ", "drawings": [] },
+  {
+    "pokeName": "ヤヤコマ",
+    "drawings": [
+      {
+        "file": "661_200229_1.jpeg",
+        "date": "2020-02-29"
+      }
+    ]
+  },
+  {
+    "pokeName": "ヒノヤコマ",
+    "drawings": []
+  },
   {
     "pokeName": "ファイアロー",
-    "drawings": [{ "file": "663_190905_1.jpeg", "date": "190905" }]
+    "drawings": [
+      {
+        "file": "663_190905_1.jpeg",
+        "date": "2019-09-05"
+      }
+    ]
   },
   {
     "pokeName": "コフキムシ",
     "drawings": [
-      { "file": "664_190422_1.jpeg", "date": "190422" },
-      { "file": "664_190422_2.jpeg", "date": "190422" }
+      {
+        "file": "664_190422_1.jpeg",
+        "date": "2019-04-22"
+      },
+      {
+        "file": "664_190422_2.jpeg",
+        "date": "2019-04-22"
+      }
     ]
   },
   {
     "pokeName": "コフーライ",
     "drawings": [
-      { "file": "665_191202_1.jpeg", "date": "191202" },
-      { "file": "665_191202_2.jpeg", "date": "191202" }
+      {
+        "file": "665_191202_1.jpeg",
+        "date": "2019-12-02"
+      },
+      {
+        "file": "665_191202_2.jpeg",
+        "date": "2019-12-02"
+      }
     ]
   },
-  { "pokeName": "ビビヨン", "drawings": [] },
+  {
+    "pokeName": "ビビヨン",
+    "drawings": [
+      {
+        "file": "666_200409_1.jpeg",
+        "date": "2020-04-09"
+      },
+      {
+        "file": "666_200409_2.jpeg",
+        "date": "2020-04-09"
+      }
+    ]
+  },
   {
     "pokeName": "シシコ",
     "drawings": [
-      { "file": "667_200113_1.jpeg", "date": "200113" },
-      { "file": "667_200113_2.jpeg", "date": "200113" }
+      {
+        "file": "667_200113_1.jpeg",
+        "date": "2020-01-13"
+      },
+      {
+        "file": "667_200113_2.jpeg",
+        "date": "2020-01-13"
+      }
     ]
   },
-  { "pokeName": "カエンジシ", "drawings": [] },
+  {
+    "pokeName": "カエンジシ",
+    "drawings": []
+  },
   {
     "pokeName": "フラベベ",
     "drawings": [
-      { "file": "669_191001_1.jpeg", "date": "191001" },
-      { "file": "669_191001_2.jpeg", "date": "191001" }
+      {
+        "file": "669_191001_1.jpeg",
+        "date": "2019-10-01"
+      },
+      {
+        "file": "669_191001_2.jpeg",
+        "date": "2019-10-01"
+      }
     ]
   },
   {
     "pokeName": "フラエッテ",
     "drawings": [
-      { "file": "670_190513_1.jpeg", "date": "190513" },
-      { "file": "670_190513_2.jpeg", "date": "190513" }
+      {
+        "file": "670_190513_1.jpeg",
+        "date": "2019-05-13"
+      },
+      {
+        "file": "670_190513_2.jpeg",
+        "date": "2019-05-13"
+      }
     ]
   },
-  { "pokeName": "フラージェス", "drawings": [] },
-  { "pokeName": "メェークル", "drawings": [] },
-  { "pokeName": "ゴーゴート", "drawings": [] },
-  { "pokeName": "ヤンチャム", "drawings": [] },
+  {
+    "pokeName": "フラージェス",
+    "drawings": [
+      {
+        "file": "671_200415_1.jpeg",
+        "date": "2020-04-15"
+      }
+    ]
+  },
+  {
+    "pokeName": "メェークル",
+    "drawings": []
+  },
+  {
+    "pokeName": "ゴーゴート",
+    "drawings": []
+  },
+  {
+    "pokeName": "ヤンチャム",
+    "drawings": []
+  },
   {
     "pokeName": "ゴロンダ",
     "drawings": [
-      { "file": "675_190406_1.jpeg", "date": "190406" },
-      { "file": "675_190406_2.png", "date": "190406" }
+      {
+        "file": "675_190406_1.jpeg",
+        "date": "2019-04-06"
+      },
+      {
+        "file": "675_190406_2.png",
+        "date": "2019-04-06"
+      }
     ]
   },
   {
     "pokeName": "トリミアン",
-    "drawings": [{ "file": "676_190621_1.jpeg", "date": "190621" }]
+    "drawings": [
+      {
+        "file": "676_190621_1.jpeg",
+        "date": "2019-06-21"
+      }
+    ]
   },
-  { "pokeName": "ニャスパー", "drawings": [] },
+  {
+    "pokeName": "ニャスパー",
+    "drawings": []
+  },
   {
     "pokeName": "ニャオニクス",
     "drawings": [
-      { "file": "678_190623_1.jpeg", "date": "190623" },
-      { "file": "678_190623_2.jpeg", "date": "190623" }
+      {
+        "file": "678_190623_1.jpeg",
+        "date": "2019-06-23"
+      },
+      {
+        "file": "678_190623_2.jpeg",
+        "date": "2019-06-23"
+      }
     ]
   },
-  { "pokeName": "ヒトツキ", "drawings": [] },
+  {
+    "pokeName": "ヒトツキ",
+    "drawings": []
+  },
   {
     "pokeName": "ニダンギル",
     "drawings": [
-      { "file": "680_190418_1.jpeg", "date": "190418" },
-      { "file": "680_190418_2.jpeg", "date": "190418" }
+      {
+        "file": "680_190418_1.jpeg",
+        "date": "2019-04-18"
+      },
+      {
+        "file": "680_190418_2.jpeg",
+        "date": "2019-04-18"
+      }
     ]
   },
   {
     "pokeName": "ギルガルド",
-    "drawings": [{ "file": "681_191217_1.jpeg", "date": "191217" }]
+    "drawings": [
+      {
+        "file": "681_191217_1.jpeg",
+        "date": "2019-12-17"
+      }
+    ]
   },
-  { "pokeName": "シュシュプ", "drawings": [] },
+  {
+    "pokeName": "シュシュプ",
+    "drawings": []
+  },
   {
     "pokeName": "フレフワン",
-    "drawings": [{ "file": "683_200204_1.jpeg", "date": "200204" }]
+    "drawings": [
+      {
+        "file": "683_200204_1.jpeg",
+        "date": "2020-02-04"
+      }
+    ]
   },
-  { "pokeName": "ペロッパフ", "drawings": [] },
-  { "pokeName": "ペロリーム", "drawings": [] },
+  {
+    "pokeName": "ペロッパフ",
+    "drawings": [
+      {
+        "file": "684_200314_1.jpeg",
+        "date": "2020-03-14"
+      },
+      {
+        "file": "684_200314_2.jpeg",
+        "date": "2020-03-14"
+      }
+    ]
+  },
+  {
+    "pokeName": "ペロリーム",
+    "drawings": []
+  },
   {
     "pokeName": "マーイーカ",
     "drawings": [
-      { "file": "686_190611_1.jpeg", "date": "190611" },
-      { "file": "686_190611_2.jpeg", "date": "190611" }
+      {
+        "file": "686_190611_1.jpeg",
+        "date": "2019-06-11"
+      },
+      {
+        "file": "686_190611_2.jpeg",
+        "date": "2019-06-11"
+      }
     ]
   },
   {
     "pokeName": "カラマネロ",
-    "drawings": [{ "file": "687_190404_1.jpeg", "date": "190404" }]
+    "drawings": [
+      {
+        "file": "687_190404_1.jpeg",
+        "date": "2019-04-04"
+      }
+    ]
   },
-  { "pokeName": "カメテテ", "drawings": [] },
+  {
+    "pokeName": "カメテテ",
+    "drawings": []
+  },
   {
     "pokeName": "ガメノデス",
-    "drawings": [{ "file": "689_190407_1.jpeg", "date": "190407" }]
+    "drawings": [
+      {
+        "file": "689_190407_1.jpeg",
+        "date": "2019-04-07"
+      }
+    ]
   },
-  { "pokeName": "クズモー", "drawings": [] },
+  {
+    "pokeName": "クズモー",
+    "drawings": [
+      {
+        "file": "690_200313_1.jpeg",
+        "date": "2020-03-13"
+      },
+      {
+        "file": "690_200313_2.jpeg",
+        "date": "2020-03-13"
+      }
+    ]
+  },
   {
     "pokeName": "ドラミドロ",
     "drawings": [
-      { "file": "691_191129_1.jpeg", "date": "191129" },
-      { "file": "691_191129_2.jpeg", "date": "191129" }
+      {
+        "file": "691_191129_1.jpeg",
+        "date": "2019-11-29"
+      },
+      {
+        "file": "691_191129_2.jpeg",
+        "date": "2019-11-29"
+      }
     ]
   },
   {
     "pokeName": "ウデッポウ",
     "drawings": [
-      { "file": "692_191221_1.jpeg", "date": "191221" },
-      { "file": "692_191221_2.jpeg", "date": "191221" }
+      {
+        "file": "692_191221_1.jpeg",
+        "date": "2019-12-21"
+      },
+      {
+        "file": "692_191221_2.jpeg",
+        "date": "2019-12-21"
+      }
     ]
   },
   {
     "pokeName": "ブロスター",
     "drawings": [
-      { "file": "693_200115_1.jpeg", "date": "200115" },
-      { "file": "693_200115_2.jpeg", "date": "200115" }
+      {
+        "file": "693_200115_1.jpeg",
+        "date": "2020-01-15"
+      },
+      {
+        "file": "693_200115_2.jpeg",
+        "date": "2020-01-15"
+      }
     ]
   },
   {
     "pokeName": "エリキテル",
     "drawings": [
-      { "file": "694_191016_1.jpeg", "date": "191016" },
-      { "file": "694_191016_2.jpeg", "date": "191016" }
+      {
+        "file": "694_191016_1.jpeg",
+        "date": "2019-10-16"
+      },
+      {
+        "file": "694_191016_2.jpeg",
+        "date": "2019-10-16"
+      }
     ]
   },
-  { "pokeName": "エレザード", "drawings": [] },
+  {
+    "pokeName": "エレザード",
+    "drawings": [
+      {
+        "file": "695_200325_1.jpeg",
+        "date": "2020-03-25"
+      }
+    ]
+  },
   {
     "pokeName": "チゴラス",
     "drawings": [
-      { "file": "696_190412_1.jpeg", "date": "190412" },
-      { "file": "696_190412_2.jpeg", "date": "190412" }
+      {
+        "file": "696_190412_1.jpeg",
+        "date": "2019-04-12"
+      },
+      {
+        "file": "696_190412_2.jpeg",
+        "date": "2019-04-12"
+      }
     ]
   },
   {
     "pokeName": "ガチゴラス",
-    "drawings": [{ "file": "697_190730_1.jpeg", "date": "190730" }]
+    "drawings": [
+      {
+        "file": "697_190730_1.jpeg",
+        "date": "2019-07-30"
+      }
+    ]
   },
-  { "pokeName": "アマルス", "drawings": [] },
-  { "pokeName": "アマルルガ", "drawings": [] },
-  { "pokeName": "ニンフィア", "drawings": [] },
+  {
+    "pokeName": "アマルス",
+    "drawings": []
+  },
+  {
+    "pokeName": "アマルルガ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ニンフィア",
+    "drawings": []
+  },
   {
     "pokeName": "ルチャブル",
     "drawings": [
-      { "file": "701_190304_1.jpeg", "date": "190304" },
-      { "file": "701_190304_2.jpeg", "date": "190304" }
+      {
+        "file": "701_190304_1.jpeg",
+        "date": "2019-03-04"
+      },
+      {
+        "file": "701_190304_2.jpeg",
+        "date": "2019-03-04"
+      }
     ]
   },
-  { "pokeName": "デデンネ", "drawings": [] },
-  { "pokeName": "メレシー", "drawings": [] },
-  { "pokeName": "ヌメラ", "drawings": [] },
+  {
+    "pokeName": "デデンネ",
+    "drawings": []
+  },
+  {
+    "pokeName": "メレシー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ヌメラ",
+    "drawings": []
+  },
   {
     "pokeName": "ヌメイル",
     "drawings": [
-      { "file": "705_191226_1.jpeg", "date": "191226" },
-      { "file": "705_191226_2.jpeg", "date": "191226" }
+      {
+        "file": "705_191226_1.jpeg",
+        "date": "2019-12-26"
+      },
+      {
+        "file": "705_191226_2.jpeg",
+        "date": "2019-12-26"
+      }
     ]
   },
-  { "pokeName": "ヌメルゴン", "drawings": [] },
-  { "pokeName": "クレッフィ", "drawings": [] },
-  { "pokeName": "ボクレー", "drawings": [] },
-  { "pokeName": "オーロット", "drawings": [] },
-  { "pokeName": "バケッチャ", "drawings": [] },
-  { "pokeName": "パンプジン", "drawings": [] },
-  { "pokeName": "カチコール", "drawings": [] },
+  {
+    "pokeName": "ヌメルゴン",
+    "drawings": []
+  },
+  {
+    "pokeName": "クレッフィ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ボクレー",
+    "drawings": []
+  },
+  {
+    "pokeName": "オーロット",
+    "drawings": []
+  },
+  {
+    "pokeName": "バケッチャ",
+    "drawings": []
+  },
+  {
+    "pokeName": "パンプジン",
+    "drawings": []
+  },
+  {
+    "pokeName": "カチコール",
+    "drawings": []
+  },
   {
     "pokeName": "クレベース",
     "drawings": [
-      { "file": "713_190715_1.jpeg", "date": "190715" },
-      { "file": "713_190715_2.jpeg", "date": "190715" }
+      {
+        "file": "713_190715_1.jpeg",
+        "date": "2019-07-15"
+      },
+      {
+        "file": "713_190715_2.jpeg",
+        "date": "2019-07-15"
+      }
     ]
   },
-  { "pokeName": "オンバット", "drawings": [] },
-  { "pokeName": "オンバーン", "drawings": [] },
-  { "pokeName": "ゼルネアス", "drawings": [] },
-  { "pokeName": "イベルタル", "drawings": [] },
-  { "pokeName": "ジガルデ", "drawings": [] },
-  { "pokeName": "ディアンシー", "drawings": [] },
-  { "pokeName": "フーパ", "drawings": [] },
-  { "pokeName": "ボルケニオン", "drawings": [] },
-  { "pokeName": "モクロー", "drawings": [] },
-  { "pokeName": "フクスロー", "drawings": [] },
-  { "pokeName": "ジュナイパー", "drawings": [] },
-  { "pokeName": "ニャビー", "drawings": [] },
-  { "pokeName": "ニャヒート", "drawings": [] },
-  { "pokeName": "ガオガエン", "drawings": [] },
-  { "pokeName": "アシマリ", "drawings": [] },
-  { "pokeName": "オシャマリ", "drawings": [] },
-  { "pokeName": "アシレーヌ", "drawings": [] },
-  { "pokeName": "ツツケラ", "drawings": [] },
-  { "pokeName": "ケララッパ", "drawings": [] },
-  { "pokeName": "ドデカバシ", "drawings": [] },
-  { "pokeName": "ヤングース", "drawings": [] },
-  { "pokeName": "デカグース", "drawings": [] },
-  { "pokeName": "アゴジムシ", "drawings": [] },
-  { "pokeName": "デンヂムシ", "drawings": [] },
-  { "pokeName": "クワガノン", "drawings": [] },
-  { "pokeName": "マケンカニ", "drawings": [] },
-  { "pokeName": "ケケンカニ", "drawings": [] },
-  { "pokeName": "オドリドリ", "drawings": [] },
-  { "pokeName": "アブリー", "drawings": [] },
-  { "pokeName": "アブリボン", "drawings": [] },
-  { "pokeName": "イワンコ", "drawings": [] },
-  { "pokeName": "ルガルガン", "drawings": [] },
-  { "pokeName": "ヨワシ", "drawings": [] },
-  { "pokeName": "ヒドイデ", "drawings": [] },
-  { "pokeName": "ドヒドイデ", "drawings": [] },
-  { "pokeName": "ドロバンコ", "drawings": [] },
-  { "pokeName": "バンバドロ", "drawings": [] },
-  { "pokeName": "シズクモ", "drawings": [] },
-  { "pokeName": "オニシズクモ", "drawings": [] },
-  { "pokeName": "カリキリ", "drawings": [] },
-  { "pokeName": "ラランテス", "drawings": [] },
-  { "pokeName": "ネマシュ", "drawings": [] },
-  { "pokeName": "マシェード", "drawings": [] },
-  { "pokeName": "ヤトウモリ", "drawings": [] },
-  { "pokeName": "エンニュート", "drawings": [] },
-  { "pokeName": "ヌイコグマ", "drawings": [] },
-  { "pokeName": "キテルグマ", "drawings": [] },
-  { "pokeName": "アマカジ", "drawings": [] },
-  { "pokeName": "アママイコ", "drawings": [] },
-  { "pokeName": "アマージョ", "drawings": [] },
-  { "pokeName": "キュワワー", "drawings": [] },
-  { "pokeName": "ヤレユータン", "drawings": [] },
-  { "pokeName": "ナゲツケサル", "drawings": [] },
-  { "pokeName": "コソクムシ", "drawings": [] },
-  { "pokeName": "グソクムシャ", "drawings": [] },
-  { "pokeName": "スナバァ", "drawings": [] },
-  { "pokeName": "シロデスナ", "drawings": [] },
-  { "pokeName": "ナマコブシ", "drawings": [] },
-  { "pokeName": "タイプ：ヌル", "drawings": [] },
-  { "pokeName": "シルヴァディ", "drawings": [] },
-  { "pokeName": "メテノ", "drawings": [] },
-  { "pokeName": "ネッコアラ", "drawings": [] },
-  { "pokeName": "バクガメス", "drawings": [] },
-  { "pokeName": "トゲデマル", "drawings": [] },
-  { "pokeName": "ミミッキュ", "drawings": [] },
-  { "pokeName": "ハギギシリ", "drawings": [] },
-  { "pokeName": "ジジーロン", "drawings": [] },
-  { "pokeName": "ダダリン", "drawings": [] },
-  { "pokeName": "ジャラコ", "drawings": [] },
-  { "pokeName": "ジャランゴ", "drawings": [] },
-  { "pokeName": "ジャラランガ", "drawings": [] },
-  { "pokeName": "カプ・コケコ", "drawings": [] },
-  { "pokeName": "カプ・テテフ", "drawings": [] },
-  { "pokeName": "カプ・ブルル", "drawings": [] },
-  { "pokeName": "カプ・レヒレ", "drawings": [] },
-  { "pokeName": "コスモッグ", "drawings": [] },
-  { "pokeName": "コスモウム", "drawings": [] },
-  { "pokeName": "ソルガレオ", "drawings": [] },
-  { "pokeName": "ルナアーラ", "drawings": [] },
-  { "pokeName": "ウツロイド", "drawings": [] },
-  { "pokeName": "マッシブーン", "drawings": [] },
-  { "pokeName": "フェローチェ", "drawings": [] },
-  { "pokeName": "デンジュモク", "drawings": [] },
-  { "pokeName": "テッカグヤ", "drawings": [] },
-  { "pokeName": "カミツルギ", "drawings": [] },
-  { "pokeName": "アクジキング", "drawings": [] },
-  { "pokeName": "ネクロズマ", "drawings": [] },
-  { "pokeName": "マギアナ", "drawings": [] },
-  { "pokeName": "マーシャドー", "drawings": [] },
-  { "pokeName": "ベベノム", "drawings": [] },
-  { "pokeName": "アーゴヨン", "drawings": [] },
-  { "pokeName": "ツンデツンデ", "drawings": [] },
-  { "pokeName": "ズガドーン", "drawings": [] },
-  { "pokeName": "ゼラオラ", "drawings": [] },
-  { "pokeName": "メルタン", "drawings": [] },
-  { "pokeName": "メルメタル", "drawings": [] },
-  { "pokeName": "サルノリ", "drawings": [] },
-  { "pokeName": "バチンキー", "drawings": [] },
-  { "pokeName": "ゴリランダー", "drawings": [] },
-  { "pokeName": "ヒバニー", "drawings": [] },
-  { "pokeName": "ラビフット", "drawings": [] },
+  {
+    "pokeName": "オンバット",
+    "drawings": []
+  },
+  {
+    "pokeName": "オンバーン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ゼルネアス",
+    "drawings": []
+  },
+  {
+    "pokeName": "イベルタル",
+    "drawings": [
+      {
+        "file": "717_200512_1.jpeg",
+        "date": "2020-05-12"
+      }
+    ]
+  },
+  {
+    "pokeName": "ジガルデ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ディアンシー",
+    "drawings": []
+  },
+  {
+    "pokeName": "フーパ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ボルケニオン",
+    "drawings": []
+  },
+  {
+    "pokeName": "モクロー",
+    "drawings": []
+  },
+  {
+    "pokeName": "フクスロー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ジュナイパー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ニャビー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ニャヒート",
+    "drawings": []
+  },
+  {
+    "pokeName": "ガオガエン",
+    "drawings": []
+  },
+  {
+    "pokeName": "アシマリ",
+    "drawings": []
+  },
+  {
+    "pokeName": "オシャマリ",
+    "drawings": []
+  },
+  {
+    "pokeName": "アシレーヌ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ツツケラ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ケララッパ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ドデカバシ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ヤングース",
+    "drawings": []
+  },
+  {
+    "pokeName": "デカグース",
+    "drawings": [
+      {
+        "file": "735_200424_1.jpeg",
+        "date": "2020-04-24"
+      },
+      {
+        "file": "735_200424_2.jpeg",
+        "date": "2020-04-24"
+      }
+    ]
+  },
+  {
+    "pokeName": "アゴジムシ",
+    "drawings": []
+  },
+  {
+    "pokeName": "デンヂムシ",
+    "drawings": []
+  },
+  {
+    "pokeName": "クワガノン",
+    "drawings": [
+      {
+        "file": "738_200311_1.jpeg",
+        "date": "2020-03-11"
+      },
+      {
+        "file": "738_200311_2.jpeg",
+        "date": "2020-03-11"
+      },
+      {
+        "file": "738_200311_3.jpeg",
+        "date": "2020-03-11"
+      }
+    ]
+  },
+  {
+    "pokeName": "マケンカニ",
+    "drawings": [
+      {
+        "file": "739_200412_1.jpeg",
+        "date": "2020-04-12"
+      }
+    ]
+  },
+  {
+    "pokeName": "ケケンカニ",
+    "drawings": [
+      {
+        "file": "740_200519_1.jpeg",
+        "date": "2020-05-19"
+      },
+      {
+        "file": "740_200519_2.jpeg",
+        "date": "2020-05-19"
+      }
+    ]
+  },
+  {
+    "pokeName": "オドリドリ",
+    "drawings": []
+  },
+  {
+    "pokeName": "アブリー",
+    "drawings": []
+  },
+  {
+    "pokeName": "アブリボン",
+    "drawings": []
+  },
+  {
+    "pokeName": "イワンコ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ルガルガン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ヨワシ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ヒドイデ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ドヒドイデ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ドロバンコ",
+    "drawings": []
+  },
+  {
+    "pokeName": "バンバドロ",
+    "drawings": []
+  },
+  {
+    "pokeName": "シズクモ",
+    "drawings": []
+  },
+  {
+    "pokeName": "オニシズクモ",
+    "drawings": []
+  },
+  {
+    "pokeName": "カリキリ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ラランテス",
+    "drawings": []
+  },
+  {
+    "pokeName": "ネマシュ",
+    "drawings": []
+  },
+  {
+    "pokeName": "マシェード",
+    "drawings": [
+      {
+        "file": "756_200518_1.jpeg",
+        "date": "2020-05-18"
+      },
+      {
+        "file": "756_200518_2.jpeg",
+        "date": "2020-05-18"
+      }
+    ]
+  },
+  {
+    "pokeName": "ヤトウモリ",
+    "drawings": []
+  },
+  {
+    "pokeName": "エンニュート",
+    "drawings": []
+  },
+  {
+    "pokeName": "ヌイコグマ",
+    "drawings": []
+  },
+  {
+    "pokeName": "キテルグマ",
+    "drawings": []
+  },
+  {
+    "pokeName": "アマカジ",
+    "drawings": []
+  },
+  {
+    "pokeName": "アママイコ",
+    "drawings": [
+      {
+        "file": "762_200505_1.jpeg",
+        "date": "2020-05-05"
+      },
+      {
+        "file": "762_200505_2.jpeg",
+        "date": "2020-05-05"
+      }
+    ]
+  },
+  {
+    "pokeName": "アマージョ",
+    "drawings": []
+  },
+  {
+    "pokeName": "キュワワー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ヤレユータン",
+    "drawings": [
+      {
+        "file": "765_200223_1.jpeg",
+        "date": "2020-02-23"
+      },
+      {
+        "file": "765_200223_2.jpeg",
+        "date": "2020-02-23"
+      }
+    ]
+  },
+  {
+    "pokeName": "ナゲツケサル",
+    "drawings": []
+  },
+  {
+    "pokeName": "コソクムシ",
+    "drawings": []
+  },
+  {
+    "pokeName": "グソクムシャ",
+    "drawings": []
+  },
+  {
+    "pokeName": "スナバァ",
+    "drawings": []
+  },
+  {
+    "pokeName": "シロデスナ",
+    "drawings": [
+      {
+        "file": "770_200218_1.jpeg",
+        "date": "2020-02-18"
+      }
+    ]
+  },
+  {
+    "pokeName": "ナマコブシ",
+    "drawings": []
+  },
+  {
+    "pokeName": "タイプ：ヌル",
+    "drawings": []
+  },
+  {
+    "pokeName": "シルヴァディ",
+    "drawings": []
+  },
+  {
+    "pokeName": "メテノ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ネッコアラ",
+    "drawings": []
+  },
+  {
+    "pokeName": "バクガメス",
+    "drawings": []
+  },
+  {
+    "pokeName": "トゲデマル",
+    "drawings": []
+  },
+  {
+    "pokeName": "ミミッキュ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ハギギシリ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ジジーロン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ダダリン",
+    "drawings": [
+      {
+        "file": "781_200214_1.jpeg",
+        "date": "2020-02-14"
+      },
+      {
+        "file": "781_200214_2.jpeg",
+        "date": "2020-02-14"
+      }
+    ]
+  },
+  {
+    "pokeName": "ジャラコ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ジャランゴ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ジャラランガ",
+    "drawings": []
+  },
+  {
+    "pokeName": "カプ・コケコ",
+    "drawings": [
+      {
+        "file": "785_200307_1.jpeg",
+        "date": "2020-03-07"
+      }
+    ]
+  },
+  {
+    "pokeName": "カプ・テテフ",
+    "drawings": []
+  },
+  {
+    "pokeName": "カプ・ブルル",
+    "drawings": [
+      {
+        "file": "787_200517_1.jpeg",
+        "date": "2020-05-17"
+      }
+    ]
+  },
+  {
+    "pokeName": "カプ・レヒレ",
+    "drawings": []
+  },
+  {
+    "pokeName": "コスモッグ",
+    "drawings": []
+  },
+  {
+    "pokeName": "コスモウム",
+    "drawings": []
+  },
+  {
+    "pokeName": "ソルガレオ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ルナアーラ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ウツロイド",
+    "drawings": []
+  },
+  {
+    "pokeName": "マッシブーン",
+    "drawings": []
+  },
+  {
+    "pokeName": "フェローチェ",
+    "drawings": [
+      {
+        "file": "795_200213_1.jpeg",
+        "date": "2020-02-13"
+      }
+    ]
+  },
+  {
+    "pokeName": "デンジュモク",
+    "drawings": []
+  },
+  {
+    "pokeName": "テッカグヤ",
+    "drawings": []
+  },
+  {
+    "pokeName": "カミツルギ",
+    "drawings": []
+  },
+  {
+    "pokeName": "アクジキング",
+    "drawings": [
+      {
+        "file": "799_200410_1.jpeg",
+        "date": "2020-04-10"
+      }
+    ]
+  },
+  {
+    "pokeName": "ネクロズマ",
+    "drawings": []
+  },
+  {
+    "pokeName": "マギアナ",
+    "drawings": []
+  },
+  {
+    "pokeName": "マーシャドー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ベベノム",
+    "drawings": []
+  },
+  {
+    "pokeName": "アーゴヨン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ツンデツンデ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ズガドーン",
+    "drawings": [
+      {
+        "file": "806_200405_1.jpeg",
+        "date": "2020-04-05"
+      },
+      {
+        "file": "806_200405_2.jpeg",
+        "date": "2020-04-05"
+      }
+    ]
+  },
+  {
+    "pokeName": "ゼラオラ",
+    "drawings": [
+      {
+        "file": "807_200222_1.jpeg",
+        "date": "2020-02-22"
+      }
+    ]
+  },
+  {
+    "pokeName": "メルタン",
+    "drawings": []
+  },
+  {
+    "pokeName": "メルメタル",
+    "drawings": []
+  },
+  {
+    "pokeName": "サルノリ",
+    "drawings": []
+  },
+  {
+    "pokeName": "バチンキー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ゴリランダー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ヒバニー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ラビフット",
+    "drawings": [
+      {
+        "file": "814_200319_1.jpeg",
+        "date": "2020-03-19"
+      },
+      {
+        "file": "814_200319_2.jpeg",
+        "date": "2020-03-19"
+      }
+    ]
+  },
   {
     "pokeName": "エースバーン",
     "drawings": [
-      { "file": "815_200203_1.jpeg", "date": "200203" },
-      { "file": "815_200203_2.jpeg", "date": "200203" }
+      {
+        "file": "815_200203_1.jpeg",
+        "date": "2020-02-03"
+      },
+      {
+        "file": "815_200203_2.jpeg",
+        "date": "2020-02-03"
+      }
     ]
   },
-  { "pokeName": "メッソン", "drawings": [] },
-  { "pokeName": "ジメレオン", "drawings": [] },
-  { "pokeName": "インテレオン", "drawings": [] },
-  { "pokeName": "ホシガリス", "drawings": [] },
-  { "pokeName": "ヨクバリス", "drawings": [] },
-  { "pokeName": "ココガラ", "drawings": [] },
-  { "pokeName": "アオガラス", "drawings": [] },
-  { "pokeName": "アーマーガア", "drawings": [] },
-  { "pokeName": "サッチムシ", "drawings": [] },
-  { "pokeName": "レドームシ", "drawings": [] },
-  { "pokeName": "イオルブ", "drawings": [] },
-  { "pokeName": "クスネ", "drawings": [] },
-  { "pokeName": "フォクスライ", "drawings": [] },
-  { "pokeName": "ヒメンカ", "drawings": [] },
-  { "pokeName": "ワタシラガ", "drawings": [] },
-  { "pokeName": "ウールー", "drawings": [] },
-  { "pokeName": "バイウールー", "drawings": [] },
-  { "pokeName": "カムカメ", "drawings": [] },
-  { "pokeName": "カジリガメ", "drawings": [] },
-  { "pokeName": "ワンパチ", "drawings": [] },
-  { "pokeName": "パルスワン", "drawings": [] },
-  { "pokeName": "タンドン", "drawings": [] },
-  { "pokeName": "トロッゴン", "drawings": [] },
-  { "pokeName": "セキタンザン", "drawings": [] },
-  { "pokeName": "カジッチュ", "drawings": [] },
-  { "pokeName": "アップリュー", "drawings": [] },
-  { "pokeName": "タルップル", "drawings": [] },
-  { "pokeName": "スナヘビ", "drawings": [] },
-  { "pokeName": "サダイジャ", "drawings": [] },
-  { "pokeName": "ウッウ", "drawings": [] },
-  { "pokeName": "サシカマス", "drawings": [] },
-  { "pokeName": "カマスジョー", "drawings": [] },
-  { "pokeName": "エレズン", "drawings": [] },
-  { "pokeName": "ストリンダー", "drawings": [] },
-  { "pokeName": "ヤクデ", "drawings": [] },
-  { "pokeName": "マルヤクデ", "drawings": [] },
-  { "pokeName": "タタッコ", "drawings": [] },
-  { "pokeName": "オトスパス", "drawings": [] },
-  { "pokeName": "ヤバチャ", "drawings": [] },
-  { "pokeName": "ポットデス", "drawings": [] },
-  { "pokeName": "ミブリム", "drawings": [] },
-  { "pokeName": "テブリム", "drawings": [] },
-  { "pokeName": "ブリムオン", "drawings": [] },
-  { "pokeName": "ベロバー", "drawings": [] },
-  { "pokeName": "ギモー", "drawings": [] },
-  { "pokeName": "オーロンゲ", "drawings": [] },
-  { "pokeName": "タチフサグマ", "drawings": [] },
+  {
+    "pokeName": "メッソン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ジメレオン",
+    "drawings": []
+  },
+  {
+    "pokeName": "インテレオン",
+    "drawings": [
+      {
+        "file": "818_200305_1.jpeg",
+        "date": "2020-03-05"
+      }
+    ]
+  },
+  {
+    "pokeName": "ホシガリス",
+    "drawings": []
+  },
+  {
+    "pokeName": "ヨクバリス",
+    "drawings": []
+  },
+  {
+    "pokeName": "ココガラ",
+    "drawings": []
+  },
+  {
+    "pokeName": "アオガラス",
+    "drawings": [
+      {
+        "file": "822_200328_1.jpeg",
+        "date": "2020-03-28"
+      },
+      {
+        "file": "822_200328_2.jpeg",
+        "date": "2020-03-28"
+      }
+    ]
+  },
+  {
+    "pokeName": "アーマーガア",
+    "drawings": []
+  },
+  {
+    "pokeName": "サッチムシ",
+    "drawings": []
+  },
+  {
+    "pokeName": "レドームシ",
+    "drawings": []
+  },
+  {
+    "pokeName": "イオルブ",
+    "drawings": [
+      {
+        "file": "826_200514_1.jpeg",
+        "date": "2020-05-14"
+      },
+      {
+        "file": "826_200514_2.jpeg",
+        "date": "2020-05-14"
+      }
+    ]
+  },
+  {
+    "pokeName": "クスネ",
+    "drawings": []
+  },
+  {
+    "pokeName": "フォクスライ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ヒメンカ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ワタシラガ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ウールー",
+    "drawings": []
+  },
+  {
+    "pokeName": "バイウールー",
+    "drawings": []
+  },
+  {
+    "pokeName": "カムカメ",
+    "drawings": []
+  },
+  {
+    "pokeName": "カジリガメ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ワンパチ",
+    "drawings": []
+  },
+  {
+    "pokeName": "パルスワン",
+    "drawings": []
+  },
+  {
+    "pokeName": "タンドン",
+    "drawings": []
+  },
+  {
+    "pokeName": "トロッゴン",
+    "drawings": []
+  },
+  {
+    "pokeName": "セキタンザン",
+    "drawings": []
+  },
+  {
+    "pokeName": "カジッチュ",
+    "drawings": []
+  },
+  {
+    "pokeName": "アップリュー",
+    "drawings": []
+  },
+  {
+    "pokeName": "タルップル",
+    "drawings": []
+  },
+  {
+    "pokeName": "スナヘビ",
+    "drawings": []
+  },
+  {
+    "pokeName": "サダイジャ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ウッウ",
+    "drawings": []
+  },
+  {
+    "pokeName": "サシカマス",
+    "drawings": []
+  },
+  {
+    "pokeName": "カマスジョー",
+    "drawings": []
+  },
+  {
+    "pokeName": "エレズン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ストリンダー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ヤクデ",
+    "drawings": []
+  },
+  {
+    "pokeName": "マルヤクデ",
+    "drawings": []
+  },
+  {
+    "pokeName": "タタッコ",
+    "drawings": []
+  },
+  {
+    "pokeName": "オトスパス",
+    "drawings": []
+  },
+  {
+    "pokeName": "ヤバチャ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ポットデス",
+    "drawings": []
+  },
+  {
+    "pokeName": "ミブリム",
+    "drawings": [
+      {
+        "file": "856_200428_1.jpeg",
+        "date": "2020-04-28"
+      },
+      {
+        "file": "856_200428_2.jpeg",
+        "date": "2020-04-28"
+      }
+    ]
+  },
+  {
+    "pokeName": "テブリム",
+    "drawings": []
+  },
+  {
+    "pokeName": "ブリムオン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ベロバー",
+    "drawings": []
+  },
+  {
+    "pokeName": "ギモー",
+    "drawings": []
+  },
+  {
+    "pokeName": "オーロンゲ",
+    "drawings": []
+  },
+  {
+    "pokeName": "タチフサグマ",
+    "drawings": []
+  },
   {
     "pokeName": "ニャイキング",
     "drawings": [
-      { "file": "863_200206_1.jpeg", "date": "200206" },
-      { "file": "863_200206_2.jpeg", "date": "200206" }
+      {
+        "file": "863_200206_1.jpeg",
+        "date": "2020-02-06"
+      },
+      {
+        "file": "863_200206_2.jpeg",
+        "date": "2020-02-06"
+      }
     ]
   },
-  { "pokeName": "サニゴーン", "drawings": [] },
-  { "pokeName": "ネギガナイト", "drawings": [] },
-  { "pokeName": "バリコオル", "drawings": [] },
-  { "pokeName": "デスバーン", "drawings": [] },
-  { "pokeName": "マホミル", "drawings": [] },
-  { "pokeName": "マホイップ", "drawings": [] },
-  { "pokeName": "タイレーツ", "drawings": [] },
-  { "pokeName": "バチンウニ", "drawings": [] },
-  { "pokeName": "ユキハミ", "drawings": [] },
-  { "pokeName": "モスノウ", "drawings": [] },
-  { "pokeName": "イシヘンジン", "drawings": [] },
-  { "pokeName": "コオリッポ", "drawings": [] },
-  { "pokeName": "イエッサン", "drawings": [] },
-  { "pokeName": "モルペコ", "drawings": [] },
-  { "pokeName": "ゾウドウ", "drawings": [] },
-  { "pokeName": "ダイオウドウ", "drawings": [] },
-  { "pokeName": "パッチラゴン", "drawings": [] },
-  { "pokeName": "パッチルドン", "drawings": [] },
-  { "pokeName": "ウオノラゴン", "drawings": [] },
-  { "pokeName": "ウオチルドン", "drawings": [] },
-  { "pokeName": "ジュラルドン", "drawings": [] },
-  { "pokeName": "ドラメシヤ", "drawings": [] },
-  { "pokeName": "ドロンチ", "drawings": [] },
-  { "pokeName": "ドラパルト", "drawings": [] },
-  { "pokeName": "ザシアン", "drawings": [] },
-  { "pokeName": "ザマゼンタ", "drawings": [] },
-  { "pokeName": "ムゲンダイナ", "drawings": [] }
+  {
+    "pokeName": "サニゴーン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ネギガナイト",
+    "drawings": []
+  },
+  {
+    "pokeName": "バリコオル",
+    "drawings": []
+  },
+  {
+    "pokeName": "デスバーン",
+    "drawings": []
+  },
+  {
+    "pokeName": "マホミル",
+    "drawings": []
+  },
+  {
+    "pokeName": "マホイップ",
+    "drawings": []
+  },
+  {
+    "pokeName": "タイレーツ",
+    "drawings": []
+  },
+  {
+    "pokeName": "バチンウニ",
+    "drawings": [
+      {
+        "file": "871_200401_1.jpeg",
+        "date": "2020-04-01"
+      },
+      {
+        "file": "871_200401_2.jpeg",
+        "date": "2020-04-01"
+      }
+    ]
+  },
+  {
+    "pokeName": "ユキハミ",
+    "drawings": [
+      {
+        "file": "872_200302_1.jpeg",
+        "date": "2020-03-02"
+      }
+    ]
+  },
+  {
+    "pokeName": "モスノウ",
+    "drawings": []
+  },
+  {
+    "pokeName": "イシヘンジン",
+    "drawings": []
+  },
+  {
+    "pokeName": "コオリッポ",
+    "drawings": []
+  },
+  {
+    "pokeName": "イエッサン",
+    "drawings": []
+  },
+  {
+    "pokeName": "モルペコ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ゾウドウ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ダイオウドウ",
+    "drawings": []
+  },
+  {
+    "pokeName": "パッチラゴン",
+    "drawings": []
+  },
+  {
+    "pokeName": "パッチルドン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ウオノラゴン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ウオチルドン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ジュラルドン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ドラメシヤ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ドロンチ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ドラパルト",
+    "drawings": [
+      {
+        "file": "887_200321_1.jpeg",
+        "date": "2020-03-21"
+      },
+      {
+        "file": "887_200321_2.jpeg",
+        "date": "2020-03-21"
+      }
+    ]
+  },
+  {
+    "pokeName": "ザシアン",
+    "drawings": []
+  },
+  {
+    "pokeName": "ザマゼンタ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ムゲンダイナ",
+    "drawings": []
+  }
 ]
