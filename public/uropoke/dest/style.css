@@ -124,6 +124,10 @@ a:hover {
   cursor: pointer;
 }
 
+.img-list li > div .status {
+  display: none;
+}
+
 .img-list li.active {
   width: 100%;
 }
@@ -140,6 +144,24 @@ a:hover {
      object-fit: contain;
   width: auto;
   max-height: 300px;
+}
+
+.img-list li.active > div .status {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  padding: 2px 12px;
+  text-align: center;
+  font-size: 11px;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.img-list li.active > div .status p {
+  display: inline-block;
 }
 
 .img-list li.active:after {
