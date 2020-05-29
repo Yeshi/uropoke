@@ -13,8 +13,9 @@ gulp.task("compileCss", function() {
 
 // CSSファイルの変更を検知してcompileCssを実行
 gulp.task("watch", function () {
-  gulp.watch("./*.scss", ["compileCss"]);
+  gulp.watch("./*.scss", gulp.task("compileCss"));
 });
 
 // 実行時にはcompileCssしてwatch
-gulp.task("default", ["compileCss", "watch"]);
+gulp.task("default", gulp.series( gulp.parallel('compileCss', 'watch')));
+

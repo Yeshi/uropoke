@@ -50,6 +50,18 @@ a:hover {
   font-weight: normal;
 }
 
+.head .progress {
+  padding-top: 4px;
+  color: #aaa;
+  font-size: 11px;
+}
+
+.head .progress em {
+  font-style: normal;
+  font-size: 13px;
+  color: #444;
+}
+
 .head .about-link {
   display: block;
   position: absolute;
@@ -110,6 +122,28 @@ a:hover {
   -o-object-fit: cover;
      object-fit: cover;
   cursor: pointer;
+}
+
+.img-list li.active {
+  width: 100%;
+}
+
+.img-list li.active > div {
+  text-align: center;
+  position: static;
+  width: auto;
+  height: auto;
+}
+
+.img-list li.active > div img {
+  -o-object-fit: contain;
+     object-fit: contain;
+  width: auto;
+  max-height: 300px;
+}
+
+.img-list li.active:after {
+  display: none;
 }
 
 @media (max-width: 600px) {

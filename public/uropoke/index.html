@@ -14,9 +14,10 @@
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
   </head>
   <body>
-    <div class="wrap">
+    <div id="result" class="wrap">
       <div class="head">
         <h1>1日1種ポケモンをうろ覚えで描くページ</h1>
+        <p class="progress">達成状況： <em>{{ counter }}</em> / {{ total }}</p>
         <a
           href="https://github.com/Yeshi/uropoke/blob/master/public/uropoke/readme.md"
           class="about-link"
@@ -24,19 +25,21 @@
           >？</a
         >
       </div>
-      <div id="result" class="contents">
+      <div class="contents">
         <ul class="img-list">
-          <li v-for="(item, index) in items">
-            <div v-if="item.drawings[0]">
-              <img
-                :src="'images/'+item.drawings[0].file"
-                :alt="item.pokeName"
-              />
-            </div>
-            <div v-else>
-              <span class="none">{{ index + 1 }} : {{item.pokeName}}</span>
-            </div>
-          </li>
+          <template v-for="(item, index) in items">
+            <li :class="{active: isActive === index}">
+              <div v-if="item.drawings[0]" v-on:click="clickobj(index)">
+                <img
+                  :src="'images/'+item.drawings[0].file"
+                  :alt="item.pokeName"
+                />
+              </div>
+              <div v-else>
+                <span class="none">{{ index + 1 }} : {{item.pokeName}}</span>
+              </div>
+            </li>
+          </template>
         </ul>
       </div>
     </div>
