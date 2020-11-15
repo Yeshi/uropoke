@@ -12,12 +12,13 @@
     <!-- 本番バージョン、サイズと速度のために最適化されています -->
     <script src="https://cdn.jsdelivr.net/npm/vue"></script>
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="chance.min.js"></script>
   </head>
   <body>
     <div id="result" class="wrap">
       <div class="head">
         <h1>1日1種ポケモンをうろ覚えで描くページ</h1>
-        <p class="progress">達成状況： <em>{{ counter }}</em> / {{ total }}</p>
+        <p class="progress">達成状況： <em v-on:click="yetList()">{{ counter }}</em> / {{ total }}</p>
         <a
           href="https://github.com/Yeshi/uropoke/blob/master/public/uropoke/readme.md"
           class="about-link"
@@ -26,6 +27,7 @@
         >
       </div>
       <div class="contents">
+        <div class="today-item">今日のお題：<em>{{ todayItem }}</em></div>
         <ul class="img-list">
           <template v-for="(item, index) in items">
             <li :class="{active: isActive === index}">
