@@ -63,7 +63,12 @@
   },
   {
     "pokeName": "カメックス",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "009_201110_1.jpeg",
+        "date": "2020-11-10"
+      }
+    ]
   },
   {
     "pokeName": "キャタピー",
@@ -591,7 +596,12 @@
   },
   {
     "pokeName": "ニョロゾ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "061_201114_1.jpeg",
+        "date": "2020-11-14"
+      }
+    ]
   },
   {
     "pokeName": "ニョロボン",
@@ -1835,7 +1845,12 @@
   },
   {
     "pokeName": "ウソッキー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "185_201109_1.jpeg",
+        "date": "2020-11-09"
+      }
+    ]
   },
   {
     "pokeName": "ニョロトノ",
@@ -7207,7 +7222,12 @@
   },
   {
     "pokeName": "アシマリ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "728_201112_1.jpeg",
+        "date": "2020-11-12"
+      }
+    ]
   },
   {
     "pokeName": "オシャマリ",
@@ -8064,7 +8084,12 @@
   },
   {
     "pokeName": "タンドン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "837_201111_1.jpeg",
+        "date": "2020-11-11"
+      }
+    ]
   },
   {
     "pokeName": "トロッゴン",
@@ -8245,7 +8270,12 @@
   },
   {
     "pokeName": "バリコオル",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "866_201113_1.jpeg",
+        "date": "2020-11-13"
+      }
+    ]
   },
   {
     "pokeName": "デスバーン",
@@ -8271,7 +8301,12 @@
   },
   {
     "pokeName": "タイレーツ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "870_201115_1.jpeg",
+        "date": "2020-11-15"
+      }
+    ]
   },
   {
     "pokeName": "バチンウニ",
