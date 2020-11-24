@@ -25,7 +25,7 @@ const app = new Vue({
   },
   methods: {
     clickobj: function (index) {
-      console.log(this.isActive, index);
+      // console.log(this.isActive, index);
       this.isActive = index;
     },
     yetList: function () {
@@ -43,8 +43,13 @@ const app = new Vue({
       }
       let chance = new Chance(dateStr);
       let todayItem = chance.natural({min:0,max:yetList.length});
-      console.log(yetList,dateStr,todayItem,yetList[todayItem]);
+      // console.log(yetList,dateStr,todayItem,yetList[todayItem]);
       return todayItem,yetList[todayItem];
+    },
+    copyText: function(){
+      let copyText = "今日は" + this.todayItem + "を見ないで描きました　#うろポケ";
+      // console.log(copyText);
+      navigator.clipboard.writeText(copyText);
     }
   },
 });

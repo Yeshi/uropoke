@@ -18,7 +18,7 @@
     <div id="result" class="wrap">
       <div class="head">
         <h1>1日1種ポケモンをうろ覚えで描くページ</h1>
-        <p class="progress">達成状況： <em v-on:click="yetList()">{{ counter }}</em> / {{ total }}</p>
+        <p class="progress">達成状況： <em>{{ counter }}</em> / {{ total }}</p>
         <a
           href="https://github.com/Yeshi/uropoke/blob/master/public/uropoke/readme.md"
           class="about-link"
@@ -27,7 +27,7 @@
         >
       </div>
       <div class="contents">
-        <div class="today-item">今日のお題：<em>{{ todayItem }}</em></div>
+        <div class="today-item" v-on:click="copyText()">今日のお題：<em>{{ todayItem }}</em></div>
         <ul class="img-list">
           <template v-for="(item, index) in items">
             <li :class="{active: isActive === index}">

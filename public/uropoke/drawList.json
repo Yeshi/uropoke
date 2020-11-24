@@ -592,7 +592,12 @@
   },
   {
     "pokeName": "ニョロモ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "060_201123_1.jpeg",
+        "date": "2020-11-23"
+      }
+    ]
   },
   {
     "pokeName": "ニョロゾ",
@@ -926,7 +931,12 @@
   },
   {
     "pokeName": "イワーク",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "095_201119_1.jpeg",
+        "date": "2020-11-19"
+      }
+    ]
   },
   {
     "pokeName": "スリープ",
@@ -2152,7 +2162,12 @@
   },
   {
     "pokeName": "マグカルゴ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "219_201124_1.jpeg",
+        "date": "2020-11-24"
+      }
+    ]
   },
   {
     "pokeName": "ウリムー",
@@ -3831,7 +3846,12 @@
   },
   {
     "pokeName": "デオキシス",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "386_201116_1.jpeg",
+        "date": "2020-11-16"
+      }
+    ]
   },
   {
     "pokeName": "ナエトル",
@@ -5674,7 +5694,12 @@
   },
   {
     "pokeName": "アーケオス",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "567_201122_1.jpeg",
+        "date": "2020-11-22"
+      }
+    ]
   },
   {
     "pokeName": "ヤブクロン",
@@ -7159,7 +7184,12 @@
   },
   {
     "pokeName": "ジガルデ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "718_201118_1.jpeg",
+        "date": "2020-11-18"
+      }
+    ]
   },
   {
     "pokeName": "ディアンシー",
@@ -7442,7 +7472,20 @@
   },
   {
     "pokeName": "ネマシュ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "755_201120_1.jpeg",
+        "date": "2020-11-20"
+      },
+      {
+        "file": "755_201120_2.jpeg",
+        "date": "2020-11-20"
+      },
+      {
+        "file": "755_201120_3.jpeg",
+        "date": "2020-11-20"
+      }
+    ]
   },
   {
     "pokeName": "マシェード",
@@ -7463,11 +7506,25 @@
   },
   {
     "pokeName": "エンニュート",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "758_201117_1.jpeg",
+        "date": "2020-11-17"
+      }
+    ]
   },
   {
     "pokeName": "ヌイコグマ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "759_201121_1.jpeg",
+        "date": "2020-11-21"
+      },
+      {
+        "file": "759_201121_2.jpeg",
+        "date": "2020-11-21"
+      }
+    ]
   },
   {
     "pokeName": "キテルグマ",
