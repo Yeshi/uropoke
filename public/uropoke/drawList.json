@@ -1708,7 +1708,12 @@
   },
   {
     "pokeName": "チョンチー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "170_201208_1.jpeg",
+        "date": "2020-12-08"
+      }
+    ]
   },
   {
     "pokeName": "ランターン",
@@ -1725,7 +1730,12 @@
   },
   {
     "pokeName": "ピチュー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "172_201212_1.jpeg",
+        "date": "2020-12-12"
+      }
+    ]
   },
   {
     "pokeName": "ピィ",
@@ -2006,7 +2016,12 @@
   },
   {
     "pokeName": "キリンリキ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "203_201217_1.jpeg",
+        "date": "2020-12-17"
+      }
+    ]
   },
   {
     "pokeName": "クヌギダマ",
@@ -2771,7 +2786,16 @@
   },
   {
     "pokeName": "キルリア",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "281_201220_1.jpeg",
+        "date": "2020-12-20"
+      },
+      {
+        "file": "281_201220_2.jpeg",
+        "date": "2020-12-20"
+      }
+    ]
   },
   {
     "pokeName": "サーナイト",
@@ -2844,7 +2868,16 @@
   },
   {
     "pokeName": "ヤルキモノ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "288_201204_1.jpeg",
+        "date": "2020-12-04"
+      },
+      {
+        "file": "288_201204_2.jpeg",
+        "date": "2020-12-04"
+      }
+    ]
   },
   {
     "pokeName": "ケッキング",
@@ -3280,7 +3313,12 @@
   },
   {
     "pokeName": "ナックラー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "328_201216_1.jpeg",
+        "date": "2020-12-16"
+      }
+    ]
   },
   {
     "pokeName": "ビブラーバ",
@@ -4262,7 +4300,12 @@
   },
   {
     "pokeName": "フワライド",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "426_201209_1.jpeg",
+        "date": "2020-12-09"
+      }
+    ]
   },
   {
     "pokeName": "ミミロル",
@@ -5110,7 +5153,12 @@
   },
   {
     "pokeName": "ヨーテリー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "506_201215_1.jpeg",
+        "date": "2020-12-15"
+      }
+    ]
   },
   {
     "pokeName": "ハーデリア",
@@ -5802,7 +5850,16 @@
   },
   {
     "pokeName": "ゴチルゼル",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "576_201130_1.jpeg",
+        "date": "2020-11-30"
+      },
+      {
+        "file": "576_201130_2.png",
+        "date": "2020-11-30"
+      }
+    ]
   },
   {
     "pokeName": "ユニラン",
@@ -6246,7 +6303,12 @@
   },
   {
     "pokeName": "クリムガン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "621_201221_1.jpeg",
+        "date": "2020-12-21"
+      }
+    ]
   },
   {
     "pokeName": "ゴビット",
@@ -6346,7 +6408,12 @@
   },
   {
     "pokeName": "アイアント",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "632_201222_1.jpeg",
+        "date": "2020-12-22"
+      }
+    ]
   },
   {
     "pokeName": "モノズ",
@@ -6524,7 +6591,12 @@
   },
   {
     "pokeName": "ゲノセクト",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "649_201206_1.jpeg",
+        "date": "2020-12-06"
+      }
+    ]
   },
   {
     "pokeName": "ハリマロン",
@@ -6719,7 +6791,12 @@
   },
   {
     "pokeName": "カエンジシ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "668_201205_1.jpeg",
+        "date": "2020-12-05"
+      }
+    ]
   },
   {
     "pokeName": "フラベベ",
@@ -7321,7 +7398,12 @@
   },
   {
     "pokeName": "アゴジムシ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "736_201210_1.jpeg",
+        "date": "2020-12-10"
+      }
+    ]
   },
   {
     "pokeName": "デンヂムシ",
@@ -7430,7 +7512,12 @@
   },
   {
     "pokeName": "ヒドイデ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "747_201219_1.jpeg",
+        "date": "2020-12-19"
+      }
+    ]
   },
   {
     "pokeName": "ドヒドイデ",
@@ -7486,7 +7573,16 @@
   },
   {
     "pokeName": "ラランテス",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "754_201211_1.jpeg",
+        "date": "2020-12-11"
+      },
+      {
+        "file": "754_201211_2.jpeg",
+        "date": "2020-12-11"
+      }
+    ]
   },
   {
     "pokeName": "ネマシュ",
@@ -7546,11 +7642,25 @@
   },
   {
     "pokeName": "キテルグマ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "760_201207_1.jpeg",
+        "date": "2020-12-07"
+      },
+      {
+        "file": "760_201207_2.jpeg",
+        "date": "2020-12-07"
+      }
+    ]
   },
   {
     "pokeName": "アマカジ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "761_201214_1.jpeg",
+        "date": "2020-12-14"
+      }
+    ]
   },
   {
     "pokeName": "アママイコ",
@@ -7649,7 +7759,16 @@
   },
   {
     "pokeName": "タイプ：ヌル",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "772_201203_1.jpeg",
+        "date": "2020-12-03"
+      },
+      {
+        "file": "772_201203_2.jpeg",
+        "date": "2020-12-03"
+      }
+    ]
   },
   {
     "pokeName": "シルヴァディ",
@@ -7859,7 +7978,16 @@
   },
   {
     "pokeName": "マギアナ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "801_201201_1.jpeg",
+        "date": "2020-12-01"
+      },
+      {
+        "file": "801_201201_2.jpeg",
+        "date": "2020-12-01"
+      }
+    ]
   },
   {
     "pokeName": "マーシャドー",
@@ -8003,7 +8131,16 @@
   },
   {
     "pokeName": "メッソン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "816_201218_1.jpeg",
+        "date": "2020-12-18"
+      },
+      {
+        "file": "816_201218_2.jpeg",
+        "date": "2020-12-18"
+      }
+    ]
   },
   {
     "pokeName": "ジメレオン",
@@ -8224,7 +8361,12 @@
   },
   {
     "pokeName": "サシカマス",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "846_201202_1.jpeg",
+        "date": "2020-12-02"
+      }
+    ]
   },
   {
     "pokeName": "カマスジョー",
@@ -8360,7 +8502,12 @@
   },
   {
     "pokeName": "ネギガナイト",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "865_201213_1.jpeg",
+        "date": "2020-12-13"
+      }
+    ]
   },
   {
     "pokeName": "バリコオル",
@@ -8598,6 +8745,26 @@
   },
   {
     "pokeName": "ザルード",
+    "drawings": []
+  },
+  {
+    "pokeName": "レジエレキ",
+    "drawings": []
+  },
+  {
+    "pokeName": "レジドラゴ",
+    "drawings": []
+  },
+  {
+    "pokeName": "ブリザポス",
+    "drawings": []
+  },
+  {
+    "pokeName": "レイスポス",
+    "drawings": []
+  },
+  {
+    "pokeName": "バドレックス",
     "drawings": []
   }
 ]
