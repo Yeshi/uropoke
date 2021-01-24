@@ -1876,7 +1876,12 @@
   },
   {
     "pokeName": "マリルリ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "184_210120_1.jpeg",
+        "date": "2021-01-20"
+      }
+    ]
   },
   {
     "pokeName": "ウソッキー",
@@ -2324,7 +2329,12 @@
   },
   {
     "pokeName": "ドンファン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "232_210114_1.jpeg",
+        "date": "2021-01-14"
+      }
+    ]
   },
   {
     "pokeName": "ポリゴン2",
@@ -2590,7 +2600,12 @@
   },
   {
     "pokeName": "ミズゴロウ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "258_210117_1.jpeg",
+        "date": "2021-01-17"
+      }
+    ]
   },
   {
     "pokeName": "ヌマクロー",
@@ -3685,7 +3700,16 @@
   },
   {
     "pokeName": "アブソル",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "359_210118_1.jpeg",
+        "date": "2021-01-18"
+      },
+      {
+        "file": "359_210118_2.jpeg",
+        "date": "2021-01-18"
+      }
+    ]
   },
   {
     "pokeName": "ソーナノ",
@@ -5552,7 +5576,12 @@
   },
   {
     "pokeName": "ナゲキ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "538_210124_1.jpeg",
+        "date": "2021-01-24"
+      }
+    ]
   },
   {
     "pokeName": "ダゲキ",
@@ -5773,7 +5802,16 @@
   },
   {
     "pokeName": "ズルズキン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "560_210122_1.jpeg",
+        "date": "2021-01-22"
+      },
+      {
+        "file": "560_210122_2.jpeg",
+        "date": "2021-01-22"
+      }
+    ]
   },
   {
     "pokeName": "シンボラー",
@@ -6922,7 +6960,12 @@
   },
   {
     "pokeName": "ゴーゴート",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "673_210113_1.jpeg",
+        "date": "2021-01-13"
+      }
+    ]
   },
   {
     "pokeName": "ヤンチャム",
@@ -7306,7 +7349,12 @@
   },
   {
     "pokeName": "カチコール",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "712_210121_1.jpeg",
+        "date": "2021-01-21"
+      }
+    ]
   },
   {
     "pokeName": "クレベース",
@@ -7418,11 +7466,25 @@
   },
   {
     "pokeName": "ニャビー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "725_210119_1.jpeg",
+        "date": "2021-01-19"
+      }
+    ]
   },
   {
     "pokeName": "ニャヒート",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "726_210112_1.jpeg",
+        "date": "2021-01-12"
+      },
+      {
+        "file": "726_210112_2.jpeg",
+        "date": "2021-01-12"
+      }
+    ]
   },
   {
     "pokeName": "ガオガエン",
@@ -7893,7 +7955,12 @@
   },
   {
     "pokeName": "ジジーロン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "780_210116_1.jpeg",
+        "date": "2021-01-16"
+      }
+    ]
   },
   {
     "pokeName": "ダダリン",
@@ -8395,7 +8462,12 @@
   },
   {
     "pokeName": "ワンパチ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "835_210123_1.jpeg",
+        "date": "2021-01-23"
+      }
+    ]
   },
   {
     "pokeName": "パルスワン",
@@ -8857,7 +8929,12 @@
   },
   {
     "pokeName": "レジエレキ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "894_210115_1.jpeg",
+        "date": "2021-01-15"
+      }
+    ]
   },
   {
     "pokeName": "レジドラゴ",
