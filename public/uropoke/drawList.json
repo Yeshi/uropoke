@@ -754,7 +754,12 @@
   },
   {
     "pokeName": "ゴローニャ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "076_210101_1.jpeg",
+        "date": "2021-01-01"
+      }
+    ]
   },
   {
     "pokeName": "ポニータ",
@@ -2166,7 +2171,12 @@
   },
   {
     "pokeName": "ヒメグマ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "216_210105_1.jpeg",
+        "date": "2021-01-05"
+      }
+    ]
   },
   {
     "pokeName": "リングマ",
@@ -2440,7 +2450,16 @@
   },
   {
     "pokeName": "スイクン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "245_210109_1.jpeg",
+        "date": "2021-01-09"
+      },
+      {
+        "file": "245_210109_2.jpeg",
+        "date": "2021-01-09"
+      }
+    ]
   },
   {
     "pokeName": "ヨーギラス",
@@ -2836,7 +2855,12 @@
   },
   {
     "pokeName": "アメタマ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "283_210106_1.jpeg",
+        "date": "2021-01-06"
+      }
+    ]
   },
   {
     "pokeName": "アメモース",
@@ -3124,7 +3148,12 @@
   },
   {
     "pokeName": "ラクライ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "309_210108_1.jpeg",
+        "date": "2021-01-08"
+      }
+    ]
   },
   {
     "pokeName": "ライボルト",
@@ -3403,7 +3432,12 @@
   },
   {
     "pokeName": "チルタリス",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "334_210107_1.jpeg",
+        "date": "2021-01-07"
+      }
+    ]
   },
   {
     "pokeName": "ザングース",
@@ -5348,7 +5382,12 @@
   },
   {
     "pokeName": "ハトーボー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "520_210103_1.jpeg",
+        "date": "2021-01-03"
+      }
+    ]
   },
   {
     "pokeName": "ケンホロウ",
@@ -6255,7 +6294,12 @@
   },
   {
     "pokeName": "クマシュン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "613_210102_1.jpeg",
+        "date": "2021-01-02"
+      }
+    ]
   },
   {
     "pokeName": "ツンベアー",
@@ -7952,7 +7996,12 @@
   },
   {
     "pokeName": "ウツロイド",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "793_210110_1.jpeg",
+        "date": "2021-01-10"
+      }
+    ]
   },
   {
     "pokeName": "マッシブーン",
@@ -8363,7 +8412,12 @@
   },
   {
     "pokeName": "トロッゴン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "838_210104_1.jpeg",
+        "date": "2021-01-04"
+      }
+    ]
   },
   {
     "pokeName": "セキタンザン",
@@ -8448,7 +8502,12 @@
   },
   {
     "pokeName": "タタッコ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "852_210111_1.jpeg",
+        "date": "2021-01-11"
+      }
+    ]
   },
   {
     "pokeName": "オトスパス",
