@@ -1446,7 +1446,12 @@
   },
   {
     "pokeName": "フリーザー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "144_210131_1.jpeg",
+        "date": "2021-01-31"
+      }
+    ]
   },
   {
     "pokeName": "サンダー",
@@ -3832,7 +3837,12 @@
   },
   {
     "pokeName": "コモルー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "372_210201_1.jpeg",
+        "date": "2021-02-01"
+      }
+    ]
   },
   {
     "pokeName": "ボーマンダ",
@@ -4687,7 +4697,12 @@
   },
   {
     "pokeName": "ケイコウオ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "456_210125_1.jpeg",
+        "date": "2021-01-25"
+      }
+    ]
   },
   {
     "pokeName": "ネオラント",
@@ -5415,7 +5430,12 @@
   },
   {
     "pokeName": "ケンホロウ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "521_210203_1.jpeg",
+        "date": "2021-02-03"
+      }
+    ]
   },
   {
     "pokeName": "シママ",
@@ -7701,7 +7721,12 @@
   },
   {
     "pokeName": "オニシズクモ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "752_210204_1.jpeg",
+        "date": "2021-02-04"
+      }
+    ]
   },
   {
     "pokeName": "カリキリ",
@@ -7990,7 +8015,12 @@
   },
   {
     "pokeName": "ジャラランガ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "784_210127_1.jpeg",
+        "date": "2021-01-27"
+      }
+    ]
   },
   {
     "pokeName": "カプ・コケコ",
@@ -8107,7 +8137,12 @@
   },
   {
     "pokeName": "テッカグヤ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "797_210129_1.jpeg",
+        "date": "2021-01-29"
+      }
+    ]
   },
   {
     "pokeName": "カミツルギ",
@@ -8458,7 +8493,12 @@
   },
   {
     "pokeName": "カジリガメ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "834_210128_1.jpeg",
+        "date": "2021-01-28"
+      }
+    ]
   },
   {
     "pokeName": "ワンパチ",
@@ -8639,7 +8679,12 @@
   },
   {
     "pokeName": "ベロバー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "859_210126_1.jpeg",
+        "date": "2021-01-26"
+      }
+    ]
   },
   {
     "pokeName": "ギモー",
@@ -8757,7 +8802,12 @@
   },
   {
     "pokeName": "イシヘンジン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "874_210202_1.jpeg",
+        "date": "2021-02-02"
+      }
+    ]
   },
   {
     "pokeName": "コオリッポ",
@@ -8950,6 +9000,11 @@
   },
   {
     "pokeName": "バドレックス",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "898_210130_1.jpeg",
+        "date": "2021-01-30"
+      }
+    ]
   }
 ]
