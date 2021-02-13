@@ -2373,7 +2373,12 @@
   },
   {
     "pokeName": "バルキー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "236_210208_1.jpeg",
+        "date": "2021-02-08"
+      }
+    ]
   },
   {
     "pokeName": "カポエラー",
@@ -2670,7 +2675,12 @@
   },
   {
     "pokeName": "ジグザグマ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "263_210209_1.jpeg",
+        "date": "2021-02-09"
+      }
+    ]
   },
   {
     "pokeName": "マッスグマ",
@@ -2783,7 +2793,12 @@
   },
   {
     "pokeName": "コノハナ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "274_210211_1.jpeg",
+        "date": "2021-02-11"
+      }
+    ]
   },
   {
     "pokeName": "ダーテング",
@@ -4272,7 +4287,12 @@
   },
   {
     "pokeName": "ミノマダム",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "413_210210_1.jpeg",
+        "date": "2021-02-10"
+      }
+    ]
   },
   {
     "pokeName": "ガーメイル",
@@ -4623,7 +4643,12 @@
   },
   {
     "pokeName": "ヒポポタス",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "449_210212_1.jpeg",
+        "date": "2021-02-12"
+      }
+    ]
   },
   {
     "pokeName": "カバルドン",
@@ -4924,7 +4949,12 @@
   },
   {
     "pokeName": "ダイノーズ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "476_210213_1.jpeg",
+        "date": "2021-02-13"
+      }
+    ]
   },
   {
     "pokeName": "ヨノワール",
@@ -5792,7 +5822,12 @@
   },
   {
     "pokeName": "イシズマイ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "557_210205_1.jpeg",
+        "date": "2021-02-05"
+      }
+    ]
   },
   {
     "pokeName": "イワパレス",
@@ -8815,7 +8850,12 @@
   },
   {
     "pokeName": "イエッサン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "876_210206_1.jpeg",
+        "date": "2021-02-06"
+      }
+    ]
   },
   {
     "pokeName": "モルペコ",
@@ -8893,7 +8933,12 @@
   },
   {
     "pokeName": "ドロンチ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "886_210207_1.jpeg",
+        "date": "2021-02-07"
+      }
+    ]
   },
   {
     "pokeName": "ドラパルト",
