@@ -46,7 +46,12 @@
   },
   {
     "pokeName": "リザードン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "006_210223_1.jpeg",
+        "date": "2021-02-23"
+      }
+    ]
   },
   {
     "pokeName": "ゼニガメ",
@@ -1270,7 +1275,12 @@
   },
   {
     "pokeName": "カイロス",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "127_210214_1.jpeg",
+        "date": "2021-02-14"
+      }
+    ]
   },
   {
     "pokeName": "ケンタロス",
@@ -1577,11 +1587,25 @@
   },
   {
     "pokeName": "ヒノアラシ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "155_210308_1.jpeg",
+        "date": "2021-03-08"
+      }
+    ]
   },
   {
     "pokeName": "マグマラシ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "156_210302_1.jpeg",
+        "date": "2021-03-02"
+      },
+      {
+        "file": "156_210302_2.jpeg",
+        "date": "2021-03-02"
+      }
+    ]
   },
   {
     "pokeName": "バクフーン",
@@ -1724,7 +1748,12 @@
   },
   {
     "pokeName": "クロバット",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "169_210307_1.jpeg",
+        "date": "2021-03-07"
+      }
+    ]
   },
   {
     "pokeName": "チョンチー",
@@ -1973,7 +2002,12 @@
   },
   {
     "pokeName": "ウパー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "194_210310_1.jpeg",
+        "date": "2021-03-10"
+      }
+    ]
   },
   {
     "pokeName": "ヌオー",
@@ -2243,7 +2277,12 @@
   },
   {
     "pokeName": "サニーゴ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "222_210215_1.jpeg",
+        "date": "2021-02-15"
+      }
+    ]
   },
   {
     "pokeName": "テッポウオ",
@@ -2269,7 +2308,12 @@
   },
   {
     "pokeName": "デリバード",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "225_210216_1.jpeg",
+        "date": "2021-02-16"
+      }
+    ]
   },
   {
     "pokeName": "マンタイン",
@@ -3664,7 +3708,12 @@
   },
   {
     "pokeName": "ジュペッタ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "354_210301_1.jpeg",
+        "date": "2021-03-01"
+      }
+    ]
   },
   {
     "pokeName": "ヨマワル",
@@ -4443,7 +4492,12 @@
   },
   {
     "pokeName": "ムウマージ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "429_210227_1.jpeg",
+        "date": "2021-02-27"
+      }
+    ]
   },
   {
     "pokeName": "ドンカラス",
@@ -4464,7 +4518,12 @@
   },
   {
     "pokeName": "ブニャット",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "432_210225_1.jpeg",
+        "date": "2021-02-25"
+      }
+    ]
   },
   {
     "pokeName": "リーシャン",
@@ -5268,7 +5327,12 @@
   },
   {
     "pokeName": "ミネズミ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "504_210304_1.jpeg",
+        "date": "2021-03-04"
+      }
+    ]
   },
   {
     "pokeName": "ミルホッグ",
@@ -5539,7 +5603,12 @@
   },
   {
     "pokeName": "ココロモリ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "528_210309_1.jpeg",
+        "date": "2021-03-09"
+      }
+    ]
   },
   {
     "pokeName": "モグリュー",
@@ -5874,7 +5943,12 @@
   },
   {
     "pokeName": "デスマス",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "562_210224_1.jpeg",
+        "date": "2021-02-24"
+      }
+    ]
   },
   {
     "pokeName": "デスカーン",
@@ -5956,7 +6030,16 @@
   },
   {
     "pokeName": "ゾロア",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "570_210226_1.jpeg",
+        "date": "2021-02-26"
+      },
+      {
+        "file": "570_210226_2.jpeg",
+        "date": "2021-02-26"
+      }
+    ]
   },
   {
     "pokeName": "ゾロアーク",
@@ -6042,7 +6125,12 @@
   },
   {
     "pokeName": "ダブラン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "578_210303_1.jpeg",
+        "date": "2021-03-03"
+      }
+    ]
   },
   {
     "pokeName": "ランクルス",
@@ -6232,7 +6320,12 @@
   },
   {
     "pokeName": "ナットレイ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "598_210217_1.jpeg",
+        "date": "2021-02-17"
+      }
+    ]
   },
   {
     "pokeName": "ギアル",
@@ -6266,7 +6359,12 @@
   },
   {
     "pokeName": "シビビール",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "603_210228_1.jpeg",
+        "date": "2021-02-28"
+      }
+    ]
   },
   {
     "pokeName": "シビルドン",
@@ -6536,7 +6634,12 @@
   },
   {
     "pokeName": "ワシボン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "627_210220_1.jpeg",
+        "date": "2021-02-20"
+      }
+    ]
   },
   {
     "pokeName": "ウォーグル",
@@ -6706,7 +6809,12 @@
   },
   {
     "pokeName": "レシラム",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "643_210222_1.jpeg",
+        "date": "2021-02-22"
+      }
+    ]
   },
   {
     "pokeName": "ゼクロム",
@@ -7374,7 +7482,16 @@
   },
   {
     "pokeName": "ボクレー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "708_210219_1.jpeg",
+        "date": "2021-02-19"
+      },
+      {
+        "file": "708_210219_2.jpeg",
+        "date": "2021-02-19"
+      }
+    ]
   },
   {
     "pokeName": "オーロット",
@@ -7986,7 +8103,12 @@
   },
   {
     "pokeName": "メテノ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "774_210305_1.jpeg",
+        "date": "2021-03-05"
+      }
+    ]
   },
   {
     "pokeName": "ネッコアラ",
@@ -8011,7 +8133,12 @@
   },
   {
     "pokeName": "ハギギシリ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "779_210218_1.jpeg",
+        "date": "2021-02-18"
+      }
+    ]
   },
   {
     "pokeName": "ジジーロン",
@@ -8615,7 +8742,12 @@
   },
   {
     "pokeName": "カマスジョー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "847_210306_1.jpeg",
+        "date": "2021-03-06"
+      }
+    ]
   },
   {
     "pokeName": "エレズン",
@@ -8881,7 +9013,12 @@
   },
   {
     "pokeName": "ダイオウドウ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "879_210221_1.jpeg",
+        "date": "2021-02-21"
+      }
+    ]
   },
   {
     "pokeName": "パッチラゴン",
