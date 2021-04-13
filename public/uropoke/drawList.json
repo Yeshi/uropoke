@@ -696,7 +696,12 @@
   },
   {
     "pokeName": "マダツボミ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "069_210405_1.jpeg",
+        "date": "2021-04-05"
+      }
+    ]
   },
   {
     "pokeName": "ウツドン",
@@ -2574,7 +2579,12 @@
   },
   {
     "pokeName": "バンギラス",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "248_210413_1.jpeg",
+        "date": "2021-04-13"
+      }
+    ]
   },
   {
     "pokeName": "ルギア",
@@ -3988,7 +3998,12 @@
   },
   {
     "pokeName": "メタグロス",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "376_210406_1.jpeg",
+        "date": "2021-04-06"
+      }
+    ]
   },
   {
     "pokeName": "レジロック",
@@ -4136,7 +4151,12 @@
   },
   {
     "pokeName": "モウカザル",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "391_210403_1.jpeg",
+        "date": "2021-04-03"
+      }
+    ]
   },
   {
     "pokeName": "ゴウカザル",
@@ -4388,7 +4408,12 @@
   },
   {
     "pokeName": "ガーメイル",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "414_210410_1.jpeg",
+        "date": "2021-04-10"
+      }
+    ]
   },
   {
     "pokeName": "ミツハニー",
@@ -4557,7 +4582,12 @@
   },
   {
     "pokeName": "ニャルマー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "431_210411_1.jpeg",
+        "date": "2021-04-11"
+      }
+    ]
   },
   {
     "pokeName": "ブニャット",
@@ -4911,7 +4941,12 @@
   },
   {
     "pokeName": "ベロベルト",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "463_210402_1.jpeg",
+        "date": "2021-04-02"
+      }
+    ]
   },
   {
     "pokeName": "ドサイドン",
@@ -5992,7 +6027,12 @@
   },
   {
     "pokeName": "シンボラー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "561_210412_1.jpeg",
+        "date": "2021-04-12"
+      }
+    ]
   },
   {
     "pokeName": "デスマス",
@@ -6309,7 +6349,12 @@
   },
   {
     "pokeName": "タマゲタケ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "590_210414_1.jpeg",
+        "date": "2021-04-14"
+      }
+    ]
   },
   {
     "pokeName": "モロバレル",
@@ -6374,7 +6419,12 @@
   },
   {
     "pokeName": "デンチュラ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "596_210409_1.jpeg",
+        "date": "2021-04-09"
+      }
+    ]
   },
   {
     "pokeName": "テッシード",
@@ -8125,7 +8175,12 @@
   },
   {
     "pokeName": "コソクムシ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "767_210407_1.jpeg",
+        "date": "2021-04-07"
+      }
+    ]
   },
   {
     "pokeName": "グソクムシャ",
@@ -8688,7 +8743,12 @@
   },
   {
     "pokeName": "レドームシ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "825_210404_1.jpeg",
+        "date": "2021-04-04"
+      }
+    ]
   },
   {
     "pokeName": "イオルブ",
@@ -9050,7 +9110,16 @@
   },
   {
     "pokeName": "マホイップ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "869_210408_1.jpeg",
+        "date": "2021-04-08"
+      },
+      {
+        "file": "869_210408_2.jpeg",
+        "date": "2021-04-08"
+      }
+    ]
   },
   {
     "pokeName": "タイレーツ",
