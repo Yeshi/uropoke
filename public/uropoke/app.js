@@ -42,7 +42,7 @@ const app = new Vue({
         }
       }
       let chance = new Chance(dateStr);
-      let todayItem = chance.natural({min:0,max:yetList.length});
+      let todayItem = chance.natural({min:0,max:yetList.length-1});
       // console.log(yetList,dateStr,todayItem,yetList[todayItem]);
       return todayItem,yetList[todayItem];
     },
