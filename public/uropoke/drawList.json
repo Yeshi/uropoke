@@ -1199,7 +1199,12 @@
   },
   {
     "pokeName": "トサキント",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "118_210504_1.jpeg",
+        "date": "2021-05-04"
+      }
+    ]
   },
   {
     "pokeName": "アズマオウ",
@@ -2061,7 +2066,16 @@
   },
   {
     "pokeName": "ブラッキー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "197_210426_1.jpeg",
+        "date": "2021-04-26"
+      },
+      {
+        "file": "197_210426_2.jpeg",
+        "date": "2021-04-26"
+      }
+    ]
   },
   {
     "pokeName": "ヤミカラス",
@@ -3648,7 +3662,12 @@
   },
   {
     "pokeName": "ヘイガニ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "341_210425_1.jpeg",
+        "date": "2021-04-25"
+      }
+    ]
   },
   {
     "pokeName": "シザリガー",
@@ -4553,7 +4572,12 @@
   },
   {
     "pokeName": "ミミロル",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "427_210503_1.jpeg",
+        "date": "2021-05-03"
+      }
+    ]
   },
   {
     "pokeName": "ミミロップ",
@@ -4742,7 +4766,12 @@
   },
   {
     "pokeName": "ガブリアス",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "445_210501_1.jpeg",
+        "date": "2021-05-01"
+      }
+    ]
   },
   {
     "pokeName": "ゴンベ",
@@ -5911,7 +5940,12 @@
   },
   {
     "pokeName": "チュリネ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "548_210430_1.jpeg",
+        "date": "2021-04-30"
+      }
+    ]
   },
   {
     "pokeName": "ドレディア",
@@ -7785,7 +7819,12 @@
   },
   {
     "pokeName": "フクスロー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "723_210428_1.jpeg",
+        "date": "2021-04-28"
+      }
+    ]
   },
   {
     "pokeName": "ジュナイパー",
@@ -8231,7 +8270,12 @@
   },
   {
     "pokeName": "スナバァ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "769_210502_1.jpeg",
+        "date": "2021-05-02"
+      }
+    ]
   },
   {
     "pokeName": "シロデスナ",
@@ -8506,7 +8550,12 @@
   },
   {
     "pokeName": "カミツルギ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "798_210505_1.jpeg",
+        "date": "2021-05-05"
+      }
+    ]
   },
   {
     "pokeName": "アクジキング",
@@ -8629,7 +8678,12 @@
   },
   {
     "pokeName": "サルノリ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "810_210429_1.jpeg",
+        "date": "2021-04-29"
+      }
+    ]
   },
   {
     "pokeName": "バチンキー",
@@ -9282,7 +9336,12 @@
   },
   {
     "pokeName": "パッチルドン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "881_210427_1.jpeg",
+        "date": "2021-04-27"
+      }
+    ]
   },
   {
     "pokeName": "ウオノラゴン",
@@ -9434,7 +9493,12 @@
   },
   {
     "pokeName": "レイスポス",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "897_210424_1.jpeg",
+        "date": "2021-04-24"
+      }
+    ]
   },
   {
     "pokeName": "バドレックス",
