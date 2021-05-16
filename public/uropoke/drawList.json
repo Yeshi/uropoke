@@ -192,7 +192,16 @@
   },
   {
     "pokeName": "オニスズメ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "021_210514_1.jpeg",
+        "date": "2021-05-14"
+      },
+      {
+        "file": "021_210514_2.jpeg",
+        "date": "2021-05-14"
+      }
+    ]
   },
   {
     "pokeName": "オニドリル",
@@ -2045,7 +2054,12 @@
   },
   {
     "pokeName": "ヌオー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "195_210515_1.jpeg",
+        "date": "2021-05-15"
+      }
+    ]
   },
   {
     "pokeName": "エーフィ",
@@ -2101,7 +2115,16 @@
   },
   {
     "pokeName": "ムウマ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "200_210511_1.jpeg",
+        "date": "2021-05-11"
+      },
+      {
+        "file": "200_210511_2.jpeg",
+        "date": "2021-05-11"
+      }
+    ]
   },
   {
     "pokeName": "アンノーン",
@@ -3899,7 +3922,12 @@
   },
   {
     "pokeName": "トドグラー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "364_210513_1.jpeg",
+        "date": "2021-05-13"
+      }
+    ]
   },
   {
     "pokeName": "トドゼルガ",
@@ -6516,7 +6544,12 @@
   },
   {
     "pokeName": "ギギギアル",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "601_210507_1.jpeg",
+        "date": "2021-05-07"
+      }
+    ]
   },
   {
     "pokeName": "シビシラス",
@@ -7811,11 +7844,21 @@
   },
   {
     "pokeName": "ボルケニオン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "721_210510_1.jpeg",
+        "date": "2021-05-10"
+      }
+    ]
   },
   {
     "pokeName": "モクロー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "722_210506_1.jpeg",
+        "date": "2021-05-06"
+      }
+    ]
   },
   {
     "pokeName": "フクスロー",
@@ -7872,7 +7915,12 @@
   },
   {
     "pokeName": "オシャマリ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "729_210508_1.jpeg",
+        "date": "2021-05-08"
+      }
+    ]
   },
   {
     "pokeName": "アシレーヌ",
@@ -8248,7 +8296,12 @@
   },
   {
     "pokeName": "ナゲツケサル",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "766_210512_1.jpeg",
+        "date": "2021-05-12"
+      }
+    ]
   },
   {
     "pokeName": "コソクムシ",
@@ -8971,7 +9024,12 @@
   },
   {
     "pokeName": "セキタンザン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "839_210509_1.jpeg",
+        "date": "2021-05-09"
+      }
+    ]
   },
   {
     "pokeName": "カジッチュ",
