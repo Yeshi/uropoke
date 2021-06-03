@@ -227,7 +227,12 @@
   },
   {
     "pokeName": "アーボック",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "024_210523_1.jpeg",
+        "date": "2021-05-23"
+      }
+    ]
   },
   {
     "pokeName": "ピカチュウ",
@@ -2489,7 +2494,12 @@
   },
   {
     "pokeName": "ドーブル",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "235_210516_1.jpeg",
+        "date": "2021-05-16"
+      }
+    ]
   },
   {
     "pokeName": "バルキー",
@@ -3804,7 +3814,12 @@
   },
   {
     "pokeName": "カゲボウズ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "353_210529_1.jpeg",
+        "date": "2021-05-29"
+      }
+    ]
   },
   {
     "pokeName": "ジュペッタ",
@@ -4548,7 +4563,12 @@
   },
   {
     "pokeName": "カラナクシ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "422_210528_1.jpeg",
+        "date": "2021-05-28"
+      }
+    ]
   },
   {
     "pokeName": "トリトドン",
@@ -6056,7 +6076,16 @@
   },
   {
     "pokeName": "マラカッチ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "556_210526_1.jpeg",
+        "date": "2021-05-26"
+      },
+      {
+        "file": "556_210526_2.jpeg",
+        "date": "2021-05-26"
+      }
+    ]
   },
   {
     "pokeName": "イシズマイ",
@@ -6248,7 +6277,16 @@
   },
   {
     "pokeName": "チラチーノ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "573_210601_1.jpeg",
+        "date": "2021-06-01"
+      },
+      {
+        "file": "573_210601_2.jpeg",
+        "date": "2021-06-01"
+      }
+    ]
   },
   {
     "pokeName": "ゴチム",
@@ -6339,7 +6377,12 @@
   },
   {
     "pokeName": "スワンナ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "581_210519_1.jpeg",
+        "date": "2021-05-19"
+      }
+    ]
   },
   {
     "pokeName": "バニプッチ",
@@ -7183,7 +7226,12 @@
   },
   {
     "pokeName": "ゲコガシラ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "657_210531_1.jpeg",
+        "date": "2021-05-31"
+      }
+    ]
   },
   {
     "pokeName": "ゲッコウガ",
@@ -7196,7 +7244,12 @@
   },
   {
     "pokeName": "ホルビー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "659_210520_1.jpeg",
+        "date": "2021-05-20"
+      }
+    ]
   },
   {
     "pokeName": "ホルード",
@@ -7336,7 +7389,12 @@
   },
   {
     "pokeName": "メェークル",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "672_210530_1.jpeg",
+        "date": "2021-05-30"
+      }
+    ]
   },
   {
     "pokeName": "ゴーゴート",
@@ -7402,7 +7460,12 @@
   },
   {
     "pokeName": "ヒトツキ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "679_210518_1.jpeg",
+        "date": "2021-05-18"
+      }
+    ]
   },
   {
     "pokeName": "ニダンギル",
@@ -7665,7 +7728,12 @@
   },
   {
     "pokeName": "ヌメラ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "704_210527_1.jpeg",
+        "date": "2021-05-27"
+      }
+    ]
   },
   {
     "pokeName": "ヌメイル",
@@ -7937,7 +8005,12 @@
   },
   {
     "pokeName": "ケララッパ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "732_210522_1.jpeg",
+        "date": "2021-05-22"
+      }
+    ]
   },
   {
     "pokeName": "ドデカバシ",
@@ -8980,7 +9053,12 @@
   },
   {
     "pokeName": "カムカメ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "833_210521_1.jpeg",
+        "date": "2021-05-21"
+      }
+    ]
   },
   {
     "pokeName": "カジリガメ",
@@ -9033,7 +9111,12 @@
   },
   {
     "pokeName": "カジッチュ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "840_210525_1.jpeg",
+        "date": "2021-05-25"
+      }
+    ]
   },
   {
     "pokeName": "アップリュー",
@@ -9050,7 +9133,12 @@
   },
   {
     "pokeName": "スナヘビ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "843_210524_1.jpeg",
+        "date": "2021-05-24"
+      }
+    ]
   },
   {
     "pokeName": "サダイジャ",
@@ -9239,7 +9327,12 @@
   },
   {
     "pokeName": "サニゴーン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "864_210517_1.jpeg",
+        "date": "2021-05-17"
+      }
+    ]
   },
   {
     "pokeName": "ネギガナイト",
@@ -9341,7 +9434,12 @@
   },
   {
     "pokeName": "コオリッポ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "875_210602_1.jpeg",
+        "date": "2021-06-02"
+      }
+    ]
   },
   {
     "pokeName": "イエッサン",
