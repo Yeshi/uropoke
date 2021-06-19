@@ -55,7 +55,12 @@
   },
   {
     "pokeName": "ゼニガメ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "007_210605_1.jpeg",
+        "date": "2021-06-05"
+      }
+    ]
   },
   {
     "pokeName": "カメール",
@@ -604,7 +609,12 @@
   },
   {
     "pokeName": "ガーディ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "058_210612_1.jpeg",
+        "date": "2021-06-12"
+      }
+    ]
   },
   {
     "pokeName": "ウインディ",
@@ -745,7 +755,12 @@
   },
   {
     "pokeName": "メノクラゲ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "072_210607_1.jpeg",
+        "date": "2021-06-07"
+      }
+    ]
   },
   {
     "pokeName": "ドククラゲ",
@@ -1032,7 +1047,12 @@
   },
   {
     "pokeName": "ビリリダマ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "100_210616_1.jpeg",
+        "date": "2021-06-16"
+      }
+    ]
   },
   {
     "pokeName": "マルマイン",
@@ -3757,7 +3777,12 @@
   },
   {
     "pokeName": "アノプス",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "347_210611_1.jpeg",
+        "date": "2021-06-11"
+      }
+    ]
   },
   {
     "pokeName": "アーマルド",
@@ -4267,7 +4292,12 @@
   },
   {
     "pokeName": "エンペルト",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "395_210617_1.jpeg",
+        "date": "2021-06-17"
+      }
+    ]
   },
   {
     "pokeName": "ムックル",
@@ -4397,7 +4427,12 @@
   },
   {
     "pokeName": "スボミー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "406_210618_1.jpeg",
+        "date": "2021-06-18"
+      }
+    ]
   },
   {
     "pokeName": "ロズレイド",
@@ -4489,7 +4524,12 @@
   },
   {
     "pokeName": "ミツハニー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "415_210613_1.jpeg",
+        "date": "2021-06-13"
+      }
+    ]
   },
   {
     "pokeName": "ビークイン",
@@ -5791,7 +5831,12 @@
   },
   {
     "pokeName": "ドリュウズ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "530_210614_1.jpeg",
+        "date": "2021-06-14"
+      }
+    ]
   },
   {
     "pokeName": "タブンネ",
@@ -6583,7 +6628,12 @@
   },
   {
     "pokeName": "ギギアル",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "600_210606_1.jpeg",
+        "date": "2021-06-06"
+      }
+    ]
   },
   {
     "pokeName": "ギギギアル",
@@ -7838,7 +7888,12 @@
   },
   {
     "pokeName": "オンバット",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "714_210603_1.jpeg",
+        "date": "2021-06-03"
+      }
+    ]
   },
   {
     "pokeName": "オンバーン",
@@ -7970,7 +8025,12 @@
   },
   {
     "pokeName": "ガオガエン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "727_210609_1.jpeg",
+        "date": "2021-06-09"
+      }
+    ]
   },
   {
     "pokeName": "アシマリ",
@@ -8124,7 +8184,12 @@
   },
   {
     "pokeName": "アブリボン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "743_210615_1.jpeg",
+        "date": "2021-06-15"
+      }
+    ]
   },
   {
     "pokeName": "イワンコ",
@@ -8273,7 +8338,12 @@
   },
   {
     "pokeName": "ヤトウモリ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "757_210610_1.jpeg",
+        "date": "2021-06-10"
+      }
+    ]
   },
   {
     "pokeName": "エンニュート",
@@ -8593,7 +8663,12 @@
   },
   {
     "pokeName": "コスモッグ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "789_210604_1.jpeg",
+        "date": "2021-06-04"
+      }
+    ]
   },
   {
     "pokeName": "コスモウム",
@@ -8831,7 +8906,12 @@
   },
   {
     "pokeName": "ヒバニー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "813_210608_1.jpeg",
+        "date": "2021-06-08"
+      }
+    ]
   },
   {
     "pokeName": "ラビフット",
