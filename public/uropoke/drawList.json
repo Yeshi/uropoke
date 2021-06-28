@@ -1290,7 +1290,12 @@
   },
   {
     "pokeName": "ストライク",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "123_210628_1.jpeg",
+        "date": "2021-06-28"
+      }
+    ]
   },
   {
     "pokeName": "ルージュラ",
@@ -2066,7 +2071,12 @@
   },
   {
     "pokeName": "ヤンヤンマ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "193_210625_1.jpeg",
+        "date": "2021-06-25"
+      }
+    ]
   },
   {
     "pokeName": "ウパー",
@@ -4222,7 +4232,12 @@
   },
   {
     "pokeName": "ハヤシガメ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "388_210620_1.jpeg",
+        "date": "2021-06-20"
+      }
+    ]
   },
   {
     "pokeName": "ドダイトス",
@@ -6431,7 +6446,12 @@
   },
   {
     "pokeName": "バニプッチ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "582_210619_1.jpeg",
+        "date": "2021-06-19"
+      }
+    ]
   },
   {
     "pokeName": "バニリッチ",
@@ -7088,7 +7108,12 @@
   },
   {
     "pokeName": "ビリジオン",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "640_210626_1.jpeg",
+        "date": "2021-06-26"
+      }
+    ]
   },
   {
     "pokeName": "トルネロス",
@@ -7607,7 +7632,12 @@
   },
   {
     "pokeName": "カメテテ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "688_210621_1.jpeg",
+        "date": "2021-06-21"
+      }
+    ]
   },
   {
     "pokeName": "ガメノデス",
@@ -8052,7 +8082,16 @@
   },
   {
     "pokeName": "アシレーヌ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "730_210623_1.jpeg",
+        "date": "2021-06-23"
+      },
+      {
+        "file": "730_210623_2.jpeg",
+        "date": "2021-06-23"
+      }
+    ]
   },
   {
     "pokeName": "ツツケラ",
@@ -8536,7 +8575,12 @@
   },
   {
     "pokeName": "バクガメス",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "776_210624_1.jpeg",
+        "date": "2021-06-24"
+      }
+    ]
   },
   {
     "pokeName": "トゲデマル",
@@ -9372,7 +9416,12 @@
   },
   {
     "pokeName": "ギモー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "860_210627_1.jpeg",
+        "date": "2021-06-27"
+      }
+    ]
   },
   {
     "pokeName": "オーロンゲ",
@@ -9725,7 +9774,12 @@
   },
   {
     "pokeName": "ブリザポス",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "896_210622_1.jpeg",
+        "date": "2021-06-22"
+      }
+    ]
   },
   {
     "pokeName": "レイスポス",
