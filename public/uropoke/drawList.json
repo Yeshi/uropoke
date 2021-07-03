@@ -298,7 +298,12 @@
   },
   {
     "pokeName": "ニドリーナ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "030_210701_1.jpeg",
+        "date": "2021-07-01"
+      }
+    ]
   },
   {
     "pokeName": "ニドクイン",
@@ -8703,7 +8708,12 @@
   },
   {
     "pokeName": "カプ・レヒレ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "788_210629_1.jpeg",
+        "date": "2021-06-29"
+      }
+    ]
   },
   {
     "pokeName": "コスモッグ",
@@ -9266,7 +9276,12 @@
   },
   {
     "pokeName": "サダイジャ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "844_210630_1.jpeg",
+        "date": "2021-06-30"
+      }
+    ]
   },
   {
     "pokeName": "ウッウ",
@@ -9770,7 +9785,12 @@
   },
   {
     "pokeName": "レジドラゴ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "895_210702_1.jpeg",
+        "date": "2021-07-02"
+      }
+    ]
   },
   {
     "pokeName": "ブリザポス",
