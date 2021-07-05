@@ -1979,7 +1979,12 @@
   },
   {
     "pokeName": "マリル",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "183_210703_1.jpeg",
+        "date": "2021-07-03"
+      }
+    ]
   },
   {
     "pokeName": "マリルリ",
@@ -3432,7 +3437,12 @@
   },
   {
     "pokeName": "イルミーゼ",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "314_210704_1.jpeg",
+        "date": "2021-07-04"
+      }
+    ]
   },
   {
     "pokeName": "ロゼリア",
@@ -9254,7 +9264,12 @@
   },
   {
     "pokeName": "アップリュー",
-    "drawings": []
+    "drawings": [
+      {
+        "file": "841_210705_1.jpeg",
+        "date": "2021-07-05"
+      }
+    ]
   },
   {
     "pokeName": "タルップル",
