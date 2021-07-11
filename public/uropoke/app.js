@@ -21,7 +21,7 @@ const app = new Vue({
       return count;
     },
     total: function () { return this.items.length },
-    todayItem: function(){return this.yetList()}
+    //todayItem: function(){return this.yetList()}
   },
   methods: {
     clickobj: function (index) {

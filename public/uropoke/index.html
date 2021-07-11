@@ -27,7 +27,10 @@
         >
       </div>
       <div class="contents">
+        <div class="today-item" >今日のお題：<em>全部描いたよ</em></div>
+        <!--
         <div class="today-item" v-on:click="copyText()">今日のお題：<em>{{ todayItem }}</em></div>
+        -->
         <ul class="img-list">
           <template v-for="(item, index) in items">
             <li :class="{active: isActive === index}">
